@@ -18,8 +18,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "49a26d9ab358c478",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
+          },
+          {
+            "id": "98e609466b4e3779",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-12-23 Rust Data types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-12-21 Undoing Git Mistakes.md",
+                "file": "2022-12-23 Rust Data types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-12-21 Undoing Git Mistakes.md",
+                "file": "2022-12-23 Rust Data types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-12-21 Undoing Git Mistakes.md"
+                "file": "2022-12-23 Rust Data types.md"
               }
             }
           }
@@ -146,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1fcca344f8d25f8",
+  "active": "98e609466b4e3779",
   "lastOpenFiles": [
     "2022-12-21 Undoing Git Mistakes.md",
     "README.md",
