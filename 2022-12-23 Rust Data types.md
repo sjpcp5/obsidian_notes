@@ -85,3 +85,9 @@ fn main(){
 
 main()
 ```
+
+how do we write and array or tuple out to the console???
+
+With scalar data types, a variable held a single value and we just referenced that variable and got the value back, but with compound data types we have multiple values. 
+
+There are a couple of ways we can do this? 
