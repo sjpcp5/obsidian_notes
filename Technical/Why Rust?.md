@@ -28,3 +28,5 @@ Its starting to make its way into tech industry powerhouse like Microsoft, Amazo
 Something unique to Rust if you assign a value to a variable you can't change it. Because if you intend to change the value of a variable at runtime after you've assigned a value to it, you have to explicity declare the variable as mutable, 
 
 #Ownership and Borrowing is the learning curve that new Rust Developers struggle with at first.
+
+www.rustup.rs to setup the dev environment for linux environment
