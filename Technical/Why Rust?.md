@@ -23,3 +23,8 @@ It's a good time to learn Rust because big companies are investing in Rust's fut
 
 Its starting to make its way into tech industry powerhouse like Microsoft, Amazon, Discord, Facebook, and Dropbox, to name a few.
 
+
+#Variables
+Something unique to Rust if you assign a value to a variable you can't change it. Because if you intend to change the value of a variable at runtime after you've assigned a value to it, you have to explicity declare the variable as mutable, 
+
+#Operators 
