@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8d33c475ba602f51",
@@ -170,7 +170,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d491be736e164bc8",
+  "active": "98e609466b4e3779",
   "lastOpenFiles": [
     "2022-12-21 Undoing Git Mistakes.md",
     "README.md",

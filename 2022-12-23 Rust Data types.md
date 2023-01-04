@@ -32,8 +32,16 @@ Before an array is used it must be initialized, most of the time we will initial
 #![allow(unused_variables)]
 
 fn main(){
-	let location: [f32;2]= [0.0, 0.0]
+	##declare the variable and data type then the value [41.4094069, -81.8546911]
+	let location: [f32;2]= [0.0, 0.0];
+
+	let location: [f64;10000] = 
+	
 }
 
 main()
 ```
+
+Once we have defined an array we can't change it's size
+
+The syntax for setting 
