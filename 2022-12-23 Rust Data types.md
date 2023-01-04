@@ -34,8 +34,6 @@ Before an array is used it must be initialized, most of the time we will initial
 fn main(){
 	##declare the variable and data type then the value [41.4094069, -81.8546911]
 	let location: [f32;2]= [0.0, 0.0];
-
-	let location: [f64;10000] = 
 	
 }
 
@@ -44,4 +42,46 @@ main()
 
 Once we have defined an array we can't change it's size
 
-The syntax for setting 
+The syntax for initializing a large array is very similar to how we declared and array, except rather than declaring the data type,
+we set the default value for each element in the array and then how many elements there are going to be in the array.
+
+```
+#![allow(unused_variables)]
+
+fn main(){
+
+	let location: [f64;10000] = [0.0; 10000]
+	
+}
+
+main()
+```
+
+What if we wanted the coordinates to be associated with the name of the location? An Array can't handle that, so we will use a tuple. Rust will automatically recoqnize we have different data types and adjust the data types declaration.
+
+from this 
+```
+#![allow(unused_variables)]
+
+fn main(){
+
+	let location: [f64;2] = ( "KCLE", 41.4094069; -81.8546911)
+	
+}
+
+main()
+```
+
+to this
+
+```
+#![allow(unused_variables)]
+
+fn main(){
+
+	let location: (%str, f64,f64) = ( "KCLE", 41.4094069; -81.8546911)
+	
+}
+
+main()
+```
