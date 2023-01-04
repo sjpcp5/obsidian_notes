@@ -21,5 +21,5 @@ Rust has been the number one most loved language in the Stack Overflow Developer
 
 It's a good time to learn Rust because big companies are investing in Rust's future. 
 
-Its starting to make its way into tech industry powerhouse like Microsoft, Amazon, Discord, Facebook, and Dropbox, to name a few
+Its starting to make its way into tech industry powerhouse like Microsoft, Amazon, Discord, Facebook, and Dropbox, to name a few.
 
