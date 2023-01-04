@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-12-21 Undoing Git Mistakes.md",
+                "file": "Technical/2022-12-21 Undoing Git Mistakes.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,14 +35,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-12-23 Rust Data types.md",
+                "file": "Technical/2022-12-23 Rust Data types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c07a61c08d555ea5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical/Why Rust?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -88,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-12-23 Rust Data types.md",
+                "file": "Technical/Why Rust?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-12-23 Rust Data types.md",
+                "file": "Technical/Why Rust?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-12-23 Rust Data types.md"
+                "file": "Technical/Why Rust?.md"
               }
             }
           }
@@ -170,10 +181,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98e609466b4e3779",
+  "active": "c07a61c08d555ea5",
   "lastOpenFiles": [
-    "2022-12-21 Undoing Git Mistakes.md",
+    "Technical/2022-12-23 Rust Data types.md",
+    "Technical/Why Rust?.md",
     "README.md",
+    "Technical/2022-12-21 Undoing Git Mistakes.md",
     "Untitled.canvas"
   ]
 }
