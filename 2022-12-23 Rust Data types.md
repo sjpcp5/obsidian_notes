@@ -17,3 +17,23 @@ common size C# and Java byte size 2
 
 
 #### #Compound Data types- single variable holding multiple values
+
+Arrays- multiple values of a single data type
+
+Tuples - mulitple values, but can be different data types
+
+They are both very fast at runtime but are fixed sized.
+
+latitute and longitude in degrees
+
+Before an array is used it must be initialized, most of the time we will initialize an array in line with our declaration.  
+
+```
+#![allow(unused_variables)]
+
+fn main(){
+	let location: [f32;2]= [0.0, 0.0]
+}
+
+main()
+```
