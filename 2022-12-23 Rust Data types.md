@@ -91,3 +91,17 @@ how do we write and array or tuple out to the console???
 With scalar data types, a variable held a single value and we just referenced that variable and got the value back, but with compound data types we have multiple values. 
 
 There are a couple of ways we can do this? 
+The first way is to use the index postion in the array or the tuple to tell Rust which value we want  and we do this by putting a dot after the variable
+
+```
+#![allow(unused_variables)]
+
+fn main(){
+
+	let location: (%str, f64,f64) = ( "KCLE", 41.4094069; -81.8546911)
+	println!("Location name")
+	
+}
+
+main()
+```
