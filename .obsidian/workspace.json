@@ -52,9 +52,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "be6764acef20f22f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical/Rust Strings and String Slices 20230106.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical/2022-12-23 Rust Data types.md",
+                "file": "Technical/Rust Strings and String Slices 20230106.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical/2022-12-23 Rust Data types.md",
+                "file": "Technical/Rust Strings and String Slices 20230106.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical/2022-12-23 Rust Data types.md"
+                "file": "Technical/Rust Strings and String Slices 20230106.md"
               }
             }
           }
@@ -181,10 +193,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c07a61c08d555ea5",
+  "active": "be6764acef20f22f",
   "lastOpenFiles": [
-    "Technical/Why Rust?.md",
     "Technical/2022-12-23 Rust Data types.md",
+    "Technical/Why Rust?.md",
     "README.md",
     "Technical/2022-12-21 Undoing Git Mistakes.md",
     "Untitled.canvas"

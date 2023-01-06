@@ -105,3 +105,21 @@ fn main(){
 
 main()
 ```
+
+Rule of them write the code for other developers who have to maintain it including your future self.
+So destructure the variables if you are referencing somewhere else in the code.
+Reading the names of the element or the value itself makes it a lot easier to understand what the code is doing rather than reading an index number.
+```
+#![allow(unused_variables)]
+
+fn main(){
+
+	let location: (%str, f64,f64) = ( "KCLE", 41.4094069; -81.8546911)
+	let (name:&str), latitude:f64. longitude:f64) = location;
+	println!("Location name: {}, latitude: {}, longitude: {}", name, latitude, longitude);
+	
+}
+
+main()
+
+```
