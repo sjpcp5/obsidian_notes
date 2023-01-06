@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/Why Rust?.md",
+                "file": "Technical/2022-12-23 Rust Data types.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical/Why Rust?.md",
+                "file": "Technical/2022-12-23 Rust Data types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical/Why Rust?.md",
+                "file": "Technical/2022-12-23 Rust Data types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical/Why Rust?.md"
+                "file": "Technical/2022-12-23 Rust Data types.md"
               }
             }
           }
@@ -183,8 +183,8 @@
   },
   "active": "c07a61c08d555ea5",
   "lastOpenFiles": [
-    "Technical/2022-12-23 Rust Data types.md",
     "Technical/Why Rust?.md",
+    "Technical/2022-12-23 Rust Data types.md",
     "README.md",
     "Technical/2022-12-21 Undoing Git Mistakes.md",
     "Untitled.canvas"
