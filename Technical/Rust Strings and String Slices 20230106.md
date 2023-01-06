@@ -1,3 +1,6 @@
-Strings are complex in Rust as compared to many other languages
+- Strings are complex in Rust as compared to many other languages
 
-This trade off that Rust has made to support its core principles.
+- This trade off that Rust has made to support its core principles.
+	- Speed
+	- Concurrency- 
+	- Memory Safety or Memory Management - 
