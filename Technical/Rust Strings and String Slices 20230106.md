@@ -1,3 +1,5 @@
+# Rust Topic Strings
+#Srings
 - Strings are complex in Rust as compared to many other languages
 
 - This trade off that Rust has made to support its core principles.
@@ -31,7 +33,9 @@ This is how you can convert data between the two string types.
 #![allow(unused_variables)]
 
 fn main(){
-let person_name_slice:&str = "Donald Mallard";
+let person_name_slice:&str = 
+
+"Donald Mallard";
 // create a string type and not string slice type
 // all we need to do is use the string slice to_string() method
 
