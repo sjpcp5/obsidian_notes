@@ -37,7 +37,7 @@ fn main(){
 	
 }
 
-main()
+
 ```
 
 Once we have defined an array we can't change it's size
@@ -54,7 +54,7 @@ fn main(){
 	
 }
 
-main()
+
 ```
 
 What if we wanted the coordinates to be associated with the name of the location? An Array can't handle that, so we will use a tuple. Rust will automatically recoqnize we have different data types and adjust the data types declaration.
@@ -69,7 +69,7 @@ fn main(){
 	
 }
 
-main()
+
 ```
 
 to this
@@ -83,7 +83,7 @@ fn main(){
 	
 }
 
-main()
+
 ```
 
 how do we write and array or tuple out to the console???
@@ -103,7 +103,7 @@ fn main(){
 	
 }
 
-main()
+
 ```
 
 Rule of them write the code for other developers who have to maintain it including your future self.
@@ -120,6 +120,5 @@ fn main(){
 	
 }
 
-main()
 
 ```

@@ -40,6 +40,25 @@ let person_name_slice:&str = "Donald Mallard";
 let person_name_string:&str = person_name_slice.to_string();
 }
 
-main()
+
 ```
 
+String literals are embeded in code versus being stored in the stack or on the heap but they are also a string slice. 
+If we want to assign a string literal to a type of string we need to call the to_string method on the string literal.
+
+Just one way to do it
+```
+#![allow(unused_variables)]
+
+fn main(){
+let person_name_slice:&str = "Donald Mallard";
+
+let person_name_string:&str = "Donald Mallard".to_string();
+}
+
+
+```
+ Another way we can convert a string slice is by using the String:
+```
+
+```

@@ -71,14 +71,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/Rust Strings and String Slices 20230106.md",
+                "file": "Technical/2022-12-23 Rust Data types.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -205,11 +205,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91cffcce935769f0",
+  "active": "be6764acef20f22f",
   "lastOpenFiles": [
-    "Technical/Node JS uses 20230113.md",
-    "Technical/Rust Strings and String Slices 20230106.md",
     "Technical/2022-12-23 Rust Data types.md",
+    "Technical/Rust Strings and String Slices 20230106.md",
+    "Technical/Node JS uses 20230113.md",
     "Technical/Why Rust?.md",
     "README.md",
     "Technical/2022-12-21 Undoing Git Mistakes.md",
