@@ -33,9 +33,7 @@ This is how you can convert data between the two string types.
 #![allow(unused_variables)]
 
 fn main(){
-let person_name_slice:&str = 
-
-"Donald Mallard";
+let person_name_slice:&str = "Donald Mallard";
 // create a string type and not string slice type
 // all we need to do is use the string slice to_string() method
 
@@ -44,3 +42,4 @@ let person_name_string:&str = person_name_slice.to_string();
 
 main()
 ```
+
