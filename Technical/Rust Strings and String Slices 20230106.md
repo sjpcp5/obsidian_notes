@@ -53,12 +53,32 @@ Just one way to do it
 fn main(){
 let person_name_slice:&str = "Donald Mallard";
 
-let person_name_string:&str = "Donald Mallard".to_string();
+let person_name_string:String = "Donald Mallard".to_string();
 }
 
+```
+ Another way we can create a string from a string slice is by using the String::from method
+```
+#![allow(unused_variables)]
 
-```
- Another way we can convert a string slice is by using the String:
+fn main(){
+let person_name_slice:&str = "Donald Mallard";
+
+let person_name_string:String = String::from(s:"Donald Mallard");
+}
 ```
 
+Converting a string to a string slice
 ```
+#![allow(unused_variables)]
+
+fn main(){
+let person_name_string:String = String::from(s:"Donald Mallard");
+let person_name_slice = &person_name_string;
+
+// you can also use the as_str() method
+let person_name_slice2 = person_name_string.as_str();
+}
+```
+
+When store the memory on the heap we note the address of where we stored the data then we use the pointer, which is a special variable that holds the memory address on the heap so that we can find that data late
