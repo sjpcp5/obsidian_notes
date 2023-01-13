@@ -1,4 +1,5 @@
-
+# Node
+#Node
 Node is ideal for I/0 intensive apps 
 Like building applications that require alot of disk or network access
 because you serve the amount of clients without the need to throw in more hardware. Which means Node applicaions are highly scalable.
