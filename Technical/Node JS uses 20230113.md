@@ -1,4 +1,4 @@
-# Node
+# Node JS uses
 #Node
 Node is ideal for I/0 intensive apps 
 Like building applications that require alot of disk or network access

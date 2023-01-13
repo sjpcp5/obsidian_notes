@@ -1,4 +1,4 @@
-# Rust Topic Strings
+# Rust Topic: Strings
 #Srings
 - Strings are complex in Rust as compared to many other languages
 

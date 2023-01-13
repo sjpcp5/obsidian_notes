@@ -1,4 +1,4 @@
-# Rust Data Types booleans
+# Rust Topic: Data Type booleans
 Rust if your code compiles you can have no worries running into issues. 
 
 #### #Characters and booleans true or false

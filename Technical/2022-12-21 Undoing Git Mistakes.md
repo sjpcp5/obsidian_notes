@@ -1,4 +1,4 @@
-
+# Undoing Git Mistakes
 #### Editing old commit messages
 how far back in time do I want to go? how many commit messages back?
 Go back as far as the parent of the commit message
