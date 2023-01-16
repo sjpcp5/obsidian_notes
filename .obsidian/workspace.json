@@ -71,7 +71,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/Rust String Concatination 20230113.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4449243a92fdca46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical/Rust String Concatination 20230113.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical/Rust String Concatination 20230113.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical/Rust String Concatination 20230113.md"
+                "file": "README.md"
               }
             }
           }
@@ -217,14 +229,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9561c0ea1f0e5f5b",
+  "active": "719f7b86fbd0f0ab",
   "lastOpenFiles": [
+    "Hobbies/DnD/Akira/2023 Jan 15 DnD.md",
+    "README.md",
+    "Technical/Rust String Concatination 20230113.md",
     "Technical/Rust Strings and String Slices 20230106.md",
     "Technical/2022-12-23 Rust Data types.md",
     "Technical/Node JS uses 20230113.md",
     "Technical/2022-12-21 Undoing Git Mistakes.md",
     "Technical/Why Rust?.md",
-    "README.md",
     "Untitled.canvas"
   ]
 }
