@@ -56,21 +56,24 @@ console.log(drone instanceof Drone);
 - Keep the class simple and be able to test easily
 - Normally we don't wanna do any heavy processing in a constructor.
 - We want to create instance variables
-- We `this.` keyword to 
+- We `this.` keyword to refer to the instance being created
+- 
 ```
+// This is a very familiar pattern, you pass info into the constructor and you //save it on the instance variable this
 class Drone {
 
-constructor(id, name){
-
-console.log(id + '' + name)
-
-}
+	constructor(id, name){
+	// id and name are going to be attached to the instance drone
+		this.id = id;
+		this.name = name;
+	}
 
 }
 
 let drone = new Drone('A123', 'Flyer');
 
 console.log(drone instanceof Drone);
+console.log('drone: ' + drone['id'] + ' ' + drone['name']);
 ```
 
 #### Static Properties
