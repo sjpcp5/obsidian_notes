@@ -37,6 +37,7 @@
 #### Methods
 
 #### Static Methods
-- Static methods belong direc
+- Static methods belong directly on a class not on an instance
 
-#### 
+#### Getters and Setters
+- Getters and setters let us execute some code when we access or set a property,
