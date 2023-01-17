@@ -29,6 +29,8 @@
 #### Defining Classes
 - Representation or sometimes an abstraction
 - commonly known as a model
+- A classs is not an object and can be thought of as a blueprint. This is where most of the programming happens.
+- The class contains properities like amt of flight time left for a drone, the number of rotors, the maximum speed of the drone
 
 #### Classes
 
