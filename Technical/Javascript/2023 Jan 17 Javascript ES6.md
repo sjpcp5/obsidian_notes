@@ -131,7 +131,7 @@ console.log(drone.maxHeight);
 
 #### Methods
 * A method is a function that gets attached to the instance
-* when working with the instance of class you need to use the keyword
+* when working with the instance of class you need to always use the `this` keyword with a property name  example `this.id`
 
 ```
 class Drone {
@@ -158,6 +158,61 @@ drone2.fly();
 
 #### Static Methods
 - Static methods belong directly on a class not on an instance
+- Static methods can't access instance variables or properties 
 
+```
+class Drone {
+
+	constructor(id, name){
+		this.id = id;
+		this.name = name;
+	}
+	static getCompany(){
+		console.log('in getCompany')
+	}
+	
+	fly(){
+	// remember we need to access the instance by using the this keyword //otherwise id will be undefined
+		console.log('Drone ' + this.id + ' is flying');
+	}
+
+}
+
+let drone = new Drone('A123', 'Flyer');
+let drone2 = new Drone('B456', 'Twirl');
+
+// correct way of calling a static class
+Drone.getCompany();
+// incorrect way of calling a static class
+drone.getCompany();
+```
+
+
+If we tried to call a property using `this.id `in static `getCompany()` we would get undefined
+```
+class Drone {
+
+	constructor(id, name){
+		this.id = id;
+		this.name = name;
+	}
+	static getCompany(){
+		console.log(this.id)
+	}
+	
+	fly(){
+	// remember we need to access the instance by using the this keyword //otherwise id will be undefined
+		console.log('Drone ' + this.id + ' is flying');
+	}
+
+}
+
+let drone = new Drone('A123', 'Flyer');
+let drone2 = new Drone('B456', 'Twirl');
+
+// correct way of calling a static class
+Drone.getCompany();
+
+```
 #### Getters and Setters
 - Getters and setters let us execute some code when we access or set a property,
