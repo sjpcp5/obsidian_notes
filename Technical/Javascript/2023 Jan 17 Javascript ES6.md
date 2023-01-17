@@ -245,6 +245,7 @@ console.log('drone id: ' + drone.id);
 ```
 
 - We can also have setters 
+-  Just like a getter a **setter** is used to execute an function when we set a value. So we can have any kind of error checking, validation, or change the data on how we want.
 
 ```
 class Drone {
@@ -258,13 +259,23 @@ class Drone {
 		console.log('in id getter');
 		return this._id + ' TEMPORARY';
 	}
-	set id(value) 
+	set id(value){
+		this._id = value
+	}
 
 }
 
 let drone = new Drone('A123')
+drone.id = 'B456';
 console.log('drone id: ' + drone.id);
 
 
 
 ```
+**results in**
+```
+in id getter
+drone id: B456 TEMPORARY
+```
+
+- 
