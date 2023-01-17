@@ -13,3 +13,9 @@
 	- Create a title bar class to show the title bar
 	- Create a class to create a data grid
 	- Create a class to work with google maps
+
+### Dev environment
+- In the Browser Chrome or Firefox: Use F12 to open dev tools and to refresh
+- To support older browsers we need to be working with transpilers and polyfills
+- To check compatibility use Kangax.github.io : http://kangax.github.io/compat-table/es6/ 
+- 
