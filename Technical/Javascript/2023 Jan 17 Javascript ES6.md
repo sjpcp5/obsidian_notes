@@ -77,6 +77,29 @@ console.log('drone: ' + drone['id'] + ' ' + drone['name']);
 ```
 
 #### Static Properties
+- It's very important to understand the difference between instance variables at the instance level those would instance properties  or properties at the class level. which are called class properties.
+- Each instance of drone will have its own set of properties
+- We can have a 
+
+```
+
+class Drone {
+
+	constructor(id, name){
+	// id and name are going to be attached to the instance drone
+		this.id = id;
+		this.name = name;
+	}
+
+}
+
+let drone = new Drone('A123', 'Flyer');
+let drone2 = new Drone('B456', 'Twirl');
+
+console.log(drone instanceof Drone);
+console.log('drone: ' + drone['id'] + ' ' + drone['name']);
+console.log(drone.id + ' ' + drone2.id);
+```
 
 #### Methods
 
