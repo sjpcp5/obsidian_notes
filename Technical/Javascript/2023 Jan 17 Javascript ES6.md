@@ -30,9 +30,18 @@
 - Representation or sometimes an abstraction
 - commonly known as a model
 - A classs is not an object and can be thought of as a blueprint. This is where most of the programming happens.
-- The class contains properities like amt of flight time left for a drone, the number of rotors, the maximum speed of the drone
+- The class contains properities like amt of flight time left for a drone, the number of rotors, the maximum speed of the drone, and it's current GPS.
+- The class can also contain actions to perform. We can program methods that would send it to a given GPS coordinate, start or stop the rotors.
 
-#### Classes
+#### Classes Creation
+- always use captilize your class by using pascal casing
+```
+class Drone {
+// details here
+}
+// new keyword of a new instance 
+let drone = new Drone();
+```
 
 #### Constructors and Properties
 
