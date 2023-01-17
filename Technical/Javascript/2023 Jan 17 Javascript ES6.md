@@ -221,18 +221,44 @@ Drone.getCompany();
 - How to make javascript variables private with closures:  https://dev.to/somedood/emulating-private-variables-in-javascript-with-closures-and-factory-functions-2314
 - There are no private variables in classes yet...
 - We want to create a new property that behaves somewhat like a function 
+- This getter example is for validation, logging, or any case where you need to execute a function when all you need is a property.
 ```
 class Drone {
 
 	constructor(id){
 		this._id = id;
 	}
-
+// get id() looks like a function but it's not we can access //it like a property as in drone.id without closing and //opening parenthesis
 	get id(){
 		// you can do validation, checking or alter the result here
-		console
-		return this._id;
+		console.log('in id getter');
+		return this._id + ' TEMPORARY';
 	}
+
+}
+
+let drone = new Drone('A123')
+console.log('drone id: ' + drone.id);
+
+
+
+```
+
+- We can also have setters 
+
+```
+class Drone {
+
+	constructor(id){
+		this._id = id;
+	}
+// get id() looks like a function but it's not we can access //it like a property as in drone.id without closing and //opening parenthesis
+	get id(){
+		// you can do validation, checking or alter the result here
+		console.log('in id getter');
+		return this._id + ' TEMPORARY';
+	}
+	set id(value) 
 
 }
 
