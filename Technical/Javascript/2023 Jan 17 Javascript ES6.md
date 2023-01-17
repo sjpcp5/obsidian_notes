@@ -107,9 +107,9 @@ console.log(drone.maxHeight);
 
 ```
 
-This below adding the following will add the maxHeight property to the instance.
+
 - **Recap** instance properties only get placed on the instance of the class when it gets instantiated and created as an object.
-- We also add properties to the class itself
+- We also add properties to the class itself aka Static properties
 ```
 class Drone {
 
@@ -130,6 +130,31 @@ console.log(drone.maxHeight);
 ```
 
 #### Methods
+* A method is a function that gets attached to the instance
+* when working with the instance of class you need to use the keyword
+
+```
+class Drone {
+
+	constructor(id, name){
+		this.id = id;
+		this.name = name;
+	}
+	fly(){
+	// remember we need to access the instance by using the this keyword //otherwise id will be undefined
+		console.log('Drone ' + this.id + ' is flying');
+	}
+
+}
+
+let drone = new Drone('A123', 'Flyer');
+let drone2 = new Drone('B456', 'Twirl');
+
+// call the method as an instance
+drone.fly();
+drone2.fly();
+
+```
 
 #### Static Methods
 - Static methods belong directly on a class not on an instance
