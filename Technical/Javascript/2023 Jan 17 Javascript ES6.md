@@ -218,8 +218,9 @@ Drone.getCompany();
 #### Getters and Setters
 - Getters and setters let us execute some code when we access or set a property,
 -  When a variable begins with an underscore its a convention that usually means it's private. It's a variable that symbolizes it should not be toyed with
-- How to make variables https://dev.to/somedood/emulating-private-variables-in-javascript-with-closures-and-factory-functions-2314
+- How to make javascript variables private with closures:  https://dev.to/somedood/emulating-private-variables-in-javascript-with-closures-and-factory-functions-2314
 - There are no private variables in classes yet...
+- We want to create a new property that behaves somewhat like a function 
 ```
 class Drone {
 
@@ -227,9 +228,16 @@ class Drone {
 		this._id = id;
 	}
 
+	get id(){
+		// you can do validation, checking or alter the result here
+		console
+		return this._id;
+	}
+
 }
 
 let drone = new Drone('A123')
+console.log('drone id: ' + drone.id);
 
 
 
