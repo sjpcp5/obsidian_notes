@@ -27,6 +27,8 @@
 #### What is a Module ?
 
 #### Defining Classes
+- Representation or sometimes an abstraction
+- commonly known as a model
 
 #### Classes
 
