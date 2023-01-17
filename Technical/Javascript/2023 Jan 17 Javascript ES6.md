@@ -18,4 +18,25 @@
 - In the Browser Chrome or Firefox: Use F12 to open dev tools and to refresh
 - To support older browsers we need to be working with transpilers and polyfills
 - To check compatibility use Kangax.github.io : http://kangax.github.io/compat-table/es6/ 
-- Typscript/Babel Compiler
+- Typscript/Babel Compiler Transpliers on't allow subclassing
+- Rapid ES6 Training pluralsight course to quickly get up to speed with ES6
+
+### Class Basics
+- Classes are fundamental to object-oriented programing
+- Think of a class as a blue print or a stamp in order to stamp out objects and create objects
+#### What is a Module ?
+
+#### Defining Classes
+
+#### Classes
+
+#### Constructors and Properties
+
+#### Static Properties
+
+#### Methods
+
+#### Static Methods
+- Static methods belong direc
+
+#### 
