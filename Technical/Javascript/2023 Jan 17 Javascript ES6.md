@@ -79,7 +79,7 @@ console.log('drone: ' + drone['id'] + ' ' + drone['name']);
 #### Static Properties
 - It's very important to understand the difference between instance variables at the instance level those would instance properties  or properties at the class level. which are called class properties.
 - Each instance of drone will have its own set of properties
-- We can have a 
+- We can have properties directly on Drone the class these are *static properties* or *class properties*
 
 ```
 
@@ -90,6 +90,8 @@ class Drone {
 		this.id = id;
 		this.name = name;
 	}
+	// put a property directly on drone below here
+	Drone.maxHeight = 2000
 
 }
 
@@ -99,6 +101,32 @@ let drone2 = new Drone('B456', 'Twirl');
 console.log(drone instanceof Drone);
 console.log('drone: ' + drone['id'] + ' ' + drone['name']);
 console.log(drone.id + ' ' + drone2.id);
+console.log(Drone.maxHeight);
+// there is currently not a maxHeight on the instance // only on the class. So the following won't work its // undefined
+console.log(drone.maxHeight);
+
+```
+
+This below adding the following will add the maxHeight property to the instance.
+- **Recap** instance properties only get placed on the instance of the class when it gets instantiated and created as an object.
+- We also add properties to the class itself
+```
+class Drone {
+
+	constructor(id, name){
+		this.id = id;
+		this.name = name;
+	}
+	Drone.maxHeight = 2000
+
+}
+
+let drone = new Drone('A123', 'Flyer');
+let drone2 = new Drone('B456', 'Twirl');
+
+console.log(Drone.maxHeight);
+// there is currently not a maxHeight on the instance // only on the class. So the following won't work its // undefined
+console.log(drone.maxHeight);
 ```
 
 #### Methods
