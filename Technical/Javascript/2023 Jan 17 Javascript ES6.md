@@ -278,4 +278,4 @@ in id getter
 drone id: B456 TEMPORARY
 ```
 
-- 
+- By setting `drone.id = 'B456'` our setter `set id(value)` was invoked and `this._id` was set to the new value. And when we logged out ``
