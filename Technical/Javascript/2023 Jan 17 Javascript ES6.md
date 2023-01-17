@@ -8,5 +8,8 @@
 	- Having a data service keeps things simple and easy to test and won't have your data scattered all throughout your source code.
 - Business Objects - This is where we create classes to model the user interface
 	- we will create a button class to use buttons such as `SELF DRIVING CARS` & `DRONES`
-	- We will be using Material Design Lite (similar to B)
-	- 
+	- We will be using Material Design Lite *(interface user framework similar to Bootstrap)*
+	- Create an image class to show images
+	- Create a title bar class to show the title bar
+	- Create a class to create a data grid
+	- Create a class to work with google maps
