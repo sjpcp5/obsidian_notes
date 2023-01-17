@@ -4,105 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2a5cfc35eed44f7f",
+        "id": "6432bebaee73bc90",
         "type": "tabs",
         "children": [
           {
-            "id": "f1fcca344f8d25f8",
+            "id": "50894fc1aa439fd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/2022-12-21 Undoing Git Mistakes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49a26d9ab358c478",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
-          },
-          {
-            "id": "98e609466b4e3779",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technical/2022-12-23 Rust Data types.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c07a61c08d555ea5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technical/2022-12-23 Rust Data types.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be6764acef20f22f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technical/Rust Strings and String Slices 20230106.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9561c0ea1f0e5f5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4449243a92fdca46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hobbies/DnD/Akira/2023 Jan 15 DnD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91cffcce935769f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technical/2022-12-23 Rust Data types.md",
+                "file": "Technical/Javascript/2023 Jan 17 Javascript ES6.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hobbies/DnD/Akira/2023 Jan 15 DnD.md",
+                "file": "Technical/Javascript/2023 Jan 17 Javascript ES6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hobbies/DnD/Akira/2023 Jan 15 DnD.md",
+                "file": "Technical/Javascript/2023 Jan 17 Javascript ES6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hobbies/DnD/Akira/2023 Jan 15 DnD.md"
+                "file": "Technical/Javascript/2023 Jan 17 Javascript ES6.md"
               }
             }
           }
@@ -229,16 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4449243a92fdca46",
+  "active": "50894fc1aa439fd3",
   "lastOpenFiles": [
+    "Technical/Git/2022-12-21 Undoing Git Mistakes.md",
+    "Technical/Rust/2022-12-23 Rust Data types.md",
+    "Technical/Rust/Rust Strings and String Slices 20230106.md",
     "README.md",
     "Hobbies/DnD/Akira/2023 Jan 15 DnD.md",
-    "Technical/Rust String Concatination 20230113.md",
-    "Technical/Rust Strings and String Slices 20230106.md",
-    "Technical/2022-12-23 Rust Data types.md",
-    "Technical/Node JS uses 20230113.md",
-    "Technical/2022-12-21 Undoing Git Mistakes.md",
-    "Technical/Why Rust?.md",
+    "Technical/Rust/Rust String Concatination 20230113.md",
+    "Technical/Node/Node JS uses 20230113.md",
+    "Technical/Rust/Why Rust?.md",
     "Untitled.canvas"
   ]
 }
