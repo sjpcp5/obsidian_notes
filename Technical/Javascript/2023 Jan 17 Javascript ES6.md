@@ -53,6 +53,25 @@ let drone = new Drone();
 console.log(drone instanceof Drone);
 ```
 #### Constructors and Properties
+- Keep the class simple and be able to test easily
+- Normally we don't wanna do any heavy processing in a constructor.
+- We want to create instance variables
+- We `this.` keyword to 
+```
+class Drone {
+
+constructor(id, name){
+
+console.log(id + '' + name)
+
+}
+
+}
+
+let drone = new Drone('A123', 'Flyer');
+
+console.log(drone instanceof Drone);
+```
 
 #### Static Properties
 
