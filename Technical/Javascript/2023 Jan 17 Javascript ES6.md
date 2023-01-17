@@ -278,4 +278,16 @@ in id getter
 drone id: B456 TEMPORARY
 ```
 
-- By setting `drone.id = 'B456'` our setter `set id(value)` was invoked and `this._id` was set to the new value. And when we logged out ``
+- By setting `drone.id = 'B456'` our setter `set id(value)` was invoked and `this._id` was set to the new value. And when we console logged out `drone.id` it needed to execute the getter function for id in order to print it out. So this is why we got `B456 TEMPORARY`.
+	- Remember the underscore in front of  `id` is just a convention and it's not required at all.
+	- But normally when you see a underscore before a variable in a class you can think of it as private and thats probaly what the programmer intended like below: 
+```
+class Drone {
+
+	constructor(id){
+		this._id = id;
+	}
+}
+```
+
+A module can be simply a file.
