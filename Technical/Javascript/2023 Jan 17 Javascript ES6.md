@@ -188,7 +188,8 @@ drone.getCompany();
 ```
 
 
-If we tried to call a property using `this.id `in static `getCompany()` we would get undefined
+- If we tried to call a property using `this.id `in static `getCompany()` we would get undefined because it doesn't exist on class Drone. It only exists on drone instances.
+* Be aware if a method belongs as a static method or as an instance of the class which would not use the static keyword.
 ```
 class Drone {
 
@@ -216,3 +217,20 @@ Drone.getCompany();
 ```
 #### Getters and Setters
 - Getters and setters let us execute some code when we access or set a property,
+-  When a variable begins with an underscore its a convention that usually means it's private. It's a variable that symbolizes it should not be toyed with
+- How to make variables https://dev.to/somedood/emulating-private-variables-in-javascript-with-closures-and-factory-functions-2314
+- There are no private variables in classes yet...
+```
+class Drone {
+
+	constructor(id){
+		this._id = id;
+	}
+
+}
+
+let drone = new Drone('A123')
+
+
+
+```
