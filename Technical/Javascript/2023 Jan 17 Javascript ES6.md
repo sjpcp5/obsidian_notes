@@ -43,6 +43,15 @@ class Drone {
 let drone = new Drone();
 ```
 
+```
+class Drone {
+
+}
+
+let drone = new Drone();
+// this will tell us at runtime that whether a variable or not is an instance of //a class
+console.log(drone instanceof Drone);
+```
 #### Constructors and Properties
 
 #### Static Properties
