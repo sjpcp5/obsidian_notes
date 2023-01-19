@@ -84,6 +84,7 @@ let c = new Car();
 console.log(c instanceof Vehicle);
 ```
 #### passing arguments into constructors to inherit
+- we can store the license number on Car but we want it to be accessible on all vehicles. In order to do that the example below passes the license number through super to the constructor in Vehicle.
 ```
 class Vehicle {
 	constructor(licenseNum){
@@ -92,33 +93,47 @@ class Vehicle {
 	}
 }
 
-  
+class Drone extends Vehicle {
+
+}
+
+class Car extends Vehicle {
+
+			//derived constructor must call super it makes sure //vehicle's contructor gets called first.
+
+	constructor(licenseNum){
+		super(licenseNum);
+	}
+}
+
+let c = new Car('A123');
+
+console.log(c instanceof Vehicle);
+
+console.log(c.licenseNum);
+```
+
+```
+class Vehicle {
+	constructor(){
+		this.gpsEnabled = true;
+
+	}
+}
 
 class Drone extends Vehicle {
 
 }
 
-  
-
 class Car extends Vehicle {
 
-//derived constructor must call super it makes sure vehicle's contructor gets called first.
-
-constructor(licenseNum){
-
-super(licenseNum);
-
+	constructor(){
+		super();
+		this.gpsEnabled = false;
+	}
 }
 
-}
+let c = new Car();
 
-  
-
-let c = new Car('A123');
-
-  
-
-console.log(c instanceof Vehicle);
-
-console.log(c.licenseNum);
+console.log(c.gpsEnabled);
 ```
