@@ -112,7 +112,36 @@ console.log(c instanceof Vehicle);
 
 console.log(c.licenseNum);
 ```
+#### In creating properties in classes and derived classes remember super() is always before this otherwise error messages.
 
+```
+class Vehicle {
+	constructor(){
+		this.gpsEnabled = true;
+
+	}
+}
+
+class Drone extends Vehicle {
+
+}
+
+class Car extends Vehicle {
+
+	constructor(){
+		super();
+		this.gpsEnabled = false;
+	}
+}
+
+let c = new Car();
+
+console.log(c.gpsEnabled);
+```
+
+#### Methods with Inheritance
+- In constructors super() always had to be called first
+- In methods when overriding 
 ```
 class Vehicle {
 	constructor(){
