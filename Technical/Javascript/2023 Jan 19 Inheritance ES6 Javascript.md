@@ -141,12 +141,12 @@ console.log(c.gpsEnabled);
 
 #### Methods with Inheritance
 - In constructors super() always had to be called first
-- In methods when overriding 
+- In methods when overriding a method or calling a base method super() can be called last or after the log statement. This swtiches the order of the log messages to be called.
+- ![[Pasted image 20230119174320.png]]
 ```
 class Vehicle {
-	constructor(){
-		this.gpsEnabled = true;
-
+	start(){
+		console.log('staring Vehicle')
 	}
 }
 
@@ -155,14 +155,41 @@ class Drone extends Vehicle {
 }
 
 class Car extends Vehicle {
-
-	constructor(){
-		super();
-		this.gpsEnabled = false;
+	start(){
+		console.log('staring Car')
+		super.start();
+	}
+}
+let c = new Car();
+c.start();
+```
+#### Static methods
+- static methods get inherited in a similar way to normal methods that are used on instances
+- 
+```
+class Vehicle {
+	start(){
+		console.log('staring Vehicle')
+	}
+	static getCompany(){
+		console.log('My Company')
 	}
 }
 
-let c = new Car();
+class Drone extends Vehicle {
 
-console.log(c.gpsEnabled);
+}
+
+class Car extends Vehicle {
+	start(){
+		console.log('staring Car')
+		super.start();
+	}
+		static getCompany(){
+		super.getCompanyName
+		console.log('My other Company')
+	}
+}
+let c = new Car();
+Car.getCompanyName
 ```
