@@ -165,7 +165,7 @@ c.start();
 ```
 #### Static methods
 - static methods get inherited in a similar way to normal methods that are used on instances
-- 
+- static methods must be used directly on the class name itself such as Car or Vehicle
 ```
 class Vehicle {
 	start(){
