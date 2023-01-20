@@ -193,3 +193,9 @@ class Car extends Vehicle {
 let c = new Car();
 Car.getCompanyName
 ```
+
+#### For organization
+- create a folder for classes under src
+- create a file for each class if the class longer than one word use snake case example: *self-driving-car.js*
+- class name in the file needs to be pascal case and the Vehicle class needs to be imported into each derived class like Drone and Car.
+- the derived classes need to be exported Drone and Car 
