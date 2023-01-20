@@ -198,4 +198,24 @@ Car.getCompanyName
 - create a folder for classes under src
 - create a file for each class if the class longer than one word use snake case example: *self-driving-car.js*
 - class name in the file needs to be pascal case and the Vehicle class needs to be imported into each derived class like Drone and Car.
-- the derived classes need to be exported Drone and Car 
+- the derived classes need to be exported example:
+```
+import { Vehicle } from './vehicle.js'
+
+export class Drone extends Vehicle{
+}
+```
+* the app.js file will look like this
+```
+import { Car } from './classes/car.js';
+
+import { Drone } from './classes/drone.js';
+
+let c = new Car();
+let d = new Drone();
+
+console.log(c);
+console.log(d);
+```
+Screenshot of folder structure and Vehicle class
+![[Pasted image 20230119180734.png]] 
