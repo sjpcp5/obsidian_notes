@@ -82,6 +82,21 @@ export let fleet = [
 ```
  
 #### Constructors
+- _Instantiation_ is **the creation of a real instance or particular realization of an abstraction or template**, such as a class of objects or a computer process.
+```
+import { Car } from './classes/car.js';
+import { Drone } from './classes/drone.js';
+import {fleet} from './fleet-data.js'
+import { FleetDataService } from './services/fleet-data-service.js';
+
+//instanitiate the data service  
+let dataService = new FleetDataService();
+
+dataService.loadData(fleet);
+
+console.log(dataService.cars);
+```
+
 #### Instanitiaing Objects
 	-Arrays
 #### Handling Errors 
