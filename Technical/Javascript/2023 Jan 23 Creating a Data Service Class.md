@@ -83,6 +83,7 @@ export let fleet = [
  
 #### Constructors
 - _Instantiation_ is **the creation of a real instance or particular realization of an abstraction or template**, such as a class of objects or a computer process.
+- in the file `app.js` instantiate the data service
 ```
 import { Car } from './classes/car.js';
 import { Drone } from './classes/drone.js';
@@ -95,6 +96,36 @@ let dataService = new FleetDataService();
 dataService.loadData(fleet);
 
 console.log(dataService.cars);
+```
+- Next we will parse the fleet data object in the `FleetDataService` in order to organize it, validating the data and seeting up methods to query it, sort it and filter it.
+- In the file `fleet-data-service.js` 
+```
+// cars and drones collection the purpose is to manage them from the
+// data feed
+
+import {Car} from '../classes/car.js';
+import {Drone} from '../classes/drone.js';
+
+export class FleetDataService {
+	constructor(){
+		this.cars = [];
+		this.drones = [];
+	}
+	loadData(fleet){
+		for (let data of fleet){
+			switch(data.type){
+				case 'car':
+					this.cars.push(data);
+					break;
+				case 'drone':
+					this.drones.push(data);
+					break;
+			}
+
+}
+
+}
+};
 ```
 
 #### Instanitiaing Objects
