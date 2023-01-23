@@ -2,8 +2,20 @@
 
 - The data service class
 	 - retrieving information
+	 - create file `fleet-data-service.js`
 ```
+// cars and drones collection the purpose is to manage them from the
+// data feed
 
+import {Car} from '../classes/car.js';
+import {Drone} from '../classes/drone.js';
+
+export class FleetDataService {
+	constructor(){
+		this.cars = [];
+		this.drones = [];
+	}
+};
 ```
 
 - Data in JSON file
