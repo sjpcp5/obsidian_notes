@@ -125,7 +125,29 @@ export class FleetDataService {
 	}
 };
 ```
-- add constructors to the `Vehicle` class in the `Vehicle.js` file
+- add constructor to the `Vehicle` class in the `Vehicle.js` file
+-  add the common properties license, model, latlong
+```
+export class Vehicle {
+	constructor(license, model, latlong){
+		this.license = license;
+		this.model = model;
+		this.latlong = latlong;
+	}
+}
+```
+-  add a constructor to the drone class
+```
+import { Vehicle } from './vehicle.js'
+
+export class Drone extends Vehicle{
+	constuctor(license, model, latlong){
+		super(license, model, latlong);
+		this.airTimeHours = null;
+		this.base = null;
+	}
+}
+```
 #### Instanitiaing Objects
 	-Arrays
 #### Handling Errors 
