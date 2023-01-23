@@ -99,10 +99,10 @@ console.log(dataService.cars);
 ```
 - Next we will parse the fleet data object in the `FleetDataService` in order to organize it, validating the data and seeting up methods to query it, sort it and filter it.
 - In the file `fleet-data-service.js` 
+	- `fleet` is a big array and we can loop through it with `for of` statement
+	- set a variable called `data` bc we don't know if its a car or drone
+	- we will use a switch statement to check the `type`
 ```
-// cars and drones collection the purpose is to manage them from the
-// data feed
-
 import {Car} from '../classes/car.js';
 import {Drone} from '../classes/drone.js';
 
@@ -121,13 +121,11 @@ export class FleetDataService {
 					this.drones.push(data);
 					break;
 			}
-
-}
-
-}
+		}
+	}
 };
 ```
-
+- add constructors to the `Vehicle` class in the `Vehicle.js` file
 #### Instanitiaing Objects
 	-Arrays
 #### Handling Errors 
