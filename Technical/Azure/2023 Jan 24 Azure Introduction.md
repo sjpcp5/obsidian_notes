@@ -24,6 +24,7 @@
 	- management groups 
 	- pricing model is flexiable
 	- additional costs
+
 #### A few things in Azure
 - manage identity 
 - network groups
@@ -39,4 +40,7 @@
 - dev ops
 - migration tools
 - administration of Azure
-- 
+- cost management and projections
+	- cost alerts we don't want to spend past $5000 so you set an alert when hit 50%
+	- itemized list
+- Azure provides a securtity overview che
