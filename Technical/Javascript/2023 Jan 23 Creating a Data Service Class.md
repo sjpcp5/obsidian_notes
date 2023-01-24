@@ -162,6 +162,8 @@ export class Drone extends Vehicle{
 }
 
 ```
+#### Instanitiaing Objects
+	-Arrays
 - in the file `app.js` loop through the cars and drone array using `for of`  statement and a local varible to represent each unique object in the specific arrays
 * don't add a semi-colon after the `for of ` statement that will give you an undefined error and will make the local variable unreachable in the scope.
 _working example below_
@@ -188,9 +190,13 @@ for (let drone of dataService.drones)
 console.log( drone.license, 'drones');
 ```
 
-
-
 #### Handling Errors 
+	- When working with data feeds they're usually prone to errors and your going to get values your don't expect or maybe entire objects
 	- create an error class
 	- validate data
+	- create an array to store errors in the `fleet-data-service` class constructor
+	- when we find an error we want to continue processing the data feed that way the user of the  will have the option to check the errors or ignore them and work with the data that did load properly
+```
+
+```
 #### Methods to filter data
