@@ -191,12 +191,72 @@ console.log( drone.license, 'drones');
 ```
 
 #### Handling Errors 
-	- When working with data feeds they're usually prone to errors and your going to get values your don't expect or maybe entire objects
-	- create an error class
-	- validate data
-	- create an array to store errors in the `fleet-data-service` class constructor
-	- when we find an error we want to continue processing the data feed that way the user of the  will have the option to check the errors or ignore them and work with the data that did load properly
+- When working with data feeds they're usually prone to errors and your going to get values your don't expect or maybe entire objects
+###### Next steps
+- create an error class
+- validate data
+- create an array to store errors in the `fleet-data-service` class constructor
+- when we find an error we want to continue processing the data feed that way the user of the  will have the option to check the errors or ignore them and work with the data that did load properly
+```
+import {Car} from '../classes/car.js';
+import {Drone} from '../classes/drone.js';
+
+export class FleetDataService {
+	constructor(){
+		this.cars = [];
+		this.drones = [];
+		// as we get errors we will dump them in this array
+		this.errors = [];
+	}
+```
+- create a DataError class its a simple class holding message and the data error
+```
+export class DataError{
+	constructor(message, data){
+		this.message = message;
+		this.data = data;
+	}
+}
+```
+- import DataError into the `fleet-data-service.js`
+- looking at this file one thing can go wrong if 
+```
+import {Car} from '../classes/car.js';
+import {Drone} from '../classes/drone.js';
+import { DataError } from './data-error.js';
+
+export class FleetDataService {
+	constructor(){
+		this.cars = [];
+		this.drones = [];
+		// as we get errors we will dump them in this array
+		this.errors = [];
+	}
+		loadData(fleet){
+		for (let data of fleet){
+			switch(data.type){
+				case 'car':
+					this.cars.push(data);
+					break;
+				case 'drone':
+					this.drones.push(data);
+					break;
+			}
+		}
+	}
+	loadCar(car){
+		let c = new Car(car.license, car.model, car.latlong);
+		c.miles = car.miles;
+		c.make = car.make;
+		return c;
+	};
+	loadDrone(drone){
+		let d = new Drone(drone.license, drone.model, drone.latlong);
+		d.airTimeHours = drone.airTimeHours;
+		d.base = drone.base;
+		return d;
+	};
+};
 ```
 
-```
 #### Methods to filter data
