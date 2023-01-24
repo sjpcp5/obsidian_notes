@@ -319,5 +319,29 @@ export class FleetDataService {
 		return null;
 	};
 };
+
 ```
+- lets loop through the error messages in app.js and change a value in feet-data.js so we'll produce an error.  Remove the 'd' from "drone" and save.
+```
+import { Car } from './classes/car.js';
+import { Drone } from './classes/drone.js';
+import {fleet} from './fleet-data.js'
+import {FleetDataService} from './services/fleet-data-service.js';
+
+let dataService = new FleetDataService();
+dataService.loadData(fleet);
+
+// for of statement for cars
+for (let car of dataService.cars)
+console.log(car.license, 'cars');
+
+// for of statement for drones
+for (let drone of dataService.drones)
+console.log( drone.license, 'drones');
+
+// loop through error messages
+for (let e of dataService.errors)
+console.log(e.message, e.data);
+```
+
 #### Methods to filter data
