@@ -102,7 +102,7 @@ console.log(dataService.cars);
 	- `fleet` is a big array and we can loop through it with `for of` statement
 	- set a variable called `data` bc we don't know if its a car or drone
 	- we will use a switch statement to check the `type`
-	- 
+	- create methods to `loadCar` data and `loadDrone` data
 ```
 import {Car} from '../classes/car.js';
 import {Drone} from '../classes/drone.js';
@@ -162,7 +162,31 @@ export class Drone extends Vehicle{
 }
 
 ```
+- in the file `app.js` loop through the cars and drone array using `for of`  statement and a local varible to represent each unique object in the specific arrays
+* don't add a semi-colon after the `for of ` statement that will give you an undefined error and will make the local variable unreachable in the scope.
+_working example below_
+```
+import { Car } from './classes/car.js';
+import { Drone } from './classes/drone.js';
+import {fleet} from './fleet-data.js'
+import {FleetDataService} from './services/fleet-data-service.js';
 
+let dataService = new FleetDataService();
+dataService.loadData(fleet);
+
+// for of statement for cars
+for (let car of dataService.cars)
+console.log(car.license, 'cars');
+
+
+// logs to check if the dataService is working
+console.log(dataService.cars);
+console.log(dataService.drones);
+
+// for of statement for drones
+for (let drone of dataService.drones)
+console.log( drone.license, 'drones');
+```
 
 
 #### Instanitiaing Objects
