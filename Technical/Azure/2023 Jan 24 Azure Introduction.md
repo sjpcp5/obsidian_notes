@@ -43,4 +43,17 @@
 - cost management and projections
 	- cost alerts we don't want to spend past $5000 so you set an alert when hit 50%
 	- itemized list
-- Azure provides a securtity overview che
+- Cloud Defender: Azure provides a securtity overview checks for HIPPA, 
+	- In general whats healthy and whats not
+	- Defender has the ability to look at your data and check it 
+		- it can also encrypt it with just a button
+#### Pipeline in data factoring
+- rebates
+- service bus
+	- microservices connecte and consume data throught the service bus
+- rebates
+- microETLs
+- prescribers
+	- dataflows is the transformation piece of the dataflow
+	- everything can be done quarterly
+- Pat Garby is setting up a sandbox for testing at RSI
