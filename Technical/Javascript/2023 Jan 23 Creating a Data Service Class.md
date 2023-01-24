@@ -266,5 +266,47 @@ export class FleetDataService {
 };
 ```
 - another place things can go wrong is load car, an exception can get raised
-- we can watch for it and store it in the error's array
+- we can watch for it and store it in the error's array with a `try` statement do this for drone as well
+```
+import {Car} from '../classes/car.js';
+import {Drone} from '../classes/drone.js';
+import { DataError } from './data-error.js';
+
+export class FleetDataService {
+	constructor(){
+		this.cars = [];
+		this.drones = [];
+		// as we get errors we will dump them in this array
+		this.errors = [];
+	}
+		loadData(fleet){
+		for (let data of fleet){
+			switch(data.type){
+				case 'car':
+					this.cars.push(data);
+					break;
+				case 'drone':
+					this.drones.push(data);
+					break;
+				default:
+					let e = new DataError('Invalid vehicle type', data)
+					this.errors.push(e)
+					break;
+			}
+		}
+	}
+	loadCar(car){
+		let c = new Car(car.license, car.model, car.latlong);
+		c.miles = car.miles;
+		c.make = car.make;
+		return c;
+	};
+	loadDrone(drone){
+		let d = new Drone(drone.license, drone.model, drone.latlong);
+		d.airTimeHours = drone.airTimeHours;
+		d.base = drone.base;
+		return d;
+	};
+};
+```
 #### Methods to filter data
