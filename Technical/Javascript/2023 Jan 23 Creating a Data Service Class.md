@@ -315,12 +315,9 @@ export class FleetDataService {
 			return d;
 		} catch (e) {
 		this.errors.push(new DataError('error loading drone', drone));
-
-}
-
-return null;
-
-};
+		}
+		return null;
+	};
 };
 ```
 #### Methods to filter data
