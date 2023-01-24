@@ -219,7 +219,10 @@ export class DataError{
 }
 ```
 - import DataError into the `fleet-data-service.js`
-- looking at this file one thing can go wrong if 
+- looking at this file one thing can go wrong if our switch statement doesn't have a default
+- add a default  to the switch statement 
+- create a local variable `e` and instaniate a new `DataErrors` 
+- we will give it the message "Invalid vehcle type" and pass it `data` then push this to the errors array
 ```
 import {Car} from '../classes/car.js';
 import {Drone} from '../classes/drone.js';
@@ -241,6 +244,10 @@ export class FleetDataService {
 				case 'drone':
 					this.drones.push(data);
 					break;
+				default:
+					let e = new DataError('Invalid vehicle type', data)
+					this.errors.push(e)
+					break;
 			}
 		}
 	}
@@ -258,5 +265,6 @@ export class FleetDataService {
 	};
 };
 ```
-
+- another place things can go wrong is load car, an exception can get raised
+- we can watch for it and store it in the error's array
 #### Methods to filter data
