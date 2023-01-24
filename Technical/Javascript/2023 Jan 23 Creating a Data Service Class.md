@@ -189,8 +189,7 @@ console.log( drone.license, 'drones');
 ```
 
 
-#### Instanitiaing Objects
-	-Arrays
+
 #### Handling Errors 
 	- create an error class
 	- validate data
