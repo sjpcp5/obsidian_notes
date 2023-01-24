@@ -296,17 +296,31 @@ export class FleetDataService {
 		}
 	}
 	loadCar(car){
-		let c = new Car(car.license, car.model, car.latlong);
-		c.miles = car.miles;
-		c.make = car.make;
-		return c;
+		try {
+			let c = new Car(car.license, car.model, car.latlong);
+			c.miles = car.miles;
+			c.make = car.make;
+			return c;
+		} catch(e){
+			this.errors.push(new DataError('errorloading car', car));
+			}
+		return null;
 	};
-	loadDrone(drone){
-		let d = new Drone(drone.license, drone.model, drone.latlong);
-		d.airTimeHours = drone.airTimeHours;
-		d.base = drone.base;
-		return d;
-	};
+
+	loadDrone(drone) {
+		try {
+			let d = new Drone(drone.license, drone.model, drone.latlong);
+			d.airTimeHours = drone.airTimeHours;
+			d.base = drone.base;
+			return d;
+		} catch (e) {
+		this.errors.push(new DataError('error loading drone', drone));
+
+}
+
+return null;
+
+};
 };
 ```
 #### Methods to filter data
