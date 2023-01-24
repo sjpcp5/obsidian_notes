@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/Azure/2023 Jan 24 Azure Introduction.md",
+                "file": "Technical/Javascript/2023 Jan 23 Creating a Data Service Class.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical/Azure/2023 Jan 24 Azure Introduction.md",
+                "file": "Technical/Javascript/2023 Jan 23 Creating a Data Service Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical/Azure/2023 Jan 24 Azure Introduction.md",
+                "file": "Technical/Javascript/2023 Jan 23 Creating a Data Service Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical/Azure/2023 Jan 24 Azure Introduction.md"
+                "file": "Technical/Javascript/2023 Jan 23 Creating a Data Service Class.md"
               }
             }
           }
@@ -185,6 +185,7 @@
   },
   "active": "b4d930941bd58674",
   "lastOpenFiles": [
+    "Technical/Azure/2023 Jan 24 Azure Introduction.md",
     "Technical/Javascript/2023 Jan 23 Creating a Data Service Class.md",
     "Technical/Javascript/2023 Jan 19 Inheritance ES6 Javascript.md",
     "Technical/Javascript/2023 Jan 17 Javascript ES6.md",
@@ -193,7 +194,6 @@
     "Technical/Rust/Rust Strings and String Slices 20230106.md",
     "README.md",
     "Hobbies/DnD/Akira/2023 Jan 15 DnD.md",
-    "Technical/Rust/Rust String Concatination 20230113.md",
-    "Technical/Node/Node JS uses 20230113.md"
+    "Technical/Rust/Rust String Concatination 20230113.md"
   ]
 }
