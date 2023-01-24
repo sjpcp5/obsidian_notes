@@ -102,6 +102,7 @@ console.log(dataService.cars);
 	- `fleet` is a big array and we can loop through it with `for of` statement
 	- set a variable called `data` bc we don't know if its a car or drone
 	- we will use a switch statement to check the `type`
+	- 
 ```
 import {Car} from '../classes/car.js';
 import {Drone} from '../classes/drone.js';
@@ -123,6 +124,18 @@ export class FleetDataService {
 			}
 		}
 	}
+	loadCar(car){
+		let c = new Car(car.license, car.model, car.latlong);
+		c.miles = car.miles;
+		c.make = car.make;
+		return c;
+	};
+	loadDrone(drone){
+		let d = new Drone(drone.license, drone.model, drone.latlong);
+		d.airTimeHours = drone.airTimeHours;
+		d.base = drone.base;
+		return d;
+	};
 };
 ```
 - add constructor to the `Vehicle` class in the `Vehicle.js` file
@@ -147,7 +160,11 @@ export class Drone extends Vehicle{
 		this.base = null;
 	}
 }
+
 ```
+
+
+
 #### Instanitiaing Objects
 	-Arrays
 #### Handling Errors 
