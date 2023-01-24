@@ -302,7 +302,7 @@ export class FleetDataService {
 			c.make = car.make;
 			return c;
 		} catch(e){
-			this.errors.push(new DataError('errorloading car', car));
+			this.errors.push(new DataError('error loading car', car));
 			}
 		return null;
 	};
