@@ -346,7 +346,7 @@ console.log(e.message, e.data);
 
 ##### Data Validation in our Data Service
 - First we would create an if and else statement to bring in our data validator and push any errors in our else statement
-example of what `fleet-data-service.js` looks like after we are done
+example of what `fleet-data-service.js` looks like after we are done creating validation
 ```
 import {Car} from '../classes/car.js';
 import {Drone} from '../classes/drone.js';
@@ -429,6 +429,8 @@ export class FleetDataService {
 - We use an `if` statement checking if the argument car doesn't have the field then push errors with instance of DataError.
 - We also need return true or false for `validateCarData` because we wrapped it in a `if` statement. 
 - Create anoter local variable and we initialize it as `false` . So we can set it to true if there are errors 
+- Validation here can check for required fields, have a check for each field itself, like checking a valid format for longitude and latitude, making sure the license number is something that would be valid
+- Create validation that `miles` driven is acutally a number
 ```
 	validateCarData(car) {
 		 requiredProps = 'license model latlong miles make'.split(' ');
