@@ -365,7 +365,8 @@ export class FleetDataService {
 				case 'car':
 				if (this.validateCarData(data)) {
 					let car = this.loadCar(data);
-					this.cars.push(car);
+					if (car)
+						this.cars.push(car);
 				} else {
 					let e = new DataError('Invalid car data', data);
 					this.errors.push(e);
@@ -451,5 +452,13 @@ export class FleetDataService {
 	}
 };
 ```
-- Add an if statement before `this.cars.push(car)` this checks 
+- Add an if statement before `this.cars.push(car)` this checks if an exception was thrown in the `loadCar` method
+```
+	switch(data.type){
+		case 'car':
+			if (this.validateCarData(data)) {
+				let car = this.loadCar(data);
+				if (car)
+					this.cars.push(car);
+```
 #### Methods to filter data
