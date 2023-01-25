@@ -349,7 +349,10 @@ console.log(e.message, e.data);
 - We will define our data validator by naming it `validateCarData` 
 - then we will set our properites to be loop through as an array by creating the local variable `requiredProps` an listing them in a string then spliting by an empty space
 - This enables us to loop through them with an `for of` statement 
-- We will call each property `field` 
+- We will call each property `field` and we want to make sure car has that field by it ensuring it has it by rasing an error. 
+- We use an `if` statement checking if the argument car doesn't have the field then push errors with instance of DataError.
+- We also need return true or false for `validateCarData` because we wrapped it in a `if` statement. 
+- Create anoter local variable and we initialize it as `false` . So we can set it to true if there are errors 
 ```
 import {Car} from '../classes/car.js';
 import {Drone} from '../classes/drone.js';
