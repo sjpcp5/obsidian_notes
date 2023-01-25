@@ -347,7 +347,7 @@ console.log(e.message, e.data);
 ##### Data Validation in our Data Service
 - First we would create an if and else statement to bring in our data validator and push any errors in our else statement
 - We will define our data validator by naming it `validateCarData` then we will set our required properties by listing them in a string then spliting by an empty space
-- This enables us to loop through them to `for of` statement 
+- This enables us to loop through them with an `for of` statement 
 ```
 import {Car} from '../classes/car.js';
 import {Drone} from '../classes/drone.js';
