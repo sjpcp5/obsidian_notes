@@ -462,3 +462,23 @@ export class FleetDataService {
 					this.cars.push(car);
 ```
 #### Methods to filter data
+- In the file `fleet-data-service.js` write a find and sort method for license
+```
+getCarByLicense(license) {
+	return this.cars.find(function (car) {
+		return car.license === license;
+	});
+}
+
+getCarsSortedByLicense() {
+	return this.cars.sort(function (car1, car2) {
+		if (car1.license < car2.license)
+			return -1;
+		if (car1.license > car2.license)
+			return 1;
+		return 0;
+	});
+}
+```
+- Write helpers with in the methods to prevent other devs creating infinite loops
+- How do I write a helper what does it look like?
