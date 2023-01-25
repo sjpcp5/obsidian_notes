@@ -430,7 +430,9 @@ export class FleetDataService {
 - We also need return true or false for `validateCarData` because we wrapped it in a `if` statement. 
 - Create anoter local variable and we initialize it as `false` . So we can set it to true if there are errors 
 - Validation here can check for required fields, have a check for each field itself, like checking a valid format for longitude and latitude, making sure the license number is something that would be valid
-- Create validation that `miles` driven is acutally a number
+- Create validation that `miles` driven is acutally a number. We check for Not a Number when we parse `car.miles`. 
+- We add an error if miles is not a number is true 
+- For the final scope of `validateCarData` we return a negate `hasErrors` so if there are no errors we return `true` and if there are errors we will return `false` to fit the name of the function
 ```
 	validateCarData(car) {
 		 requiredProps = 'license model latlong miles make'.split(' ');
@@ -449,4 +451,5 @@ export class FleetDataService {
 	}
 };
 ```
+- Add an if statement before `this.cars.push(car)` this checks 
 #### Methods to filter data
