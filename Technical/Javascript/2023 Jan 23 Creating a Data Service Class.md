@@ -461,7 +461,7 @@ export class FleetDataService {
 				if (car)
 					this.cars.push(car);
 ```
-#### Methods to filter data
+#### Methods to sort and filter data
 - In the file `fleet-data-service.js` write a find and sort method for license
 ```
 getCarByLicense(license) {
@@ -482,3 +482,5 @@ getCarsSortedByLicense() {
 ```
 - Write helpers with in the methods to prevent other devs creating infinite loops
 - How do I write a helper what does it look like?
+
+##### Filtering Data
