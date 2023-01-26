@@ -485,4 +485,116 @@ getCarsSortedByLicense() {
 
 ##### Filtering Data
 - filter by make starting by looking at all the makes find unique letters like the capitalized first letter of the make.
-- a real data service will have hundreds or even thousands of these access methods as well as methods to update and insert cars
+- a real data service will have hundreds or even thousands of these access methods as well as methods to update and insert cars and drones
+In the file `app.js` example of filtering by letters
+```
+import { Car } from './classes/car.js';
+import { Drone } from './classes/drone.js';
+import {fleet} from './fleet-data.js'
+import {FleetDataService} from './services/fleet-data-service.js';
+
+let dataService = new FleetDataService();
+dataService.loadData(fleet);
+
+let cars = dataService.filterCarsByMake("e");
+
+for (let car of cars)
+	console.log(car.make);
+```
+in the file `fleet-data-service.js` here are the examples of sort and filter methods under the constructor
+```
+import {Car} from '../classes/car.js';
+import {Drone} from '../classes/drone.js';
+import { DataError } from './data-error.js';
+
+export class FleetDataService {
+	constructor(){
+		this.cars = [];
+		this.drones = [];
+		// as we get errors we will dump them in this array
+		this.errors = [];
+	}
+//  get car by license
+	getCarByLicense(license) {
+		return this.cars.find(function (car) {
+			return car.license === license;
+			});
+		};
+// sort for licenses in alphabetical order
+	getCarsSortedByLicense() {
+		return this.cars.sort(function (car1, car2) {
+			if (car1.license < car2.license)
+				return -1;
+			if (car1.license > car2.license)
+				return 1;
+			return 0;
+			});
+		};
+		
+// filtering out makes by letter
+	filterCarsByMake(filter) {
+		return this.cars.filter(car => car.make.indexOf(filter) >= 0);
+	};
+		loadData(fleet){
+		for (let data of fleet){
+			switch(data.type){
+				case 'car':
+				if (this.validateCarData(data)) {
+					let car = this.loadCar(data);
+					if (car)
+						this.cars.push(car);
+				} else {
+					let e = new DataError('Invalid car data', data);
+					this.errors.push(e);
+				}
+				break;
+				case 'drone':
+					this.drones.push(data);
+					break;
+				default:
+					let e = new DataError('Invalid vehicle type', data)
+					this.errors.push(e)
+					break;
+			}
+		}
+	}
+	loadCar(car){
+		try {
+			let c = new Car(car.license, car.model, car.latlong);
+			c.miles = car.miles;
+			c.make = car.make;
+			return c;
+		} catch(e){
+			this.errors.push(new DataError('error loading car', car));
+			}
+		return null;
+	};
+
+	loadDrone(drone) {
+		try {
+			let d = new Drone(drone.license, drone.model, drone.latlong);
+			d.airTimeHours = drone.airTimeHours;
+			d.base = drone.base;
+			return d;
+		} catch (e) {
+		this.errors.push(new DataError('error loading drone', drone));
+		}
+		return null;
+	};
+	validateCarData(car) {
+		 requiredProps = 'license model latlong miles make'.split(' ');
+		 let hasErrors = false;
+		 for (let field of requiredProps) {
+			 if (!car[field]) {
+				 this.errors.push(new DataError(`invalid field ${field}`, car));
+				 hasErrors = true;
+				 }
+			}
+			if (Number.isNaN(Number.parseFloat(car.miles))) {
+				this.errors.push(new DataError('invalid mileage', car));
+				hasErrors = true;
+			}
+			return !hasErrors;
+	}
+};
+```
