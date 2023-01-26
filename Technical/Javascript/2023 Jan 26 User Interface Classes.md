@@ -59,4 +59,8 @@
 ```
 - Systemjs extends ES6 module loader so system.import stays the same
 - Tell system that jquery is a loadable module
-- `System.paths['jquery']= './node_modules/jquery/dist/'`
+- Add `System.paths['jquery']= './node_modules/jquery/dist/jquery.js';` above `System.import('src/app.js')` in file `index.html`
+- now we don't have to add the script tag for jquery since systemjs is handling it for us
+### Create UI file system
+- create class BaseElement
+- An element, before it becomes part of the DOM is just a string so need to create a method that 
