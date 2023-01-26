@@ -105,6 +105,7 @@ export class BaseElement{
 	
 	createElement() {
 		const s = this.getElementString();
+		this.element = $(s);
 	}
 
 	getElementString() {
@@ -112,3 +113,6 @@ export class BaseElement{
 	}
 }
 ```
+
+#### Create and render a button
+- It is a hassle to be working with imports for everything but it does solve the big namespace problem in Javascript.
