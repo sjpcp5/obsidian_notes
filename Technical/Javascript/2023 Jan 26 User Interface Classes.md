@@ -63,4 +63,52 @@
 - now we don't have to add the script tag for jquery since systemjs is handling it for us
 ### Create UI file system
 - create class BaseElement
-- An element, before it becomes part of the DOM is just a string so need to create a method that 
+- An element, before it becomes part of the DOM is just a string 
+- Each componet is going to have its own string that has the tag and any classes any attributes. So we want to make sure this gets overwritten. We'll throw an exception so if it doesn't get overwritten we will leave the developer a nice message
+`base-element.js`
+```
+import $ from 'jquery';
+
+// default export for jquery
+
+export class BaseElement{
+
+constructor(){
+
+this.element = null; // jQuery object and not a DOM element, storing the element in a jquery object wrapper
+
+}
+
+getElementString() {
+
+throw 'Please override getElementString() in BaseElement';
+
+}
+
+}
+```
+
+```
+import $ from 'jquery';
+// default export for jquery
+
+export class BaseElement{
+	constructor(){
+		this.element = null; 
+	// jQuery object and not a DOM element, storing the element in a jquery object wrapper
+	}
+
+	appendToElement(el) {
+		this.createElement();
+		el.append(this.element);
+	}
+	
+	createElement() {
+		const s = this.getElementString();
+	}
+
+	getElementString() {
+		throw 'Please override getElementString() in BaseElement';
+	}
+}
+```
