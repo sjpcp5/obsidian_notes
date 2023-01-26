@@ -87,7 +87,7 @@ throw 'Please override getElementString() in BaseElement';
 
 }
 ```
-
+- The base element is all setup. When we create a any kind of element which is simply a DOM tag we could have that class extend the base element and we'll get access the all this functionality
 ```
 import $ from 'jquery';
 // default export for jquery
