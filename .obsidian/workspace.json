@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6432bebaee73bc90",
+        "id": "5f8af307a84c6c7d",
         "type": "tabs",
         "children": [
           {
-            "id": "50894fc1aa439fd3",
+            "id": "7732c544df192e21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/Javascript/2023 Jan 17 Javascript ES6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab242d0c6e083f4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technical/Javascript/2023 Jan 19 Inheritance ES6 Javascript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa5f3da683ec73ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technical/Javascript/2023 Jan 23 Creating a Data Service Class.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4d930941bd58674",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technical/Javascript/2023 Jan 23 Creating a Data Service Class.md",
+                "file": "Technical/Javascript/2023 Jan 26 User Interface Classes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8d33c475ba602f51",
@@ -123,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical/Javascript/2023 Jan 23 Creating a Data Service Class.md",
+                "file": "Technical/Javascript/2023 Jan 26 User Interface Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical/Javascript/2023 Jan 23 Creating a Data Service Class.md",
+                "file": "Technical/Javascript/2023 Jan 26 User Interface Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical/Javascript/2023 Jan 23 Creating a Data Service Class.md"
+                "file": "Technical/Javascript/2023 Jan 26 User Interface Classes.md"
               }
             }
           }
@@ -184,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4d930941bd58674",
+  "active": "7732c544df192e21",
   "lastOpenFiles": [
-    "Technical/Azure/2023 Jan 24 Azure Introduction.md",
     "Technical/Javascript/2023 Jan 23 Creating a Data Service Class.md",
-    "Technical/Javascript/2023 Jan 19 Inheritance ES6 Javascript.md",
     "Technical/Javascript/2023 Jan 17 Javascript ES6.md",
+    "Technical/Javascript/2023 Jan 26 User Interface Classes.md",
+    "Technical/Azure/2023 Jan 24 Azure Introduction.md",
+    "Technical/Javascript/2023 Jan 19 Inheritance ES6 Javascript.md",
     "Technical/Git/2022-12-21 Undoing Git Mistakes.md",
     "Technical/Rust/2022-12-23 Rust Data types.md",
     "Technical/Rust/Rust Strings and String Slices 20230106.md",
     "README.md",
-    "Hobbies/DnD/Akira/2023 Jan 15 DnD.md",
-    "Technical/Rust/Rust String Concatination 20230113.md"
+    "Hobbies/DnD/Akira/2023 Jan 15 DnD.md"
   ]
 }
