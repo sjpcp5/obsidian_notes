@@ -484,3 +484,5 @@ getCarsSortedByLicense() {
 - How do I write a helper what does it look like?
 
 ##### Filtering Data
+- filter by make starting by looking at all the makes find unique letters like the capitalized first letter of the make.
+- a real data service will have hundreds or even thousands of these access methods as well as methods to update and insert cars
