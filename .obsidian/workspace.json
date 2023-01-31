@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/Javascript/2023 Jan 27 Javascript 30.md",
+                "file": "Technical/Javascript/2023 Jan 26 User Interface Classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical/Javascript/2023 Jan 27 Javascript 30.md",
+                "file": "Technical/Javascript/2023 Jan 26 User Interface Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical/Javascript/2023 Jan 27 Javascript 30.md",
+                "file": "Technical/Javascript/2023 Jan 26 User Interface Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical/Javascript/2023 Jan 27 Javascript 30.md"
+                "file": "Technical/Javascript/2023 Jan 26 User Interface Classes.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "c3e2c94f38b85fa6",
   "lastOpenFiles": [
+    "Technical/Javascript/2023 Jan 27 Javascript 30.md",
     "Technical/Node/Node JS uses 20230113.md",
     "Technical/Javascript/2023 Jan 26 User Interface Classes.md",
     "Technical/Javascript/2023 Jan 23 Creating a Data Service Class.md",
@@ -169,7 +170,6 @@
     "Technical/Javascript/2023 Jan 19 Inheritance ES6 Javascript.md",
     "Technical/Git/2022-12-21 Undoing Git Mistakes.md",
     "Technical/Rust/2022-12-23 Rust Data types.md",
-    "Technical/Rust/Rust Strings and String Slices 20230106.md",
-    "README.md"
+    "Technical/Rust/Rust Strings and String Slices 20230106.md"
   ]
 }

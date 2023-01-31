@@ -119,3 +119,6 @@ export class BaseElement{
 - It means we can work with lots of different libraries that have buttons and if there was ever a conflict we could just give an alias to button we could say `import {Button as MyButton} from './ui/button.js'`
 - app.js ![[Pasted image 20230126172930.png]]
 - button.js ![[Pasted image 20230126173009.png]]
+#### Create and render an Image component
+- Use straight up HTML
+- 
