@@ -121,4 +121,7 @@ export class BaseElement{
 - button.js ![[Pasted image 20230126173009.png]]
 #### Create and render an Image component
 - Use straight up HTML
-- 
+- if you run into errors with loading systemjs 
+	- delete node modules 
+	- make sure your package.json matches whats in the image below
+	- ![[Pasted image 20230201152454.png]]
