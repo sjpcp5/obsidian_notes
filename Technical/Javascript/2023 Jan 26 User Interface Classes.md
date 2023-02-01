@@ -123,5 +123,10 @@ export class BaseElement{
 - Use straight up HTML
 - if you run into errors with loading systemjs 
 	- delete node modules 
-	- make sure your package.json matches whats in the image below
+	- make sure your package.json matches whats in the follwoing image
 	- ![[Pasted image 20230201152454.png]]
+	- then `npm intall` && `npm run dev`
+	- if the drone image doesn't load make sure the images folder exists under .vscode 
+	- ![[Pasted image 20230201152708.png]]
+	- if not copy and paste from `javascript-es6-object-oriented-programming/6-javascript-es6-object-oriented-programming-m6-exercise-files/final-working/after/images`
+	- 
