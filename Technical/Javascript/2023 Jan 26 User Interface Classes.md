@@ -133,6 +133,54 @@ export class BaseElement{
 
 
 - Make a `title-bar.js` file. Then copy and paste the image class into it. Change the class name to `TitleBar` 
-- Go to https://getmdl.io/components/index.html#layout-section copy the fixed header layout and paste within template literals 
+- Go to https://getmdl.io/components/index.html#layout-section copy the fixed header layout and paste within template literals in the return of `getElementString()`
+Example below:
+```
+import { BaseElement } from './base-element.js';
+
+export class TitleBar extends BaseElement {
+	constructor(title) {
+		super();
+		this.title = title;
+	}
+	addLink(title, href) {
+		//title: any or same as proptery name which is title
+		this.links.push({ title, href });
+		}
+	getElementString() {
+		return `
+			<<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+				<header class="mdl-layout__header">
+					<div class="mdl-layout__header-row">
+						<!-- Title -->
+						<span class="mdl-layout-title">${this.title}</span>
+						<!-- Add spacer, to align navigation to the right -->
+						<div class="mdl-layout-spacer"></div>	
+						<!-- Navigation. We hide it in small screens. -->	
+						<nav class="mdl-navigation mdl-layout--large-screen-only">	
+						<a class="mdl-navigation__link" href="">Link</a>	
+						<a class="mdl-navigation__link" href="">Link</a>	
+						<a class="mdl-navigation__link" href="">Link</a>	
+						<a class="mdl-navigation__link" href="">Link</a>	
+					</nav>	
+				</div>	
+			</header>	
+			<div class="mdl-layout__drawer">	
+				<span class="mdl-layout-title">${this.title}</span>	
+				<nav class="mdl-navigation">	
+					<a class="mdl-navigation__link" href="">Link</a>	
+					<a class="mdl-navigation__link" href="">Link</a>	
+					<a class="mdl-navigation__link" href="">Link</a>	
+					<a class="mdl-navigation__link" href="">Link</a>	
+				</nav>	
+			</div>	
+			<main class="mdl-layout__content">	
+				<div class="page-content"><!-- Your content goes here --></div>	
+			</main>
+		</div>`;
+	}
+}
+```
 - to fix the menu bar being off the html.index doesn't know we are using html5 so we need to write in the `<!DOCTYPE html>` tag  at the top the `index.html` file. Or if your in visual code just type !!! and press `enter` in the first line of the `index.html` 
 - ![[Pasted image 20230203160855.png]]
+- specify links creating addLink method
