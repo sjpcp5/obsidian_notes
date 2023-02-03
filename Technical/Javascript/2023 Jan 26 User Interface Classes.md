@@ -131,5 +131,8 @@ export class BaseElement{
 	- if not copy and paste from `javascript-es6-object-oriented-programming/6-javascript-es6-object-oriented-programming-m6-exercise-files/final-working/after/images`
 #### Create and Render a titlebar
 
-- to fix the menu bar being off the html.index doesn't know we are using html5 so we need to write in the `<!DOCTYPE html>` tag into the index.html file. 
-- 
+
+- Make a `title-bar.js` file. Then copy and paste the image class into it. Change the class name to `TitleBar` 
+- Go to https://getmdl.io/components/index.html#layout-section copy the fixed header layout and paste within template literals 
+- to fix the menu bar being off the html.index doesn't know we are using html5 so we need to write in the `<!DOCTYPE html>` tag  at the top the `index.html` file. Or if your in visual code just type !!! and press `enter` in the first line of the `index.html` 
+- ![[Pasted image 20230203160855.png]]
