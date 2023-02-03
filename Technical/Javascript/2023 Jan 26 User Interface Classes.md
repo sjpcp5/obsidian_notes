@@ -142,12 +142,16 @@ export class TitleBar extends BaseElement {
 	constructor(title) {
 		super();
 		this.title = title;
+		this.links = [];
 	}
 	addLink(title, href) {
 		//title: any or same as proptery name which is title
 		this.links.push({ title, href });
 		}
 	getElementString() {
+		let links = '';
+			for (let link of this.links)
+			links += `<a class="mdl-navigation__link">${link.title}</a>\n`;
 		return `
 			<<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
 				<header class="mdl-layout__header">
@@ -158,20 +162,14 @@ export class TitleBar extends BaseElement {
 						<div class="mdl-layout-spacer"></div>	
 						<!-- Navigation. We hide it in small screens. -->	
 						<nav class="mdl-navigation mdl-layout--large-screen-only">	
-						<a class="mdl-navigation__link" href="">Link</a>	
-						<a class="mdl-navigation__link" href="">Link</a>	
-						<a class="mdl-navigation__link" href="">Link</a>	
-						<a class="mdl-navigation__link" href="">Link</a>	
+						${links}
 					</nav>	
 				</div>	
 			</header>	
 			<div class="mdl-layout__drawer">	
 				<span class="mdl-layout-title">${this.title}</span>	
 				<nav class="mdl-navigation">	
-					<a class="mdl-navigation__link" href="">Link</a>	
-					<a class="mdl-navigation__link" href="">Link</a>	
-					<a class="mdl-navigation__link" href="">Link</a>	
-					<a class="mdl-navigation__link" href="">Link</a>	
+					${links}	
 				</nav>	
 			</div>	
 			<main class="mdl-layout__content">	
@@ -183,4 +181,6 @@ export class TitleBar extends BaseElement {
 ```
 - to fix the menu bar being off the html.index doesn't know we are using html5 so we need to write in the `<!DOCTYPE html>` tag  at the top the `index.html` file. Or if your in visual code just type !!! and press `enter` in the first line of the `index.html` 
 - ![[Pasted image 20230203160855.png]]
-- specify links creating addLink method
+- specify links creating addLink method in app.js
+- ![[Pasted image 20230203163306.png]]
+- ![[Pasted image 20230203163339.png]]
