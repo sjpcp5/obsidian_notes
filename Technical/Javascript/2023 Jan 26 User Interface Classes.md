@@ -129,4 +129,7 @@ export class BaseElement{
 	- if the drone image doesn't load make sure the images folder exists under .vscode 
 	- ![[Pasted image 20230201152708.png]]
 	- if not copy and paste from `javascript-es6-object-oriented-programming/6-javascript-es6-object-oriented-programming-m6-exercise-files/final-working/after/images`
-	- 
+#### Create and Render a titlebar
+
+- to fix the menu bar being off the html.index doesn't know we are using html5 so we need to write in the `<!DOCTYPE html>` tag into the index.html file. 
+- 
