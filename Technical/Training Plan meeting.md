@@ -7,4 +7,5 @@ RSI Channels
 Things are shifting,
 Brenna is comming off of infinite blue
 
-Priorities
+Priorities:
+Work with Phillip Killough on the new trainin
