@@ -185,6 +185,9 @@ export class TitleBar extends BaseElement {
 - ![[Pasted image 20230203163306.png]]
 - ![[Pasted image 20230203163339.png]]
 #### Create DataTable
+- Normally a data table would take many man hours to create and we have only ten minutes
+- when we grab the headers as is it will convert them to lowercase to get a property name
+- when passing the headers, you a
 ```
 import { BaseElement } from './base-element.js';
 
