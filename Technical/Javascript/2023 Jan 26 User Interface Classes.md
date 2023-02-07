@@ -184,3 +184,46 @@ export class TitleBar extends BaseElement {
 - specify links creating addLink method in app.js
 - ![[Pasted image 20230203163306.png]]
 - ![[Pasted image 20230203163339.png]]
+#### Create DataTable
+```
+import { BaseElement } from './base-element.js';
+
+  export class DataTable extends BaseElement {
+		constructor(headers, data) {
+			super();
+			this.headers = headers;
+			this.data = data;
+		}
+
+	getElementString() {
+		let thTags = '';
+		for (let h of this.headers) {
+		thTags += `<th class="mdl-data-table__cell--non-numeric">${h}</th>\n`;
+	}
+	let trTags = '';
+	for (let row of this.data) {
+		trTags += '<tr>\n';
+		let tdTags = '';
+		for (let property of this.headers) {
+			let field = row[property.toLowerCase()];
+				trTags += `<td class="mdl-data-table__cell--non-numeric">${field}</td>\n`;
+		}
+		trTags += '</tr>\n';
+		}
+		return `
+		// remove the selectable class from the table mdl-data-table--selectable
+		<table class="mdl-data-table mdl-js-data-table mdl-shadow--2dp">
+			<thead>
+				<tr>
+				// use the map function to iterate over the headers array
+				${thTags}
+				</tr>
+				</thead>
+				<tbody>
+				// use the map function to iterate over the data array
+					${trTags}
+				</tbody>
+		</table>`;
+		}
+}
+```
