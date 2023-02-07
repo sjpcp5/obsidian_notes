@@ -187,7 +187,7 @@ export class TitleBar extends BaseElement {
 #### Create DataTable
 - Normally a data table would take many man hours to create and we have only ten minutes
 - when we grab the headers as is it will convert them to lowercase to get a property name
-- when passing the headers, you a
+- when passing the headers, you also want to pass along another field that specifies the property name for each header. 
 ```
 import { BaseElement } from './base-element.js';
 
