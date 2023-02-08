@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/Javascript/2023 Jan 26 User Interface Classes.md",
+                "file": "Technical/Training Plan meeting for IB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9128c38da039d3dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical/Onboarding Josh Campbell.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical/Javascript/2023 Jan 26 User Interface Classes.md",
+                "file": "Technical/Onboarding Josh Campbell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical/Javascript/2023 Jan 26 User Interface Classes.md",
+                "file": "Technical/Onboarding Josh Campbell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical/Javascript/2023 Jan 26 User Interface Classes.md"
+                "file": "Technical/Onboarding Josh Campbell.md"
               }
             }
           }
@@ -171,11 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de518981914527e4",
+  "active": "9128c38da039d3dc",
   "lastOpenFiles": [
-    "Technical/Javascript/2023 Jan 27 Javascript 30.md",
     "Technical/Training Plan meeting for IB.md",
     "Technical/Javascript/2023 Jan 26 User Interface Classes.md",
+    "Technical/Javascript/2023 Jan 27 Javascript 30.md",
     "Technical/Node/Node JS uses 20230113.md",
     "Technical/Javascript/2023 Jan 23 Creating a Data Service Class.md",
     "Technical/Javascript/2023 Jan 17 Javascript ES6.md",
