@@ -21,5 +21,19 @@ Higher precentage of profiles added to our clients
 API 1.0 
 working on the front end pieces to wrap up the MVP
 
-Tech stack:  
+Tech stack: 
+
+
+Robert- express, C#, drupple project, evaulation on sites, 18 plus years , t-mobile, trade collaboration, itar classification, radiation aprons, 
+
+T-mobile: layoffs, attrition, lots of nervouses
+dev-ops when a web developer. 
+
+WSL: setting up things when had too. 
+
+self service - WSL 2.0
+setup ubuntu, then you can have node
+
+links colleague profile dev channel 
+- standups CST 1p
 
