@@ -22,7 +22,10 @@ API 1.0
 working on the front end pieces to wrap up the MVP
 
 Tech stack: 
+Backend: Python,FastAPI Django/flask, SQL Alchemy
+Frontend: React, Jest. Typescript, 
 
+Render skill tags review 
 
 Robert- express, C#, drupple project, evaulation on sites, 18 plus years , t-mobile, trade collaboration, itar classification, radiation aprons, 
 
