@@ -76,3 +76,4 @@ Discipline- silo:
 	- B1 domain
 	- C Skill
 
+Clean and isolated changeset in git commits 
