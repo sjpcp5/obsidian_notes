@@ -40,7 +40,12 @@ setup ubuntu, then you can have node
 links colleague profile dev channel 
 - standups CST 1p
 
-not pretty
+#### Skill tag meeting and onboarding
+
+Joe - UX
+Jason - Lead
+
+The Skill Tags Colleague profile site- not pretty
 
 colleagure can keep track and fill out seemlessly
 share a batch 
@@ -48,3 +53,20 @@ tracking skills
 who knows jest by looking up who know this subject
 we have no idea how many people know python
 what did we do on this client - tracking engagements
+Product stragety , product 
+client cares, colleague 
+
+stragety and anaylsis
+a practice : skills
+mental hurdle cross displinary
+Practice = Displine define it with
+
+decouple the data. UX shoould define the data we storing 
+data should not be dictated in the UI
+Practice is not part of the skill tag trees
+
+when someone is picking their skills 
+
+product stragety/product stragety - seperate issue
+
+Practice Area 
