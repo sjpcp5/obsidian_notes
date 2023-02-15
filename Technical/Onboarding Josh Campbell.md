@@ -40,3 +40,7 @@ setup ubuntu, then you can have node
 links colleague profile dev channel 
 - standups CST 1p
 
+not pretty
+
+colleagure can keep track and fill out seemlessly
+share a batch 
