@@ -44,3 +44,7 @@ not pretty
 
 colleagure can keep track and fill out seemlessly
 share a batch 
+tracking skills
+who knows jest by looking up who know this subject
+we have no idea how many people know python
+what did we do on this client - tracking engagements
