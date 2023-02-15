@@ -68,5 +68,11 @@ Practice is not part of the skill tag trees
 when someone is picking their skills 
 
 product stragety/product stragety - seperate issue
+BA and project management: sssasdw
 
-Practice Area 
+You have a practice but are multidisciplined
+What is it?
+Discipline- silo: 
+	- B1 domain
+	- C Skill
+	- 
