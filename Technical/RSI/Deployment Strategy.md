@@ -15,4 +15,19 @@ a seperate repo to pull seperate versions of the builds or code
 - navigate politics derek is having teeth drilled
 - turn on sass (keys) should be no keys in this
 - security injected through env variable public keys
-- manage it from 
+	- manage it from a secret store
+	- client secret
+	- configuration file or overwritten in env variable
+	- .home deck manages that on the command line
+	- ports in docker are internal
+	- docker will kill the container and restart itself 
+	- expose the API seperately?
+	- AWS API Gateway generate and rotate keys
+	- makeshift 
+	- best and breed project for 
+	- when bringing technical solutions for devOps or deployment we don't want to code ourselves into a 
+		- its infrastructure your suppose to be able to throw it away
+	- Containers
+		- run pthyon app in one
+		- engine x
+		- traffic reverse proxy route a di
