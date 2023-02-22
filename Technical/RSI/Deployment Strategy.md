@@ -25,8 +25,8 @@ a seperate repo to pull seperate versions of the builds or code
 	- AWS API Gateway generate and rotate keys
 	- makeshift 
 	- best and breed project for 
-	- when bringing technical solutions for devOps or deployment we don't want to code ourselves into a 
-		- its infrastructure your suppose to be able to throw it away
+	- when bringing technical solutions for devOps or deployment we don't want to code ourselves into a corner for infrastructure when we are scaling up
+		- its okay its  infrastructure your suppose to be able to throw it away and build anew
 	- Containers
 		- run pthyon app in one
 		- engine x
