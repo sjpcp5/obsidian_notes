@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bd7da417551e5b8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical/RSI/Deployment Strategy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical/RSI/CP-219.md",
+                "file": "Technical/RSI/Deployment Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical/RSI/CP-219.md",
+                "file": "Technical/RSI/Deployment Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical/RSI/CP-219.md"
+                "file": "Technical/RSI/Deployment Strategy.md"
               }
             }
           }
@@ -195,8 +207,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54ba59caf283a9c4",
+  "active": "bd7da417551e5b8d",
   "lastOpenFiles": [
+    "Technical/RSI/CP-219.md",
     "Technical/RSI/Onboarding Josh Campbell.md",
     "Technical/Training Plan meeting for IB.md",
     "Technical/Javascript/2023 Jan 26 User Interface Classes.md",
@@ -205,7 +218,6 @@
     "Technical/Javascript/2023 Jan 23 Creating a Data Service Class.md",
     "Technical/Javascript/2023 Jan 17 Javascript ES6.md",
     "Technical/Azure/2023 Jan 24 Azure Introduction.md",
-    "Technical/Javascript/2023 Jan 19 Inheritance ES6 Javascript.md",
-    "Technical/Git/2022-12-21 Undoing Git Mistakes.md"
+    "Technical/Javascript/2023 Jan 19 Inheritance ES6 Javascript.md"
   ]
 }
