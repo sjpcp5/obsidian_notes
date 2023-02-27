@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/RSI/Deployment Strategy.md",
+                "file": "Technical/RSI/CP-219.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical/RSI/Deployment Strategy.md",
+                "file": "Technical/RSI/CP-219.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical/RSI/Deployment Strategy.md",
+                "file": "Technical/RSI/CP-219.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical/RSI/Deployment Strategy.md"
+                "file": "Technical/RSI/CP-219.md"
               }
             }
           }
@@ -209,6 +209,7 @@
   },
   "active": "bd7da417551e5b8d",
   "lastOpenFiles": [
+    "Technical/RSI/Deployment Strategy.md",
     "Technical/RSI/CP-219.md",
     "Technical/RSI/Onboarding Josh Campbell.md",
     "Technical/Training Plan meeting for IB.md",
@@ -217,7 +218,6 @@
     "Technical/Node/Node JS uses 20230113.md",
     "Technical/Javascript/2023 Jan 23 Creating a Data Service Class.md",
     "Technical/Javascript/2023 Jan 17 Javascript ES6.md",
-    "Technical/Azure/2023 Jan 24 Azure Introduction.md",
-    "Technical/Javascript/2023 Jan 19 Inheritance ES6 Javascript.md"
+    "Technical/Azure/2023 Jan 24 Azure Introduction.md"
   ]
 }
