@@ -34,4 +34,5 @@ a seperate repo to pull seperate versions of the builds or code
 
 
 blank page
-make sure stae
+make sure state the state we send 
+code is used in the next step for the authentication processs
