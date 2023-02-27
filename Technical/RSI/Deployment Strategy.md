@@ -31,3 +31,7 @@ a seperate repo to pull seperate versions of the builds or code
 		- run pthyon app in one
 		- engine x
 		- traffic reverse proxy route a di
+
+
+blank page
+make sure stae
