@@ -7,4 +7,6 @@ promise of 25% pay and 100 gold to return the captives alive
 - current HP: 29 HP
 - 2 sets of goblin ears
 -  used second wind
+- We kill all the goblins
+- there is a dead soldier on the table
 - 
