@@ -4,3 +4,5 @@
 promise of 25% pay and 100 gold to return the captives alive
 
 -  cast true strike so I have advantage on G20
+- 30 HP
+- 2 goblin set of 
