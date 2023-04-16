@@ -4,5 +4,7 @@
 promise of 25% pay and 100 gold to return the captives alive
 
 -  cast true strike so I have advantage on G20
-- current HP: 18 HP
+- current HP: 29 HP
 - 2 sets of goblin ears
+-  used second wind
+- 
