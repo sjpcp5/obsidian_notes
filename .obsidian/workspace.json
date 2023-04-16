@@ -8,90 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7732c544df192e21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technical/Node/Node JS uses 20230113.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3e2c94f38b85fa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technical/Javascript/2023 Jan 26 User Interface Classes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de518981914527e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technical/Training Plan meeting for IB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9128c38da039d3dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technical/RSI/Onboarding Josh Campbell.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54ba59caf283a9c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technical/RSI/CP-219.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd7da417551e5b8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technical/RSI/CP-219.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54816d62b0760956",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hobbies/DnD/Akira/2023 Jan 15 DnD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6d79f7dc5c65ac33",
             "type": "leaf",
             "state": {
@@ -103,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
