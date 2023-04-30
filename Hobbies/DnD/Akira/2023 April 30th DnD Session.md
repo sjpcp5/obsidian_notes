@@ -13,4 +13,4 @@ Memory-
 Meet a new Character Aldensive
 	- half drow half elf humanoid, Femme androgenous
 	- no siblings
-	- half orc
+	- half orc friend
