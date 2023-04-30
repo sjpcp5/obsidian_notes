@@ -42,7 +42,7 @@ STR
 Ihrows againsl spells and olher magical effecls.
 **Limited Telepathy**: The pseudodragon can communicate
 simple ideas, emotions, and images telepathically wilh any
-crealure wilhin 100 feel ofillhal can undersland a language.
+crealure wilhin 100 feel ofillhal can understand a language.
 #### ACTIONS
 **Bite** Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
 **Hit** 4 (ld4 + 2) piercing damage.
