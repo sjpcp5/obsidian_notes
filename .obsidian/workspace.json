@@ -59,9 +59,11 @@
             "id": "c836c4dee99913f2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.7"
+                "file": "Technical/Deno/Getting Started in Deno.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -140,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hobbies/DnD/Akira/2023 April 30th DnD Session.md",
+                "file": "Technical/Deno/Getting Started in Deno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hobbies/DnD/Akira/2023 April 30th DnD Session.md",
+                "file": "Technical/Deno/Getting Started in Deno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hobbies/DnD/Akira/2023 April 30th DnD Session.md"
+                "file": "Technical/Deno/Getting Started in Deno.md"
               }
             }
           }
@@ -203,6 +205,9 @@
   },
   "active": "c836c4dee99913f2",
   "lastOpenFiles": [
+    "Technical/Deno/Comparisons with Node.md",
+    "Technical/Deno/Getting Started in Deno.md",
+    "Technical/Deno",
     "Hobbies/DnD/Akira/2023 Jan 15 DnD.md",
     "Hobbies/DnD/Akira/2023 April 30th DnD Session.md",
     "Hobbies/DnD/Akira/2023 March 12th DnD Session.md",
