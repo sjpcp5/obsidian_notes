@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c836c4dee99913f2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -99,6 +109,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3e64e0f9dd6728a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -183,7 +201,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ccf8cb78e8f7080a",
+  "active": "c836c4dee99913f2",
   "lastOpenFiles": [
     "Hobbies/DnD/Akira/2023 Jan 15 DnD.md",
     "Hobbies/DnD/Akira/2023 April 30th DnD Session.md",
