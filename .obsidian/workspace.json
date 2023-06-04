@@ -71,9 +71,11 @@
             "id": "b4e24c8a101a7d2f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.4"
+                "file": "Hobbies/DnD/Akira/2023 June 3rd DnD session.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -152,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical/Deno/Getting Started in Deno.md",
+                "file": "Hobbies/DnD/Akira/2023 June 3rd DnD session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical/Deno/Getting Started in Deno.md",
+                "file": "Hobbies/DnD/Akira/2023 June 3rd DnD session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical/Deno/Getting Started in Deno.md"
+                "file": "Hobbies/DnD/Akira/2023 June 3rd DnD session.md"
               }
             }
           }
@@ -215,13 +217,14 @@
   },
   "active": "b4e24c8a101a7d2f",
   "lastOpenFiles": [
+    "Hobbies/DnD/Akira/2023 April 30th DnD Session.md",
+    "Hobbies/DnD/Akira/2023 June 3rd DnD session.md",
+    "Hobbies/DnD/Akira/Akira Sheet.md",
+    "Hobbies/DnD/Akira/2023 March 12th DnD Session.md",
+    "Hobbies/DnD/Akira/2023 Jan 15 DnD.md",
     "Technical/Deno/Comparisons with Node.md",
     "Technical/Deno/Getting Started in Deno.md",
     "Technical/Deno",
-    "Hobbies/DnD/Akira/2023 Jan 15 DnD.md",
-    "Hobbies/DnD/Akira/2023 April 30th DnD Session.md",
-    "Hobbies/DnD/Akira/2023 March 12th DnD Session.md",
-    "Hobbies/DnD/Akira/Akira Sheet.md",
     "Hobbies/DnD/Machetyl/April 15, 2023 Kendra's Campaign Group.md",
     "Hobbies/DnD/Machetyl",
     "Technical/RSI/Deployment Strategy.md",
