@@ -9,4 +9,11 @@
 - I try climbing the the rope and receive rope burn , The I attempt to climb again and make 2/3rds of the way up. Thrayrif handed me her hand and Fukuar grabbed both of us by his talons.
 - Holes in the wall, with top of the scroll case sticking out of them
 - William failed the constitution save from being dropped off by Fukuar
-- 
+- Things found and see
+	- A mace of disruption, 
+	- scrolls
+	- stalagmite floor to the ceiling with a belt wrapped around it
+	- ornate carved chest
+-  Elder Wolfe reads description on the belt and they read something about heat and fire its a very powerful magic item that enhances power. 
+- Fukuar brings the Queen up with her guard
+- The Queen looks at the belt and offers the belt to Thrayrift, then Thrayrift 
