@@ -23,6 +23,7 @@
 - William finds rings in the chest
 	- One ring can be used defensively
 	- the ring has three properties and can be expended
+	- simple black band, writting in abyssal within the ring band
 - Fukuar showing the circle and covering his eyes that's an illusion
 - The Queen throws a rock through the circle
 - Ildensive hears a clicking sound then it stops. So it was the rock bouncing around.
