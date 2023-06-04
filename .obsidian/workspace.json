@@ -66,9 +66,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b4e24c8a101a7d2f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -203,7 +213,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c836c4dee99913f2",
+  "active": "b4e24c8a101a7d2f",
   "lastOpenFiles": [
     "Technical/Deno/Comparisons with Node.md",
     "Technical/Deno/Getting Started in Deno.md",
