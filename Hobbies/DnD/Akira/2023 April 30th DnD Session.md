@@ -14,3 +14,4 @@ Meet a new Character Aldensive
 	- half drow half elf humanoid, Femme androgenous
 	- no siblings
 	- half orc friend
+- We enter city that requires to remove our weapons and to meet the Queen

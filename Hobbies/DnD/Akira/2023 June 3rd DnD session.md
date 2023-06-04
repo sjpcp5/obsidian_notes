@@ -16,4 +16,10 @@
 	- ornate carved chest
 -  Elder Wolfe reads description on the belt and they read something about heat and fire its a very powerful magic item that enhances power. 
 - Fukuar brings the Queen up with her guard
-- The Queen looks at the belt and offers the belt to Thrayrift, then Thrayrift 
+- The Queen looks at the belt and offers the belt to Thrayrift, then Thrayrift attunes to the belt
+- We look at the Mace - The Queen doesn't recognize it- it emits a strong bright light when striking the undead. Occasionally when you hit someone with it will turn them to dust.
+- Ildensive looks into the scrolls
+	- scroll of Mortenkinnens sword
+- William finds rings in the chest
+	- One ring can be used defensively
+	- 
