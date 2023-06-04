@@ -27,10 +27,14 @@
 	- One ring can be used defensively
 	- the ring has three properties and can be expended
 	- simple black band, writing in abyssal within the ring band. Blood cursed ring in strength. Ildensive attunes to it.
+	- Shinny Ring, ring of healing allows of casting of healing ward 4 times a day at first level. Using an action to cast it.
+	- tome that says exercise on; For dexter
 - Fukuar showing the circle and covering his eyes that's an illusion
 - The Queen throws a rock through the circle
 - Ildensive hears a clicking sound then it stops. So it was the rock bouncing around.
 - Fukuar flys up and finds a ledge that is like a perch where a large animal was nesting
 - Fukuar transforms under the Queen into Kitten form. He tries to help the Queen land safely
 - Fukuar grabbed both guards, one of the guards grabbed the pole and most of the rope.
-- 
+- - There is Minotaur, Queen, the guards,  the Queen kinda knows the place barely. 
+	- There is a door over here
+	- 

@@ -16,4 +16,4 @@ Meet a new Character Aldensive
 	- half orc friend
 - We enter city that requires to remove our weapons and to meet the Queen.
 - We went to explore one of holes on the map
-- There is Minotaur, Queen, the guards,  the Queen kinda knows the place barel
+
