@@ -5,4 +5,6 @@
 -  William climbs well
 -  Thrayrift climbs up on Athletics, 
 - We figured out how to use the unmovable rod and placed it horizontal above the rope to reach the top level
-- Fukuar is an a Giant Eagle/ ice Eagle from the feylands,  now and picks up Zoi and Elder Wolfe all the way up. He is struggling. He lands roughly. Zoi and Elder Wolfe have to roll a saving throw for dexterity.
+- Fukuar is an a Giant Eagle/ ice Eagle from the feylands,  now and picks up Zoi and Elder Wolfe all the way up. He is struggling. He lands roughly. Zoi and Elder Wolfe have to roll a saving throw for dexterity. Fukuar licks at the water skin of Elder Wolfe.
+- I try climbing the the rope and receive rope burn , The I attempt to climb again and make 2/3rds of the way up. Thrayrif handed me her hand and Fukuar grabbed both of us by his talons.
+- 
