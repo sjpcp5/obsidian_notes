@@ -4,4 +4,5 @@
 -  Fukuar is looking down at us from the highest level above
 -  William climbs well
 -  Thrayrift climbs up on Athletics, 
+- We figured out how to use the unmovable rod and placed it horizontal above the rope to reach the top level
 - 
