@@ -27,4 +27,5 @@
 - The Queen throws a rock through the circle
 - Ildensive hears a clicking sound then it stops. So it was the rock bouncing around.
 - Fukuar flys up and finds a ledge that is like a perch where a large animal was nesting
+- Fukuar transforms under the Queen into Kitten form. He tries to help the Queen land safely
 - 
