@@ -21,7 +21,8 @@
 - Ildensive looks into the scrolls, then Akira and Elder Wolfe look into the scrolls
 	- scroll of Mortenkinnens sword
 	- scroll of water breathing
-	- scroll of speed, its a haste spee
+	- scroll of speed, its a haste spell
+	- it has a label- detect thoughts (Wizard Spell only) spell level 6 
 - William finds rings in the chest
 	- One ring can be used defensively
 	- the ring has three properties and can be expended
@@ -31,4 +32,5 @@
 - Ildensive hears a clicking sound then it stops. So it was the rock bouncing around.
 - Fukuar flys up and finds a ledge that is like a perch where a large animal was nesting
 - Fukuar transforms under the Queen into Kitten form. He tries to help the Queen land safely
+- Fukuar grabbed both guards, one of the guards grabbed the pole and most of the rope.
 - 
