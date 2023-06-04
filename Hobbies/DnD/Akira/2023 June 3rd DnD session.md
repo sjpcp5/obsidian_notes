@@ -18,12 +18,14 @@
 - Fukuar brings the Queen up with her guard
 - The Queen looks at the belt and offers the belt to Thrayrift, then Thrayrift attunes to the belt
 - We look at the Mace - The Queen doesn't recognize it- it emits a strong bright light when striking the undead. Occasionally when you hit someone with it will turn them to dust.
-- Ildensive looks into the scrolls
+- Ildensive looks into the scrolls, then Akira and Elder Wolfe look into the scrolls
 	- scroll of Mortenkinnens sword
+	- scroll of water breathing
+	- scroll of speed, its a haste spee
 - William finds rings in the chest
 	- One ring can be used defensively
 	- the ring has three properties and can be expended
-	- simple black band, writting in abyssal within the ring band
+	- simple black band, writing in abyssal within the ring band. Blood cursed ring in strength. Ildensive attunes to it.
 - Fukuar showing the circle and covering his eyes that's an illusion
 - The Queen throws a rock through the circle
 - Ildensive hears a clicking sound then it stops. So it was the rock bouncing around.
