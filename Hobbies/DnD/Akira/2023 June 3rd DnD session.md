@@ -28,7 +28,7 @@
 	- the ring has three properties and can be expended
 	- simple black band, writing in abyssal within the ring band. Blood cursed ring in strength. Ildensive attunes to it.
 	- Shinny Ring, ring of healing allows of casting of healing ward 4 times a day at first level. Using an action to cast it.
-	- tome that says exercise on; For dexter
+	- tome that says exercise on; 33 years to charge, For Max dexterity
 - Fukuar showing the circle and covering his eyes that's an illusion
 - The Queen throws a rock through the circle
 - Ildensive hears a clicking sound then it stops. So it was the rock bouncing around.
