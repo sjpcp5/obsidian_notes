@@ -1,5 +1,5 @@
 Successive rolls
-* 5 perception rolls
+* 6 perception rolls
 * 7  arcana rolls
 * 2 athethics 
 * 1 survival
@@ -10,6 +10,7 @@ Healing Potions
 
 Special Items
 * 1 | ring of teleportation for self only
+* 1 | ring of advance teleportation unlimited and for anywhere I have been
 * 1 | book for akira rituals from mom and dad
 * 1 | narrative poem with encrypted message
 * 1 | familiar Psuedo Dragon
