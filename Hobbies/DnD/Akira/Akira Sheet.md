@@ -14,7 +14,9 @@ Special Items
 * 1 | book for akira rituals from mom and dad
 * 1 | narrative poem with encrypted message
 * 1 | familiar Psuedo Dragon
-* 1 | Platium
+* 1 | Platin but paid to the guild with 2 copper left
+* 1 | monocle 
+* 1 | tome memory and logic excercise intelligence 48hrs intelligence goes +2 increase and increases the total to 22. It does not tingle with magical energy at the moment. Backstory he has read it twice. 
 
 ### Find Familar
 #### PSEUDODRAGON

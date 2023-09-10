@@ -44,55 +44,19 @@
             }
           },
           {
-            "id": "ccf8cb78e8f7080a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hobbies/DnD/Akira/2023 April 30th DnD Session.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c836c4dee99913f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technical/Deno/Getting Started in Deno.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4e24c8a101a7d2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hobbies/DnD/Akira/2023 June 3rd DnD session.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "87d40eddaba0828b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hobbies/DnD/Akira/2023 June 3rd DnD session.md",
+                "file": "Hobbies/DnD/Akira/Akira Sheet.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hobbies/DnD/Akira/2023 June 3rd DnD session.md",
+                "file": "Hobbies/DnD/Akira/Akira Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hobbies/DnD/Akira/2023 June 3rd DnD session.md",
+                "file": "Hobbies/DnD/Akira/Akira Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hobbies/DnD/Akira/2023 June 3rd DnD session.md"
+                "file": "Hobbies/DnD/Akira/Akira Sheet.md"
               }
             }
           }
@@ -229,13 +193,14 @@
   },
   "active": "87d40eddaba0828b",
   "lastOpenFiles": [
-    "Hobbies/DnD/Akira/2023 April 30th DnD Session.md",
-    "Hobbies/DnD/Akira/2023 March 12th DnD Session.md",
-    "Hobbies/DnD/Akira/Akira Sheet.md",
-    "Hobbies/DnD/Akira/2023 June 3rd DnD session.md",
     "Hobbies/DnD/Akira/2023 Jan 15 DnD.md",
-    "Technical/Deno/Comparisons with Node.md",
+    "Hobbies/DnD/Akira/Akira Sheet.md",
+    "Hobbies/DnD/Akira/2023 April 30th DnD Session.md",
     "Technical/Deno/Getting Started in Deno.md",
+    "Hobbies/DnD/Akira/2023 June 3rd DnD session.md",
+    "Hobbies/DnD/Akira/2023 Sept 10 DnD Session.md",
+    "Hobbies/DnD/Akira/2023 March 12th DnD Session.md",
+    "Technical/Deno/Comparisons with Node.md",
     "Technical/Deno",
     "Hobbies/DnD/Machetyl/April 15, 2023 Kendra's Campaign Group.md",
     "Hobbies/DnD/Machetyl",
