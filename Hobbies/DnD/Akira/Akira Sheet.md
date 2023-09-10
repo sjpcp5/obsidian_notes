@@ -1,6 +1,6 @@
 Successive rolls
 * 5 perception rolls
-* 5 arcana rolls
+* 7  arcana rolls
 * 2 athethics 
 * 1 survival
 Healing Potions

@@ -37,4 +37,6 @@
 - Fukuar grabbed both guards, one of the guards grabbed the pole and most of the rope.
 - - There is Minotaur, Queen, the guards,  the Queen kinda knows the place barely. 
 	- There is a door over here
-	- 
+-  The eyes on the Minotaur are starting to glow and the great axe is starting to glow
+-  The muscles start to move under the skin
+-  The Queens fingers are growing longer
