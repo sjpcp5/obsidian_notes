@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hobbies/DnD/Akira/2023 Sept 10 DnD Session.md",
+                "file": "Hobbies/DnD/Akira/Akira Sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hobbies/DnD/Akira/Akira Sheet.md",
+                "file": "Hobbies/DnD/Akira/2023 Sept 10 DnD Session.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87d40eddaba0828b",
+  "active": "4c341f508af53977",
   "lastOpenFiles": [
     "Hobbies/DnD/Akira/2023 Sept 10 DnD Session.md",
     "Hobbies/DnD/Akira/Akira Sheet.md",

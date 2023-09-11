@@ -19,6 +19,11 @@ Special Items
 * 1 | monocle 
 * 1 | tome memory and logic exercise intelligence 48 hrs intelligence goes +2 increase and increases the total to 22. It does not tingle with magical energy at the moment. Backstory he has read it twice. 
 
+Actions 
+	- Extra Attack
+	- Second Wind
+	- Action Surge
+
 ### Find Familar
 #### PSEUDODRAGON
 Tiny dragon, neutral good
