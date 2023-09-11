@@ -23,7 +23,13 @@ A magical leprechaun stole high magical items from use
 - 3rd one took semen, 1 wavy horizontal line
 - 4th one took fey urine, 2 wavy horizontal lines
 - 5th one took all the fluids and poop then opened the next room
-### Next Room
+### Second Room
 We enter the next room, pedestal is all the way down hexagon straight vertical line on top
-We discovered the panels may require physical objects.
-We tried skin and scales
+We discovered the panels may require physical objects and definitely not fluids
+We tried scales nothing
+We tried skin and the door opens
+
+### Third Room
+80 ft gap 
+very deep swimming pool
+We all go down the tunnel
