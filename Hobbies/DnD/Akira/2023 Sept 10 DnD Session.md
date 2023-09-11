@@ -18,5 +18,8 @@ A magical leprechaun stole high magical items from use
 - William has stops bleeding after trying blood on pillar
 - We pour water on it and it starts to react. We add holy water and it reacts but both actions barely do anything
 - We spit on it and it activated
-- 1st one took blood
-- 2nd one took spit
+- 1st one took blood, 3 wavy lines vertical
+- 2nd one took spit, 4 wavy lines
+- 3rd one took semen, 1 wavy horizontal line
+- 4th one took fey urine, 2 wavy horizontal lines
+- 5th one took 

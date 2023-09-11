@@ -1,15 +1,15 @@
-Successive rolls
+### Successive rolls
 * 2 Perception rolls
 * 4 Arcana rolls
 * 2 athethics 
 * 1 Survival
 * 1 Religion
-Healing Potions
+### Healing Potions
 * 1 | 30HP potion
 * 2 | superior potion 6d4 + 4
 * 3 | greater potions 4d4 + 4
 
-Special Items
+### Special Items
 * 1 | ring of teleportation for self only
 * 1 | ring of advance teleportation unlimited and for anywhere I have been
 * 1 | book for Akira rituals from mom and dad
@@ -19,19 +19,19 @@ Special Items
 * 1 | monocle 
 * 1 | tome memory and logic exercise intelligence 48 hrs intelligence goes +2 increase and increases the total to 22. It does not tingle with magical energy at the moment. Backstory he has read it twice. 
 
-Actions 
+### Actions 
 	- Extra Attack: One extra attack when attacking
 	- Second Wind: bonus action to regain hit points
 	- Action Surge : 1 extra action and possible bonus action
 	- Breath Weapon: 15 ft cone of psychic damage. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. After you use your breath weapon, you cannot use it again until you complete a short rest
-	- Protection Fighting Style: 
+	- Protection Fighting Style: within 5 feet I can protect an ally and impose disadvantage on an attacking entity
 
 ### Find Familar
 #### PSEUDODRAGON
 Tiny dragon, neutral good
 
 Armor Class 13 (natural armor)
-Hil Poinls 7 (2d4 + 2)
+Hit Poinls 7 (2d4 + 2)
 Speed 15 ft., fly 60 ft.
 
 CHA
@@ -65,8 +65,8 @@ unconscious for the same duralion, or until it takes damage or
 another creature uses an action to wake it.
 
 **Skills** Perception +3, Stealth +4
-**Senses** blindsight 10 fI., darkvision 60 fI., passive Perception 13
-**Languages** understands Common and Draconic bul doesn'l
+**Senses** blindsight 10 ft, darkvision 60 ft., passive Perception 13
+**Languages** understands Common and Draconic but doesn't
 speak
 **Challenge** 1/4 (50 XP)
 
