@@ -14,3 +14,9 @@ A magical leprechaun stole high magical items from use
 - We try fire, water, air and blood
 - We decided each of us will take a panel and nothing happens
 - We hear faint rock and roll music 
+- Eldar Wolf offers blood to the pillar
+- William has stops bleeding after trying blood on pillar
+- We pour water on it and it starts to react. We add holy water and it reacts but both actions barely do anything
+- We spit on it and it activated
+- 1st one took blood
+- 2nd one took spit
