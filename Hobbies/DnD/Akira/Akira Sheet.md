@@ -11,10 +11,10 @@ Healing Potions
 Special Items
 * 1 | ring of teleportation for self only
 * 1 | ring of advance teleportation unlimited and for anywhere I have been
-* 1 | book for akira rituals from mom and dad
+* 1 | book for Akira rituals from mom and dad
 * 1 | narrative poem with encrypted message
 * 1 | familiar Psuedo Dragon
-* 1 | Platin but paid to the guild with 2 copper left
+* 1 | Platinum but paid to the guild with 2 copper left
 * 1 | monocle 
 * 1 | tome memory and logic excercise intelligence 48hrs intelligence goes +2 increase and increases the total to 22. It does not tingle with magical energy at the moment. Backstory he has read it twice. 
 
