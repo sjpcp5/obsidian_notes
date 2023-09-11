@@ -1,6 +1,6 @@
 
 I leveled up to level 5 eldritch knight
-After a 3 day party celebration in a city
+### After a 3 day party celebration in a city
 A magical leprechaun stole high magical items from use
 - We decide to hunt this guy down with high stealth we enter a room full of panels that suggest a puzzle
 - William finds a triangular shape pillar with three squiggly lines on it possibly fire element (fifth element symbols)
@@ -22,4 +22,8 @@ A magical leprechaun stole high magical items from use
 - 2nd one took spit, 4 wavy lines
 - 3rd one took semen, 1 wavy horizontal line
 - 4th one took fey urine, 2 wavy horizontal lines
-- 5th one took 
+- 5th one took all the fluids and poop then opened the next room
+### Next Room
+We enter the next room, pedestal is all the way down hexagon straight vertical line on top
+We discovered the panels may require physical objects.
+We tried skin and scales

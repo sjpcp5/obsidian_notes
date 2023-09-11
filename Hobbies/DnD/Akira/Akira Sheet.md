@@ -28,31 +28,32 @@
 
 ### Find Familar
 #### PSEUDODRAGON
-Tiny dragon, neutral good
+_Tiny dragon, neutral good_
 
-Armor Class 13 (natural armor)
-Hit Poinls 7 (2d4 + 2)
-Speed 15 ft., fly 60 ft.
 
-CHA
+**Armor Class** 13 (natural armor)
+**Hit Points** 7 (2d4 + 2)
+**Speed** 15 ft., fly 60 ft.
+
+**CHA**
 10 (+0)
-WIS
+**WIS**
 12 (+1)
-INI
+**INT**
 10 (+0)
-CON
+**CON**
 13 (+1)
-DEX
+**DEX**
 15 (+2)
-STR
+**STR**
 6 (-2)
 
-**Keen Senses**:The pseudodragon has advanlage on Wisdom
-(Perceplion) checks Ihal rely on sighl, hearing, or smell.
-**Magie Resistanee**: The pseudodragon has advanlage on saving
-Ihrows againsl spells and olher magical effecls.
+**Keen Senses**:The pseudodragon has advantage on Wisdom
+(Perception) checks that rely on sight, hearing, or smell.
+**Magic Resistanee**: The pseudodragon has advantage on saving
+throws against spells and other magical effects.
 **Limited Telepathy**: The pseudodragon can communicate
-simple ideas, emotions, and images telepathically wilh any
+simple ideas, emotions, and images telepathically with any
 crealure wilhin 100 feel ofillhal can understand a language.
 #### ACTIONS
 **Bite** Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
@@ -71,7 +72,7 @@ speak
 **Challenge** 1/4 (50 XP)
 
 ACTlONS
-Bite. Melee Weapon Attaek: +4 lo hil, reach 5 fI., one largel.
+Bite. Melee Weapon Attack: +4 lo hil, reach 5 fI., one largel.
 Hit: 5 (ld6 + 2) piercing damage.
 Claw. Melee Weapon Attaek: +4 lo hil, reach 5 fI., one largel.
 Hit: 4 (ld4 + 2) slashing damage.
