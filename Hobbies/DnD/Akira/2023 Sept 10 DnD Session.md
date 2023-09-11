@@ -32,4 +32,4 @@ We tried skin and the door opens
 ### Third Room
 80 ft gap 
 very deep swimming pool
-We all go down the tunnel
+We all go down the tunnel that curves to left and then the right
