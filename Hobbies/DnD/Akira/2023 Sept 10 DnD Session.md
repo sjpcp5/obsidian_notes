@@ -11,4 +11,6 @@ A magical leprechaun stole high magical items from use
 - I push hard on a panel, I cut myself with a few drops of blood goes spilling on the floor near the pillar, but we notice a small dip in the pillar
 - I try to drip one drop of blood on the pillar nothing happens
 - William checks on plate by placing half his weight on the floor panel and nothing happens
-- 
+- We try fire, water, air and blood
+- We decided each of us will take a panel and nothing happens
+- We hear faint rock and roll music 

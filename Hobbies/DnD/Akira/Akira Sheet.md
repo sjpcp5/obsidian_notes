@@ -20,9 +20,11 @@ Special Items
 * 1 | tome memory and logic exercise intelligence 48 hrs intelligence goes +2 increase and increases the total to 22. It does not tingle with magical energy at the moment. Backstory he has read it twice. 
 
 Actions 
-	- Extra Attack
-	- Second Wind
-	- Action Surge
+	- Extra Attack: One extra attack when attacking
+	- Second Wind: bonus action to regain hit points
+	- Action Surge : 1 extra action and possible bonus action
+	- Breath Weapon: 15 ft cone of psychic damage. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. After you use your breath weapon, you cannot use it again until you complete a short rest
+	- Protection Fighting Style: 
 
 ### Find Familar
 #### PSEUDODRAGON
