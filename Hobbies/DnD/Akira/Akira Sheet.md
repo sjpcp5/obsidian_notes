@@ -1,8 +1,9 @@
 Successive rolls
-* 6 perception rolls
-* 7  arcana rolls
+* 2 Perception rolls
+* 4 Arcana rolls
 * 2 athethics 
-* 1 survival
+* 1 Survival
+* 1 Religion
 Healing Potions
 * 1 | 30HP potion
 * 2 | superior potion 6d4 + 4
@@ -16,7 +17,7 @@ Special Items
 * 1 | familiar Psuedo Dragon
 * 1 | Platinum but paid to the guild with 2 copper left
 * 1 | monocle 
-* 1 | tome memory and logic excercise intelligence 48hrs intelligence goes +2 increase and increases the total to 22. It does not tingle with magical energy at the moment. Backstory he has read it twice. 
+* 1 | tome memory and logic exercise intelligence 48 hrs intelligence goes +2 increase and increases the total to 22. It does not tingle with magical energy at the moment. Backstory he has read it twice. 
 
 ### Find Familar
 #### PSEUDODRAGON
