@@ -35,9 +35,11 @@
             "id": "3b405ac483d5d554",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.5"
+                "file": "Hobbies/DnD/Akira/2023 Sept 10 DnD Session.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
