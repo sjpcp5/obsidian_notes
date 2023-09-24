@@ -4,9 +4,9 @@ Rust if your code compiles you have no worries running into issues.
 
 Rust memory management is handled by Rust without the need for a garbage collector
 
-Native cross-platform executables
+Native cross-platform executable
 
-Helps enforce consistency which supports governance and makes onboarding easier
+Helps enforce consistency which supports governance and makes on-boarding easier
 
 Allows mentoring of developers to focus on areas other than defensive coding
 
@@ -27,7 +27,7 @@ Its starting to make its way into tech industry powerhouse like Microsoft, Amazo
 
 
 #Variables
-Something unique to Rust if you assign a value to a variable you can't change it. Because if you intend to change the value of a variable at runtime after you've assigned a value to it, you have to explicity declare the variable as mutable, 
+Something unique to Rust if you assign a value to a variable you can't change it. Because if you intend to change the value of a variable at runtime after you've assigned a value to it, you have to explicitly declare the variable as mutable, 
 
 #Ownership and Borrowing is the learning curve that new Rust Developers struggle with at first.
 

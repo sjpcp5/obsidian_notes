@@ -1,5 +1,5 @@
 # Rust Topic: Strings
-#Srings
+#Strings
 - Strings are complex in Rust as compared to many other languages
 
 - This trade off that Rust has made to support its core principles.
@@ -81,6 +81,6 @@ let person_name_slice2 = person_name_string.as_str();
 }
 ```
 
-When store the memory on the heap we note the address of where we stored the data then we use the pointer, which is a special variable that holds the memory address on the heap so that we can find that data again later. 
-There are some special symbols that we use with pointers which are asterisks `*` and ampersands`&`, and gross oversimplication of the subject an ampersand tell us the memory address where the data lives.
+When we store the memory on the heap we note the address of where we stored the data then we use the pointer, which is a special variable that holds the memory address on the heap so that we can find that data again later. 
+There are some special symbols that we use with pointers which are asterisks `*` and ampersands`&`, and gross over simplification of the subject an ampersand tell us the memory address where the data lives.
 So in this scenario the string data isn't copied to the string slice, rather the string slice is effectively holding the memory address where the data lives and it's this scenario where the sting slice is working with a string that is stored on the heap. This might also be called derefferencing the variable.
