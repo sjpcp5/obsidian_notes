@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3b405ac483d5d554",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87d40eddaba0828b",
+  "active": "3b405ac483d5d554",
   "lastOpenFiles": [
     "Hobbies/DnD/Akira/Akira Sheet.md",
     "Hobbies/DnD/Akira/2023 Sept 10 DnD Session.md",
