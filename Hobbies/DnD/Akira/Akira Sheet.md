@@ -1,7 +1,7 @@
 
 intelligence = 16 (+3)
 health points = 65
-current hit points = 51
+current hit points = 41
 Arcana = 3
 max hit die = 6
 spell attack bonus = 5

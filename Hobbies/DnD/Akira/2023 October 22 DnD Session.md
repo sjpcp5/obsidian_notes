@@ -16,3 +16,5 @@ We get through door A,
 William found a trip wire 2 ft from the floor 
 - successful disarmed the trap
 Can't run through the hall way it will trigger the traps above us. 
+I took 10 slashing damaging 
+- continuing on and no rest
