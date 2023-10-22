@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hobbies/DnD/Akira/2023 Sept 10 DnD Session.md",
+                "file": "Hobbies/DnD/Akira/2023 October 22 DnD Session.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,8 +108,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical/Rust/Rust Strings and String Slices 20230106.md",
+                "file": "Hobbies/DnD/Akira/2023 October 22 DnD Session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical/Rust/Rust Strings and String Slices 20230106.md",
+                "file": "Hobbies/DnD/Akira/2023 October 22 DnD Session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical/Rust/Rust Strings and String Slices 20230106.md"
+                "file": "Hobbies/DnD/Akira/2023 October 22 DnD Session.md"
               }
             }
           },
@@ -200,11 +199,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e690999f5e5ca6c",
+  "active": "87d40eddaba0828b",
   "lastOpenFiles": [
-    "Technical/Rust/Why Rust?.md",
-    "Hobbies/DnD/Akira/Akira Sheet.md",
     "Hobbies/DnD/Akira/2023 Sept 10 DnD Session.md",
+    "Hobbies/DnD/Akira/2023 October 22 DnD Session.md",
+    "Untitled.md",
+    "Hobbies/DnD/Akira/Akira Sheet.md",
+    "Technical/Rust/Why Rust?.md",
     "Hobbies/DnD/Akira/2023 March 12th DnD Session.md",
     "Hobbies/DnD/Akira/2023 Jan 15 DnD.md",
     "Hobbies/DnD/Akira/2023 April 30th DnD Session.md",
