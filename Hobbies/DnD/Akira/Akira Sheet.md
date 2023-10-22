@@ -1,9 +1,11 @@
 
 intelligence = 16 (+3)
 health points = 65
+Arcana = 3
+max hit die 6
 ### Successive rolls
 * 2 Perception rolls
-* 4 Arcana rolls
+* 5 Arcana rolls
 * 2 athethics 
 * 1 Survival
 * 1 Religion
