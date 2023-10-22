@@ -1,3 +1,6 @@
+
+intelligence = 16 (+3)
+health points = 65
 ### Successive rolls
 * 2 Perception rolls
 * 4 Arcana rolls

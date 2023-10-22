@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hobbies/DnD/Akira/2023 October 22 DnD Session.md",
+                "file": "Hobbies/DnD/Akira/Akira Sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hobbies/DnD/Akira/2023 October 22 DnD Session.md",
+                "file": "Hobbies/DnD/Akira/Akira Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hobbies/DnD/Akira/2023 October 22 DnD Session.md",
+                "file": "Hobbies/DnD/Akira/Akira Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hobbies/DnD/Akira/2023 October 22 DnD Session.md"
+                "file": "Hobbies/DnD/Akira/Akira Sheet.md"
               }
             }
           },
@@ -201,8 +201,8 @@
   },
   "active": "87d40eddaba0828b",
   "lastOpenFiles": [
-    "Hobbies/DnD/Akira/2023 Sept 10 DnD Session.md",
     "Hobbies/DnD/Akira/2023 October 22 DnD Session.md",
+    "Hobbies/DnD/Akira/2023 Sept 10 DnD Session.md",
     "Untitled.md",
     "Hobbies/DnD/Akira/Akira Sheet.md",
     "Technical/Rust/Why Rust?.md",
