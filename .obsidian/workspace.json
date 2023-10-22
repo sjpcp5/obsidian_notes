@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7e690999f5e5ca6c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -162,6 +172,16 @@
                 "file": "Technical/Rust/Rust Strings and String Slices 20230106.md"
               }
             }
+          },
+          {
+            "id": "ff180c6f831ce38c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -180,7 +200,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d491be736e164bc8",
+  "active": "7e690999f5e5ca6c",
   "lastOpenFiles": [
     "Technical/Rust/Why Rust?.md",
     "Hobbies/DnD/Akira/Akira Sheet.md",
