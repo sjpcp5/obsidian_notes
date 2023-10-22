@@ -9,3 +9,8 @@ disintegrate
  - this is on all the doors
 power word: kill
 finger of death
+
+We get through door A, 
+15 ft down the hallway - a trap step stone 1ft by 1ft trigger
+
+William found a trip wire 2 ft from the floor 
