@@ -14,3 +14,5 @@ We get through door A,
 15 ft down the hallway - a trap step stone 1ft by 1ft trigger
 
 William found a trip wire 2 ft from the floor 
+- successful disarmed the trap
+Can't run through the hall way it will trigger the traps above us. 
