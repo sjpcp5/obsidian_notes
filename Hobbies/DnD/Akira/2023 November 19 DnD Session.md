@@ -1,7 +1,7 @@
 We are in a octagon room.
 Path straight across a into a cross.
 
-5 Doors name Kelly, Bob, dick, JoAnne, Tom, John written in Abyssal
+5 Doors name Kelly, Bob, Dick, JoAnne, Tom, John written in Abyssal
  
 Ildensive - investigation - 
 **Tom** door 14 roll success - appears to be normal with skeleton key hole with a standard door knob door, the door opens away from us, made out of a rare wood. 
