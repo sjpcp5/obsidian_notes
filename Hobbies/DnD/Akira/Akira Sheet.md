@@ -2,8 +2,9 @@
 intelligence = 17 (+3)
 constitution = 16 (+3)
 health points = 65
-current hit points = 41
-temporary hit points = 46
+current hit points = 37
+temporary hit points = 37
+poison damage = 2
 Arcana = 4
 max hit die = 5
 spell attack bonus = 6
