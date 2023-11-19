@@ -1,5 +1,6 @@
 
 intelligence = 17 (+3)
+constitution = 16 (+3)
 health points = 65
 current hit points = 41
 Arcana = 3
@@ -17,9 +18,9 @@ spell casting ability intelligence
 * 1 Investigation
 * 1 Persuasion
 ### Healing Potions
-* 1 | 30HP potion
-* 2 | superior potion 6d4 + 4
-* 3 | greater potions 4d4 + 4
+* 1 | 30 HP potion
+* 2 | superior potion 6 d4 + 4
+* 3 | greater potions 4 d4 + 4
 
 ### Special Items
 * 1 | ring of teleportation for self only (Stolen)
