@@ -37,6 +37,8 @@ Floor seems to be higher. Spots holes in the ceiling spotted by Fuqar
 
 #### Detect good and evil - Thraerif gets an urge to look over the edge of the path and finds a faint glow. The glow is getting brighter.
 - 14 or higher clicking nose coming from above the large room is condensing the roof is coming down with spikes, and floor is rising
+-  initiative order - Zoe, Ildensive, Thraerif, Akira, Eldar Wolf, William, Fuqar
+- 
 
 
 
