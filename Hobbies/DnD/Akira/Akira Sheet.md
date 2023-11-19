@@ -1,19 +1,21 @@
 
-intelligence = 16 (+3)
+intelligence = 17 (+3)
 health points = 65
 current hit points = 41
 Arcana = 3
-max hit die = 6
-spell attack bonus = 5
-spell save DC = 13
+max hit die = 5
+spell attack bonus = 6
+spell save DC = 14
 spell casting ability intelligence
 
 ### Successive rolls
-* 2 Perception rolls
+* 3 Perception rolls
 * 5 Arcana rolls
 * 2 athethics 
 * 1 Survival
 * 1 Religion
+* 1 Investigation
+* 1 Persuasion
 ### Healing Potions
 * 1 | 30HP potion
 * 2 | superior potion 6d4 + 4
