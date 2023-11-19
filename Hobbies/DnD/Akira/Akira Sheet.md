@@ -4,7 +4,7 @@ constitution = 16 (+3)
 health points = 65
 current hit points = 37
 temporary hit points = 37
-poison damage = 2
+poison damage = 6
 Arcana = 4
 max hit die = 5
 spell attack bonus = 6
@@ -20,7 +20,6 @@ spell casting ability intelligence
 * 3 Investigation
 * 1 Persuasion
 ### Healing Potions
-* 1 | 30 HP potion
 * 2 | superior potion 6 d4 + 4
 * 3 | greater potions 4 d4 + 4
 
