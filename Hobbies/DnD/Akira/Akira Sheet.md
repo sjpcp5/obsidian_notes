@@ -12,11 +12,11 @@ spell casting ability intelligence
 
 ### Successive rolls
 * 3 Perception rolls
-* 1 Arcana rolls
+* 2 Arcana rolls
 * 2 Athletics 
 * 1 Survival
 * 1 Religion
-* 2 Investigation
+* 3 Investigation
 * 1 Persuasion
 ### Healing Potions
 * 1 | 30 HP potion
