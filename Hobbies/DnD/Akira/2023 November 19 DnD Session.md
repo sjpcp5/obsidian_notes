@@ -20,7 +20,8 @@ Akira investigates **Harry** door with assistance - 19 - the clam shell moves up
  and can spin it sideways. When you turn it to the side there is hole for a key in the middle of clam. Push to open the door.
  - The door is made out of Atamantine.
  - faint abjuration magical aura (**_The abjuration school of magic encompasses protective spells. They create a physical or magical barrier, negate magical or physical abilities, harm trespassers, or even banish the subject of the spell to another plane of existence._**)
- - Akira unlocks the door by fingering the clam shell
+ - Akira unlocks the door by fingering the clam shell and reveals a hallway
+ - investigate hallway - rolled
    
 William investigates **Dick**  - material stone or metal not recognizable, door swings away does not have a key hole but has a ring knocker. When you lift up the ring it has a panel. 
 	- the panel - Arcana  check - 11 rolled - 
