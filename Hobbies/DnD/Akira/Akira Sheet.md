@@ -3,7 +3,7 @@ intelligence = 17 (+3)
 constitution = 16 (+3)
 health points = 65
 current hit points = 41
-Arcana = 3
+Arcana = 4
 max hit die = 5
 spell attack bonus = 6
 spell save DC = 14
@@ -11,8 +11,8 @@ spell casting ability intelligence
 
 ### Successive rolls
 * 3 Perception rolls
-* 5 Arcana rolls
-* 2 Athlethics 
+* 1 Arcana rolls
+* 2 Athletics 
 * 1 Survival
 * 1 Religion
 * 2 Investigation

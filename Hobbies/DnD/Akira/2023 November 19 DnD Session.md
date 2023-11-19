@@ -12,12 +12,13 @@ Thraerif - looking at elephant in a tree - checking something
 Akira investigates **Harry** door with assistance - 19 - the clam shell moves up
  and can spin it sideways. When you turn it to the side there is hole for a key in the middle of clam. Push to open the door.
  The door is made out of Atamantine.
+ -faint abjuration magical aura (**_The abjuration school of magic encompasses protective spells. They create a physical or magical barrier, negate magical or physical abilities, harm trespassers, or even banish the subject of the spell to another plane of existence._**)
    
 William investigates **Dick**  - material stone or metal not recognizable, door swings away does not have a key hole but has a ring knocker. When you lift up the ring it has a panel. 
 	- the panel - Arcana  check - 11 rolled - 
-**JoAnne** door is investigated by William:  wooden door, opens toward us, pull only,  
+**JoAnne** door is investigated by William:  wooden door, opens toward us, pull only, room has bed with a switch next to it. William flips the switch. Moonlight reveals on the panel. Escape tunnel and it closed. 
 
-**Kelly** normal door? failed investigation
+**Kelli** normal door? failed investigation
 
 Floor seems to be higher. Spots holes in the ceiling spotted by Fuqar
 
