@@ -23,6 +23,7 @@ Akira investigates **Harry** door with assistance - 19 - the clam shell moves up
  - Akira unlocks the door by fingering the clam shell and reveals a hallway
  - investigate hallway - rolled a 20 - no traps or arcana 
  - hallway has to walk with precision and step in the steps - Army marching in step
+ - Akira goes down the hallway and triggers a trip wire and receives 10 damage
    
 William investigates **Dick**  - material stone or metal not recognizable, door swings away does not have a key hole but has a ring knocker. When you lift up the ring it has a panel. 
 	- the panel - Arcana  check - 11 rolled - 
