@@ -18,7 +18,7 @@ export class FleetDataService {
 };
 ```
 
-#### Data in JSON file
+#### Data in JSON file4
 	- create data file `fleet-data.js`
 ```
 export let fleet = [
