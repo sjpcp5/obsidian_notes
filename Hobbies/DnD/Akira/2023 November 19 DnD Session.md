@@ -40,5 +40,6 @@ Floor seems to be higher. Spots holes in the ceiling spotted by Fuqar
 -  initiative order - Zoe, Ildensive, Thraerif, Akira, Eldar Wolf, William, Fuqar
 - After several hours and tons of damage we arrive to a junction 
 
-
+- arrived to door - 
+- 
 
