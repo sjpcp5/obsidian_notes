@@ -12,8 +12,8 @@ Allows mentoring of developers to focus on areas other than defensive coding
 
 ## The Catch
 Rust has a steep running learning curve.
-Steep in one area which is the tradeoffs that were made for the speed and safety, which revolve around memory management.
-You need to think about the code your writting in a different way and thats not easy.
+Steep in one area which is the trade offs that were made for the speed and safety, which revolve around memory management.
+You need to think about the code your writing in a different way and that's not easy.
 
 ## Thoughts
 
@@ -31,4 +31,4 @@ Something unique to Rust if you assign a value to a variable you can't change it
 
 #Ownership and Borrowing is the learning curve that new Rust Developers struggle with at first.
 
-www.rustup.rs to setup the dev environment for linux environment
+www.rustup.rs to setup the dev environment for Linux environment

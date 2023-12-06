@@ -16,7 +16,7 @@ Strings
 &str
 * Vector of u8 data
 * immutable
-* Can be stored on the heap, stack or embeded in the compiled code.
+* Can be stored on the heap, stack or embedded in the compiled code.
 
 Its hard to cover one topic in Rust because much of the topics in it overlaps. 
 It would be good to reference this in the future when we talk about variables and variable immutability.
@@ -43,7 +43,7 @@ let person_name_string:&str = person_name_slice.to_string();
 
 ```
 
-String literals are embeded in code versus being stored in the stack or on the heap but they are also a string slice. 
+String literals are embedded in code versus being stored in the stack or on the heap but they are also a string slice. 
 If we want to assign a string literal to a type of string we need to call the to_string method on the string literal.
 
 Just one way to do it

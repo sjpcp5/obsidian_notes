@@ -1,9 +1,9 @@
-# Rust Topic: String Concatination
+# Rust Topic: String Concatenation
 
-Combining multiple strings togther is called concatenation
+Combining multiple strings together is called concatenation
 ```
 MyString = String1 + String2;
 ```
 String slices are immutable
 
-Tough topic to go over if Rust varibles aren't understood yet.
+Tough topic to go over if Rust variables aren't understood yet.

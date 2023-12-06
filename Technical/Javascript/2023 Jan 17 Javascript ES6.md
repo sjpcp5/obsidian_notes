@@ -1,7 +1,7 @@
-# ES6 Object-oriented Programing Javascript
+# ES6 Object-oriented Programming Javascript
 
 - Classes - stands for classification its a way define an object
-	- inheritance - example drone or car might share some functionaility 
+	- inheritance - example drone or car might share some functionality 
 	- Create an abstract class called Vehicle
 - All objects derived from Object
 - Modules - Data service class will consolidate everything. Inside the service we will have a list of cars and a list of drone objects. With functions to access the data. Functions are called methods within a class example `getCarByLicense()` &`sortCarsByMake()`
@@ -16,7 +16,7 @@
 
 ### Dev environment
 - In the Browser Chrome or Firefox: Use F12 to open dev tools and to refresh
-- To support older browsers we need to be working with transpilers and polyfills
+- To support older browsers we need to be working with transpilers and poly-fills
 - To check compatibility use Kangax.github.io : http://kangax.github.io/compat-table/es6/ 
 - Typscript/Babel Compiler Transpliers on't allow subclassing
 - Rapid ES6 Training pluralsight course to quickly get up to speed with ES6

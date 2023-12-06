@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hobbies/DnD/Akira/2023 November 19 DnD Session.md",
+                "file": "Technical/Javascript/2023 Jan 23 Creating a Data Service Class.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hobbies/DnD/Akira/2023 November 19 DnD Session.md",
+                "file": "Technical/Javascript/2023 Jan 23 Creating a Data Service Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hobbies/DnD/Akira/2023 November 19 DnD Session.md",
+                "file": "Technical/Javascript/2023 Jan 23 Creating a Data Service Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hobbies/DnD/Akira/2023 November 19 DnD Session.md"
+                "file": "Technical/Javascript/2023 Jan 23 Creating a Data Service Class.md"
               }
             }
           },
@@ -179,14 +179,30 @@
   },
   "active": "33b9625f040d805a",
   "lastOpenFiles": [
-    "Hobbies/DnD/Akira/Akira Sheet.md",
+    "Technical/Javascript/2023 Jan 26 User Interface Classes.md",
+    "Technical/Javascript/2023 Jan 27 Javascript 30.md",
+    "Pasted image 20230203160855.png",
+    "Pasted image 20230201152708.png",
+    "Pasted image 20230201152454.png",
+    "Pasted image 20230126173009.png",
+    "Pasted image 20230126172930.png",
+    "Pasted image 20230119180734.png",
+    "Pasted image 20230119174320.png",
+    "Pasted image 20230119171556.png",
+    "Technical/Rust/Why Rust?.md",
+    "Technical/Rust/Rust Strings and String Slices 20230106.md",
+    "Technical/Rust/Rust String Concatination 20230113.md",
+    "Technical/Rust/2022-12-23 Rust Data types.md",
+    "Technical/Javascript/2023 Jan 17 Javascript ES6.md",
+    "Technical/Git/2022-12-21 Undoing Git Mistakes.md",
+    "Technical/Azure/2023 Jan 24 Azure Introduction.md",
     "Hobbies/DnD/Akira/2023 November 19 DnD Session.md",
+    "Hobbies/DnD/Akira/Akira Sheet.md",
     "Hobbies/DnD/Akira/2023 June 3rd DnD session.md",
     "Hobbies/DnD/Akira/2023 March 12th DnD Session.md",
     "Hobbies/DnD/Akira/2023 October 22 DnD Session.md",
     "Hobbies/DnD/Akira/2023 Sept 10 DnD Session.md",
     "Untitled.md",
-    "Technical/Rust/Why Rust?.md",
     "Hobbies/DnD/Akira/2023 Jan 15 DnD.md",
     "Hobbies/DnD/Akira/2023 April 30th DnD Session.md",
     "Technical/Deno/Getting Started in Deno.md",
@@ -197,12 +213,6 @@
     "Technical/RSI/Deployment Strategy.md",
     "Technical/RSI/CP-219.md",
     "Technical/RSI/Onboarding Josh Campbell.md",
-    "Technical/Training Plan meeting for IB.md",
-    "Technical/Javascript/2023 Jan 26 User Interface Classes.md",
-    "Technical/Javascript/2023 Jan 27 Javascript 30.md",
-    "Technical/Node/Node JS uses 20230113.md",
-    "Technical/Javascript/2023 Jan 23 Creating a Data Service Class.md",
-    "Technical/Javascript/2023 Jan 17 Javascript ES6.md",
-    "Technical/Azure/2023 Jan 24 Azure Introduction.md"
+    "Technical/Training Plan meeting for IB.md"
   ]
 }

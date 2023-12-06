@@ -31,7 +31,7 @@
 </html>
 ```
 - `npm install save jquery`
-- jquery will not recognize ES6 and above so systemjs needs to be added to the dependences
+- jquery will not recognize ES6 and above so systemjs needs to be added to the dependencies
 - SystemJS will load ES6 modules as well as CommonJS and RequireJS modules
 - `npm install -save systemjs`
 - replace the script es6 node modules with systemjs script `<script src="node_modules/systemjs/dist/system.js"></script>`
