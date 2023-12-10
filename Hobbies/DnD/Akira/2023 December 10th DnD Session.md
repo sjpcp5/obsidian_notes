@@ -5,5 +5,9 @@
 - the middle one as the Ser Winter Knight.
 - the top one the Lady of Winter.
 -  Akira - mind numbing sensation- memory flashes  me approaching the friend black dragonborne and making a deal with him to make me stronger. 
-- William - has opened the magical door, a giant room full of statues, ramp goes forward at a gradual angle, mundane old chair with no back, a furry shape curled on each side foodog, the furry shape smaller on the right , a great sword ancient dragon, one hand another person, 25 or thirty feet long, a torch in hand and bludgeoning weapon in the other, 
+- William - has opened the magical door, a giant room full of statues, ramp goes forward at a gradual angle, mundane old chair with no back, a furry shape curled on each side foodog, the furry shape smaller on the right , a great sword ancient dragon, one hand another person, 25 or thirty feet long, a torch in hand and bludgeoning weapon in the other,
 - 4 outlines of shadows with wiggly lines, up in the air 20 feet above us 
+- Fuquar is hiding
+- Low grumble and feel it, Ear pops up
+- Maus is the foodog who grumbled at us and belongs to the Knight
+- 

@@ -10,7 +10,7 @@ Athletics = 5
 History = 2
 Investigation = 1
 Nature = 1
-Perception = 4
+Perception = 5
 Religion = 1
 Survival = 1
 
@@ -32,7 +32,7 @@ spell casting ability intelligence
 
 
 ### Successive rolls
-* 4 Perception rolls
+* 0 Perception rolls
 * 0 Arcana rolls
 * 2 Athletics 
 * 1 Survival
