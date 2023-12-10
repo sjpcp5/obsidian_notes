@@ -4,8 +4,16 @@ constitution = 16 (+3)
 health points = 65
 current hit points = 37
 temporary hit points = 29
+
 Arcana = 4
-Athletics = 
+Athletics = 5
+History = 2
+Investigation = 1
+Nature = 1
+Perception = 4
+Religion = 1
+Survival = 1
+
 max hit die = 5
 spell attack bonus = 6
 spell save DC = 14
