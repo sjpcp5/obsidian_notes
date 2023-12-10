@@ -4,12 +4,24 @@ constitution = 16 (+3)
 health points = 65
 current hit points = 37
 temporary hit points = 29
-- poisoned
 Arcana = 4
+Athletics = 
 max hit die = 5
 spell attack bonus = 6
 spell save DC = 14
 spell casting ability intelligence
+
+### Proficiency Bonus
+- 3
+
+### Saving Throws
+- 8 Strength
+- 0 Dexterity
+- 6 Constitution
+- 3 Intelligence 
+- 0 Wisdom
+- 0 Charisma
+
 
 ### Successive rolls
 * 3 Perception rolls
