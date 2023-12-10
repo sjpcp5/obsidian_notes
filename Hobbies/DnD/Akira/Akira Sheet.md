@@ -32,7 +32,7 @@ spell casting ability intelligence
 
 
 ### Successive rolls
-* 3 Perception rolls
+* 4 Perception rolls
 * 0 Arcana rolls
 * 2 Athletics 
 * 1 Survival
