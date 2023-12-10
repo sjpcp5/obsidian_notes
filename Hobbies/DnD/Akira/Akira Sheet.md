@@ -5,7 +5,7 @@ health points = 65
 current hit points = 37
 temporary hit points = 29
 
-Arcana = 5
+Arcana = 6
 Athletics = 5
 History = 2
 Investigation = 1
@@ -33,7 +33,7 @@ spell casting ability intelligence
 
 ### Successive rolls
 * 3 Perception rolls
-* 3 Arcana rolls
+* 0 Arcana rolls
 * 2 Athletics 
 * 1 Survival
 * 1 Religion

@@ -1,6 +1,7 @@
 - Akira unties Ildensive from Lizard Fuquar
 -  Continue down the hall way
 - Doorway sigils tall beautiful woman, defensive manner with a dome in front of it, middle third a really a tall guy a staff in one hand, dress coat, sword carved as gleaming magic sword, same defensive energy keeping snarling beasts at bay, the bottom third scenic elements a cactus next to a palm tree, pine tree with a desert and lots of water.
-- the bottom one is Fey World
+- the bottom one is Fey World.
 - the middle one as the Ser Winter Knight.
 - the top one the Lady of Winter.
+-  Akira - mind numbing sensation- memory flashes  me approaching the friend black dragonborne and making a deal with him to make me stronger. 
