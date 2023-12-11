@@ -70,8 +70,8 @@ spell casting ability intelligence
 	- Psionic Mind: at will is essentially a one-way, short-range message. Being able to communicate telepathically with any creature within 30 feet of you is a potent ability. You can use this to coordinate attacks, communicate with party members during negotiations, and reason with creatures that don't share a language with you. This trait will work particularly well in builds that focus on having a high Charisma score.
 	- Emerald Dragonborn are	Curious and cunning; prefer to observe while hidden behind illusions
 
-### Find Familar
-#### PSEUDODRAGON
+### Find Familiar
+#### PSEUDO DRAGON
 _Tiny dragon, neutral good_
 
 

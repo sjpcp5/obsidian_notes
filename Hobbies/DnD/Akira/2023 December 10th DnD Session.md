@@ -10,4 +10,4 @@
 - Fuquar is hiding
 - Low grumble and feel it, Ear pops up
 - Maus is the foodog who grumbled at us and belongs to the Knight
-- 
+- We have a convo with Maus the Lady is not here but the Knight is here and we asked to meet him. 
