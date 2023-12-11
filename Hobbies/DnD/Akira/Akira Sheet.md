@@ -65,6 +65,11 @@ spell casting ability intelligence
 	- Breath Weapon: 15 ft cone of psychic damage. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. After you use your breath weapon, you cannot use it again until you complete a short rest
 	- Protection Fighting Style: within 5 feet I can protect an ally and impose disadvantage on an attacking entity
 
+
+## Racial Trait - at Will
+	- Psionic Mind: at will is essentially a one-way, short-range message. Being able to communicate telepathically with any creature within 30 feet of you is a potent ability. You can use this to coordinate attacks, communicate with party members during negotiations, and reason with creatures that don't share a language with you. This trait will work particularly well in builds that focus on having a high Charisma score.
+	- Emerald Dragonborn are	Curious and cunning; prefer to observe while hidden behind illusions
+
 ### Find Familar
 #### PSEUDODRAGON
 _Tiny dragon, neutral good_
