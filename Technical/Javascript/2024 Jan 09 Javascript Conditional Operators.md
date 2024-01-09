@@ -20,4 +20,15 @@ kikiArray.[0].key ?? 'no key property '
 ```
 type NotEmptyArray<T> = [T, ...T[]];
 ```
-*Note ( ...[] ) the three dots are a spread operator/syntax similar to how for loop array.push() *
+*Note ( ...[] ) the three dots are a spread operator/syntax similar to using a 'for loop' iterating new values into an Array using array.push() or using Map to add new values to an object without erasing the existing values in the object*
+
+- This type inherits all the characteristics of the array type and it adds another rule to it. It must have one item.
+```
+const array: NotEmptyArray<string> = ['apple']
+```
+
+- What if your using methods to remove values from an array and it becomes empty?
+- This type prevents all the arrays' mutations 
+```
+type ReadOnlyNotEmptyArray<T> = Re
+```
