@@ -30,5 +30,13 @@ const array: NotEmptyArray<string> = ['apple']
 - What if your using methods to remove values from an array and it becomes empty?
 - This type prevents all the arrays' mutations 
 ```
-type ReadOnlyNotEmptyArray<T> = Re
+type ReadOnlyNotEmptyArray<T> = Readonly<NotEmptyArray<T>>;
+```
+
+- How to convert an Array to a Not Empty Array. 
+- Using a user-defined [type guard](https://www.typescriptlang.org/docs/handbook/advanced-types.html) function like below. This checks if an array has at least an element and if it respects the type assigned to it. 
+```
+function isNotEmptyArray<T>(as: T[]): as is NotEmptyArray<T> {
+	return as.length > 0;
+}
 ```
