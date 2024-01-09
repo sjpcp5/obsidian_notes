@@ -34,7 +34,7 @@ type ReadOnlyNotEmptyArray<T> = Readonly<NotEmptyArray<T>>;
 ```
 
 - How to convert an Array to a Not Empty Array. 
-- Using a user-defined [type guard](https://www.typescriptlang.org/docs/handbook/advanced-types.html) function like below. This checks if an array has at least an element and if it respects the type assigned to it. It uses [key mapping](https://www.typescriptlang.org/docs/handbook/2/mapped-types.html#key-remapping-via-as) via `as` 
+- Using a user-defined [type guard](https://www.typescriptlang.org/docs/handbook/advanced-types.html) function like below. This checks if an array has at least an element and if it respects the type assigned to it. It uses [key mapping](https://www.typescriptlang.org/docs/handbook/2/mapped-types.html#key-remapping-via-as) via `as` to pass on the assigned data type to the array.   
 ```
 function isNotEmptyArray<T>(as: T[]): as is NotEmptyArray<T> {
 	return as.length > 0;
