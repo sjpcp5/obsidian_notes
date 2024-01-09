@@ -28,7 +28,7 @@ const array: NotEmptyArray<string> = ['apple']
 ```
 
 - What if your using methods to remove values from an array and it becomes empty?
-- This type prevents all the arrays' mutations 
+- This type prevents all the arrays' mutations [Readonly modifier](https://www.typescriptlang.org/docs/handbook/2/objects.html#the-readonlyarray-type)
 ```
 type ReadOnlyNotEmptyArray<T> = Readonly<NotEmptyArray<T>>;
 ```

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5f8af307a84c6c7d",
+        "id": "6f0d65678b8f0c2d",
         "type": "tabs",
         "children": [
           {
-            "id": "4c341f508af53977",
+            "id": "fd790c8280cec3de",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -166,11 +166,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c341f508af53977",
+  "active": "fd790c8280cec3de",
   "lastOpenFiles": [
+    "Technical/Javascript/2023 Jan 17 Javascript ES6.md",
+    "ReadonlyArray.md",
+    "Technical/Javascript/2024 Jan 09 Javascript Conditional Operators.md",
     "Hobbies/DnD/Akira/Akira Sheet.md",
     "().md",
-    "Technical/Javascript/2024 Jan 09 Javascript Conditional Operators.md",
     "Hobbies/DnD/Akira/2023 December 10th DnD Session.md",
     "Hobbies/DnD/Akira/2023 November 19 DnD Session.md",
     "Hobbies/DnD/Akira/2023 April 30th DnD Session.md",
@@ -190,7 +192,6 @@
     "Technical/Rust/Rust Strings and String Slices 20230106.md",
     "Technical/Rust/Rust String Concatination 20230113.md",
     "Technical/Rust/2022-12-23 Rust Data types.md",
-    "Technical/Javascript/2023 Jan 17 Javascript ES6.md",
     "Technical/Git/2022-12-21 Undoing Git Mistakes.md",
     "Technical/Azure/2023 Jan 24 Azure Introduction.md",
     "Hobbies/DnD/Akira/2023 June 3rd DnD session.md",
@@ -202,7 +203,6 @@
     "Technical/Deno/Comparisons with Node.md",
     "Technical/Deno",
     "Hobbies/DnD/Machetyl/April 15, 2023 Kendra's Campaign Group.md",
-    "Hobbies/DnD/Machetyl",
-    "Technical/RSI/Deployment Strategy.md"
+    "Hobbies/DnD/Machetyl"
   ]
 }
