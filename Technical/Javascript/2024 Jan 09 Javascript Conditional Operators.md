@@ -16,7 +16,7 @@ kikiArray.[0].key ?? 'no key property '
 
 ## Creating a typescript Not Empty Array 
 - [Written by Luca Del Puppo](https://dev.to/this-is-learning/typescript-readonlynotemptyarray-2id7)
-- This read only type does not exist in typescript definitions but it can defined like so below. It uses a [rest parameter](https://www.typescriptlang.org/docs/handbook/2/mapped-types.html#key-remapping-via-as) to assign `Array<T>` or `T[]`. This would be defined as Mapped Type. 
+- This read only type does not exist in typescript definitions but it can defined like so below. It uses a [rest parameter](https://www.typescriptlang.org/docs/handbook/2/mapped-types.html#key-remapping-via-as) to assign the array type `Array<T>` or `T[]` instead of the `any` , which using `any` is not advisable. This kind of type would be defined as Mapped Type. 
 ```
 type NotEmptyArray<T> = [T, ...T[]];
 ```
@@ -34,7 +34,7 @@ type ReadOnlyNotEmptyArray<T> = Readonly<NotEmptyArray<T>>;
 ```
 
 - How to convert an Array to a Not Empty Array. 
-- Using a user-defined [type guard](https://www.typescriptlang.org/docs/handbook/advanced-types.html) function like below. This checks if an array has at least an element and if it respects the type assigned to it. It uses [key mapping](https://www.typescriptlang.org/docs/handbook/2/mapped-types.html#key-remapping-via-as) via `as` to pass on the assigned data type to the array.   
+- Using a user-defined [type guard](https://www.typescriptlang.org/docs/handbook/advanced-types.html) function like below. This checks if an array has at least an element and if it respects the type assigned to it. It uses `as` to pass on the assigned data type to the array.   
 ```
 function isNotEmptyArray<T>(as: T[]): as is NotEmptyArray<T> {
 	return as.length > 0;
