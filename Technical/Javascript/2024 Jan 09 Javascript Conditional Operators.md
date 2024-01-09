@@ -15,7 +15,7 @@ kikiArray.[0].key ?? 'no key property '
 ```
 
 ## Creating a typescript Not Empty Array 
-- [I paraphrase this topic fan article written by Luca Del Puppo](https://dev.to/this-is-learning/typescript-readonlynotemptyarray-2id7)
+- [I paraphrase this topic from an article written by Luca Del Puppo](https://dev.to/this-is-learning/typescript-readonlynotemptyarray-2id7) 
 - This read only type does not exist in typescript definitions but it can defined like so below. It uses a [rest parameter](https://www.typescriptlang.org/docs/handbook/2/mapped-types.html#key-remapping-via-as) to assign the array type `Array<T>` or `T[]` instead of the `any` , which using `any` is not advisable. This kind of type would be defined as Mapped Type. 
 ```
 type NotEmptyArray<T> = [T, ...T[]];

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/Javascript/2024 Jan 09 Javascript Conditional Operators.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical/Javascript/2024 Jan 09 Javascript Conditional Operators.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical/Javascript/2024 Jan 09 Javascript Conditional Operators.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical/Javascript/2024 Jan 09 Javascript Conditional Operators.md"
+                "file": "README.md"
               }
             }
           },
@@ -168,11 +168,14 @@
   },
   "active": "fd790c8280cec3de",
   "lastOpenFiles": [
-    "Technical/Javascript/2023 Jan 17 Javascript ES6.md",
+    "Untitled.md",
+    "README.md",
     "ReadonlyArray.md",
     "Technical/Javascript/2024 Jan 09 Javascript Conditional Operators.md",
-    "Hobbies/DnD/Akira/Akira Sheet.md",
     "().md",
+    "Technical/Training Plan meeting for IB.md",
+    "Technical/Javascript/2023 Jan 17 Javascript ES6.md",
+    "Hobbies/DnD/Akira/Akira Sheet.md",
     "Hobbies/DnD/Akira/2023 December 10th DnD Session.md",
     "Hobbies/DnD/Akira/2023 November 19 DnD Session.md",
     "Hobbies/DnD/Akira/2023 April 30th DnD Session.md",
@@ -197,12 +200,9 @@
     "Hobbies/DnD/Akira/2023 June 3rd DnD session.md",
     "Hobbies/DnD/Akira/2023 March 12th DnD Session.md",
     "Hobbies/DnD/Akira/2023 October 22 DnD Session.md",
-    "Untitled.md",
     "Hobbies/DnD/Akira/2023 Jan 15 DnD.md",
     "Technical/Deno/Getting Started in Deno.md",
-    "Technical/Deno/Comparisons with Node.md",
     "Technical/Deno",
-    "Hobbies/DnD/Machetyl/April 15, 2023 Kendra's Campaign Group.md",
     "Hobbies/DnD/Machetyl"
   ]
 }
