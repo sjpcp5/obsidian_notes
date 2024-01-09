@@ -16,7 +16,7 @@ kikiArray.[0].key ?? 'no key property '
 
 ## Creating a typescript Not Empty Array 
 - [Written by Luca Del Puppo](https://dev.to/this-is-learning/typescript-readonlynotemptyarray-2id7)
-- This read only type does not exist in typescript definitions but it can defined like so below. It uses a tuple type. This would be defined as Mapped Type. 
+- This read only type does not exist in typescript definitions but it can defined like so below. It uses a rest parameter to  a tuple type. This would be defined as Mapped Type. 
 ```
 type NotEmptyArray<T> = [T, ...T[]];
 ```
