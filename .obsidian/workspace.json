@@ -35,9 +35,11 @@
             "id": "862d2f02797009e2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "Technical/Javascript/2024 Jan 09.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -116,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hobbies/DnD/Akira/2023 December 10th DnD Session.md",
+                "file": "Technical/Javascript/2024 Jan 09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hobbies/DnD/Akira/2023 December 10th DnD Session.md",
+                "file": "Technical/Javascript/2024 Jan 09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hobbies/DnD/Akira/2023 December 10th DnD Session.md"
+                "file": "Technical/Javascript/2024 Jan 09.md"
               }
             }
           },
@@ -191,6 +193,7 @@
   },
   "active": "862d2f02797009e2",
   "lastOpenFiles": [
+    "Technical/Javascript/2024 Jan 09.md",
     "Hobbies/DnD/Akira/Akira Sheet.md",
     "Hobbies/DnD/Akira/2023 December 10th DnD Session.md",
     "Hobbies/DnD/Akira/2023 November 19 DnD Session.md",
@@ -225,7 +228,6 @@
     "Hobbies/DnD/Machetyl/April 15, 2023 Kendra's Campaign Group.md",
     "Hobbies/DnD/Machetyl",
     "Technical/RSI/Deployment Strategy.md",
-    "Technical/RSI/CP-219.md",
-    "Technical/RSI/Onboarding Josh Campbell.md"
+    "Technical/RSI/CP-219.md"
   ]
 }
