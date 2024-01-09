@@ -13,3 +13,11 @@ let kikiArray = [{key:'value'}, 37, "Amber Jones", true]
 kikiArray.[0].key ?? 'no key property '
 // returns 'value'
 ```
+
+## Creating a typescript Not Empty Array 
+- [Written by Luca Del Puppo](https://dev.to/this-is-learning/typescript-readonlynotemptyarray-2id7)
+- This read only type does not exist in typescript definitions but it can defined like so below
+```
+type NotEmptyArray<T> = [T, ...T[]];
+```
+*Note ( ...[] ) the three dots are a spread operator/syntax similar to how for loop array.push() *
