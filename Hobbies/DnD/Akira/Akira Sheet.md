@@ -2,6 +2,8 @@
 intelligence = 17 (+3)
 constitution = 16 (+3)
 health points = 65
+
+fae infection 1 (got licked in the bad way)
 **current hit points = 59
 temporary hit points = 0**
 
