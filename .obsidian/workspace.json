@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hobbies/Vampire Coiterie/DarkAges527CE/Characters/Hestia/Hestia.md",
+                "file": "Hobbies/DnD/Akira/2024 Jan 28th DnD.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hobbies/Vampire Coiterie/DarkAges527CE/Characters/Hestia/Hestia.md",
+                "file": "Hobbies/DnD/Akira/2024 Jan 28th DnD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hobbies/Vampire Coiterie/DarkAges527CE/Characters/Hestia/Hestia.md",
+                "file": "Hobbies/DnD/Akira/2024 Jan 28th DnD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hobbies/Vampire Coiterie/DarkAges527CE/Characters/Hestia/Hestia.md"
+                "file": "Hobbies/DnD/Akira/2024 Jan 28th DnD.md"
               }
             }
           },
@@ -168,8 +168,10 @@
   },
   "active": "fd790c8280cec3de",
   "lastOpenFiles": [
-    "Hobbies/Vampire Coiterie/DarkAges527CE/Characters/Hestia/Sired as a Vampire.md",
+    "Hobbies/DnD/Akira/2023 December 10th DnD Session.md",
+    "Hobbies/DnD/Akira/2024 Jan 28th DnD.md",
     "Hobbies/Vampire Coiterie/DarkAges527CE/Characters/Hestia/Hestia.md",
+    "Hobbies/Vampire Coiterie/DarkAges527CE/Characters/Hestia/Sired as a Vampire.md",
     "Hobbies/Vampire Coiterie/DarkAges527CE/Characters",
     "Hobbies/Vampire Coiterie/DarkAges527CE/Characters/Artemis",
     "Hobbies/Vampire Coiterie/DarkAges527CE/Characters/Hestia",
@@ -184,7 +186,6 @@
     "Technical/Training Plan meeting for IB.md",
     "Technical/Javascript/2023 Jan 17 Javascript ES6.md",
     "Hobbies/DnD/Akira/Akira Sheet.md",
-    "Hobbies/DnD/Akira/2023 December 10th DnD Session.md",
     "Hobbies/DnD/Akira/2023 November 19 DnD Session.md",
     "Hobbies/DnD/Akira/2023 April 30th DnD Session.md",
     "Hobbies/DnD/Akira/2023 Sept 10 DnD Session.md",
@@ -206,7 +207,6 @@
     "Technical/Git/2022-12-21 Undoing Git Mistakes.md",
     "Technical/Azure/2023 Jan 24 Azure Introduction.md",
     "Hobbies/DnD/Akira/2023 June 3rd DnD session.md",
-    "Hobbies/DnD/Akira/2023 March 12th DnD Session.md",
     "Technical/Deno",
     "Hobbies/DnD/Machetyl"
   ]
