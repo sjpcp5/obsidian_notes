@@ -2,8 +2,8 @@
 intelligence = 17 (+3)
 constitution = 16 (+3)
 health points = 65
-**current hit points = 37
-temporary hit points = 29**
+**current hit points = 59
+temporary hit points = 0**
 
 Arcana = 6
 Athletics = 5
