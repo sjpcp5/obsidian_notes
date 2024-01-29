@@ -1,0 +1,6 @@
+- The Fae Queen has a quest for us
+- she becomes enraged on being accused of kidnapping people
+- the knight will give us the quest 
+- shimmer and wavier cut outs left side looks like Greenland and the right side snow covered trees green Iceland (Move to iceland bc of equality )
+- the queen starts to float away , Fuquar bows as she floats away
+- 
