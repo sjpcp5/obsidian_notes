@@ -3,4 +3,4 @@
 - the knight will give us the quest 
 - shimmer and wavier cut outs left side looks like Greenland and the right side snow covered trees green Iceland (Move to iceland bc of equality )
 - the queen starts to float away , Fuquar bows as she floats away
-- 
+- Fuquar talks to the knight one path is safer is than the other. Greenland is the most dangerous but high reward and the 
