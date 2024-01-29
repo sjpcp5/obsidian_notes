@@ -6,3 +6,4 @@
 - Fuquar talks to the knight one path is safer is than the other. Greenland is the most dangerous but high reward and the 
 
 We enter the Ice Fey door the leaves are the character's favorite color. 
+Furless Feline Chesershire clan wears a dress from the last free Chesershire clan. SHe touches Fuqur and gives him all the infor he needs ro know of the 

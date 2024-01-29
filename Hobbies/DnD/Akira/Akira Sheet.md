@@ -7,6 +7,8 @@ fae infection 1 (got licked in the bad way)
 **current hit points = 59
 temporary hit points = 0**
 
+perception goes +1 as bonus from fae spores
+
 Arcana = 6
 Athletics = 5
 History = 2
