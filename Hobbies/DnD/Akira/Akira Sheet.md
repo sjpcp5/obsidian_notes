@@ -71,6 +71,14 @@ spell casting ability intelligence
 	- Emerald Dragonborn are	Curious and cunning; prefer to observe while hidden behind illusions
 
 ### Find Familiar
+In D&D 5e, familiars are magical spirits (either fey, fiends, or celestials) that take the shape of animals. They’re independent creatures but always follow their summoner’s commands; because they’re spirits summoned by a spell, familiars don’t require an animal handling check to influence. They also have more abilities than the average D&D animal, making Find Familiar a useful spell.[[1]](https://www.wikihow.com/Find-Familiar-5e#_note-1)
+
+- **Casting time:** 1 hour
+- **School:** Conjuration
+- **Range:** 10 feet (meaning the familiar appears within 10 feet of its summoner)
+- **Target:** An unoccupied space within range
+- **Components:** Verbal, somatic, and material
+- **Duration:** Instantaneous
 #### PSEUDO DRAGON
 _Tiny dragon, neutral good_
 
