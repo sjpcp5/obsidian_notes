@@ -7,4 +7,4 @@
 
 We enter the Ice Fey door the leaves are the character's favorite color. 
 Furless Feline Chesershire clan wears a dress from the last free Chesershire clan. SHe touches Fuqur and gives him all the infor he needs to know of the fey world and the.
-- must get them below 30 HP to kill them - abomanations
+- must get them below 30 HP to kill them - abomination
