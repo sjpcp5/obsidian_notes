@@ -2,8 +2,8 @@
 intelligence = 17 (+3)
 constitution = 16 (+3)
 health points = 65
-current hit points = 37
-temporary hit points = 29
+**current hit points = 37
+temporary hit points = 29**
 
 Arcana = 6
 Athletics = 5
@@ -102,7 +102,7 @@ _Tiny dragon, neutral good_
 
 **Keen Senses**:The pseudodragon has advantage on Wisdom
 (Perception) checks that rely on sight, hearing, or smell.
-**Magic Resistanee**: The pseudodragon has advantage on saving
+**Magic Resistance**: The pseudodragon has advantage on saving
 throws against spells and other magical effects.
 **Limited Telepathy**: The pseudodragon can communicate
 simple ideas, emotions, and images telepathically with any
