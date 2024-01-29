@@ -81,7 +81,7 @@ In D&D 5e, familiars are magical spirits (either fey, fiends, or celestials) tha
 - **Duration:** Instantaneous
 #### PSEUDO DRAGON
 _Tiny dragon, neutral good_
-
+choose creature type fey spirit in the form of pseudo dragon
 
 **Armor Class** 13 (natural armor)
 **Hit Points** 7 (2d4 + 2)
