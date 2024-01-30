@@ -13,7 +13,13 @@ Why build an API and do we really need one?
 
 HTTP protocols 
 - client (laptop) request data from a server which is a text document. This text document contains three pieces.
-	- a verb what action to take aka get or post
-	- headers- info about the request
+	- a verb what action to take aka GET or POST ( create something) PATCH ( please update the address of a customer), DELETE (delete an object I mistakenly made )
+	- headers- info or metadata about the request
+		- content type: is the data binary, XML, JSON,
+		- content length: size of content
+		- Authorization: who is making the call, (server checks if they have read write acces access 
+		- Accept: 
+		- Cookies: state
 	- content- optionally asked for
 - the client receives a response back with status code back and a body
+- the server is typically stateless because request to the server is very short lived unlike a game server or a database programming. The stateless server  connection is short lived it doesn't know if your going to send another request.
