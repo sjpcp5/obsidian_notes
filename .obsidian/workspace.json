@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Care/Jokes.md",
+                "file": "Technical/API/Building an API.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self Care/Jokes.md",
+                "file": "Technical/API/Building an API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self Care/Jokes.md",
+                "file": "Technical/API/Building an API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self Care/Jokes.md"
+                "file": "Technical/API/Building an API.md"
               }
             }
           },
@@ -168,14 +168,16 @@
   },
   "active": "fd790c8280cec3de",
   "lastOpenFiles": [
-    "Technical/Javascript/2023 Jan 19 Inheritance ES6 Javascript.md",
+    "Technical/Azure/2023 Jan 24 Azure Introduction.md",
+    "Technical/API/Building an API.md",
     "Self Care/Jokes.md",
+    "Technical/API",
+    "Technical/Javascript/2023 Jan 19 Inheritance ES6 Javascript.md",
     "Technical/Javascript/2023 Jan 23 Creating a Data Service Class.md",
     "Technical/Javascript/2023 Jan 26 User Interface Classes.md",
     "Technical/Javascript/2023 Jan 27 Javascript 30.md",
     "Technical/Javascript/2024 Jan 09 Javascript Conditional Operators.md",
     "Technical/RSI/Onboarding Josh Campbell.md",
-    "Technical/Azure/2023 Jan 24 Azure Introduction.md",
     "Hobbies/DnD/Akira/2024 Jan 28th DnD.md",
     "Hobbies/DnD/Akira/Akira Sheet.md",
     "Hobbies/DnD/Akira/2023 December 10th DnD Session.md",
@@ -206,7 +208,6 @@
     "Pasted image 20230119171556.png",
     "Technical/Rust/Why Rust?.md",
     "Technical/Rust/Rust Strings and String Slices 20230106.md",
-    "Technical/Rust/Rust String Concatination 20230113.md",
     "Technical/Deno",
     "Hobbies/DnD/Machetyl"
   ]
