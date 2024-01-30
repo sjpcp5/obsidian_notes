@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/Javascript/2023 Jan 26 User Interface Classes.md",
+                "file": "Technical/Javascript/2023 Jan 19 Inheritance ES6 Javascript.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical/Javascript/2023 Jan 26 User Interface Classes.md",
+                "file": "Technical/Javascript/2023 Jan 19 Inheritance ES6 Javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical/Javascript/2023 Jan 26 User Interface Classes.md",
+                "file": "Technical/Javascript/2023 Jan 19 Inheritance ES6 Javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical/Javascript/2023 Jan 26 User Interface Classes.md"
+                "file": "Technical/Javascript/2023 Jan 19 Inheritance ES6 Javascript.md"
               }
             }
           },
@@ -168,9 +168,11 @@
   },
   "active": "fd790c8280cec3de",
   "lastOpenFiles": [
-    "Technical/Javascript/2023 Jan 27 Javascript 30.md",
-    "Technical/RSI/Onboarding Josh Campbell.md",
     "Technical/Javascript/2023 Jan 23 Creating a Data Service Class.md",
+    "Technical/Javascript/2023 Jan 26 User Interface Classes.md",
+    "Technical/Javascript/2023 Jan 27 Javascript 30.md",
+    "Technical/Javascript/2024 Jan 09 Javascript Conditional Operators.md",
+    "Technical/RSI/Onboarding Josh Campbell.md",
     "Technical/Azure/2023 Jan 24 Azure Introduction.md",
     "Hobbies/DnD/Akira/2024 Jan 28th DnD.md",
     "Hobbies/DnD/Akira/Akira Sheet.md",
@@ -186,14 +188,12 @@
     "Hobbies/Vampire Coiterie",
     "Untitled.md",
     "ReadonlyArray.md",
-    "Technical/Javascript/2024 Jan 09 Javascript Conditional Operators.md",
     "().md",
     "Technical/Training Plan meeting for IB.md",
     "Technical/Javascript/2023 Jan 17 Javascript ES6.md",
     "Hobbies/DnD/Akira/2023 November 19 DnD Session.md",
     "Hobbies/DnD/Akira/2023 April 30th DnD Session.md",
     "Hobbies/DnD/Akira/2023 Sept 10 DnD Session.md",
-    "Technical/Javascript/2023 Jan 26 User Interface Classes.md",
     "Pasted image 20230203160855.png",
     "Pasted image 20230201152708.png",
     "Pasted image 20230201152454.png",
