@@ -17,9 +17,9 @@ HTTP protocols
 	- headers- info or metadata about the request
 		- content type: is the data binary, XML, JSON,
 		- content length: size of content
-		- Authorization: who is making the call, (server checks if they have read write acces access 
-		- Accept: 
-		- Cookies: state
+		- Authorization: who is making the call, (server checks if they have read write  access )
+		- Accept: when you send me a response what kind of data can I accept
+		- Cookies: state or data that is passed that the client should expect 
 	- content- optionally asked for
 - the client receives a response back with status code back and a body
 - the server is typically stateless because request to the server is very short lived unlike a game server or a database programming. The stateless server  connection is short lived it doesn't know if your going to send another request.
