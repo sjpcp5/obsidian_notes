@@ -13,5 +13,13 @@ Biggest challenge with microservices
 Data management between services 
 How is data stored and accessed 
 - each service has it's own database if required. 
+- we will never access data from reaching from one microservice into the database of another microservice 
+example![[Screenshot from 2024-01-31 16-25-52.png]]
+Microservices use the 
+Database-Per-Service Pattern
+- Each service will run independently of other services
+- database schema/structure might change unexpectedly
+- some services might function more efficiently with different types of DB's (sql vs nosql)
 
-
+If we used one database for all our needs and it crashed our app would go down.
+If we ever needed to scale up our database we may need to adjust the schema 
