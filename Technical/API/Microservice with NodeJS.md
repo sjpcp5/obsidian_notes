@@ -20,6 +20,7 @@ Database-Per-Service Pattern
 - Each service will run independently of other services
 - database schema/structure might change unexpectedly
 - some services might function more efficiently with different types of DB's (sql vs nosql)
-
-If we used one database for all our needs and it crashed our app would go down.
-If we ever needed to scale up our database we may need to adjust the schema 
+#### Why each microservice has its own DB and is autonomous  
+If we used one database for all our services and it crashed our services would go down.
+If we ever needed to scale up our database we may need to adjust the schema to serve all the services of our app therefore more app downtimes.
+If service A is designed to reach to service B's database and that database goes down then both se
