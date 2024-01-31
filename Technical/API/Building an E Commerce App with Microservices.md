@@ -13,5 +13,5 @@ If we wanted to add a service that showed orders made by a customer
 Synchronous - services communicate with each other using **direct requests**
 Asynchronous - services communicate with each other **using events**
 
-Example of synchronous, Service D, might use HTTP or JSON to send a request to the services it needs data from
+Example of synchronous, Service D, might use HTTP or JSON to send a request to the services it needs data from. 
 ![[Pasted image 20240131171048.png]]
