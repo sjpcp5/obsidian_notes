@@ -9,8 +9,9 @@ A single microservice contains all the routing, middlewares, business logic, dat
 An app with four microservices. Each service is standalone. 
 ![[Pasted image 20240131161959.png]]
 
-**Biggest challenge with microservices**
+##### **Biggest challenge with microservices**
 Data management between services 
+
 How is data stored and accessed 
 - each service has it's own database if required. 
 - we will never access data from reaching from one microservice into the database of another microservice 
@@ -26,6 +27,7 @@ If we ever needed to scale up our database we may need to adjust the schema to s
 If service A is designed to reach to service B's database and that database goes down then both services go down.
 
 A single database shared between many services would be a single point of failure which would limit the reliability of the app.
+Advantage is each service can a different database schema
 
 SO microservices are designed to function autonomous so that one service does not take down an entire application it also helps organize an application to isolate bugs, and for more developers or teams organize work responsibilities.
 
