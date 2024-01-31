@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/API/Building an API.md",
+                "file": "Technical/API/Microservice with NodeJS.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical/API/Building an API.md",
+                "file": "Technical/API/Microservice with NodeJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical/API/Building an API.md",
+                "file": "Technical/API/Microservice with NodeJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical/API/Building an API.md"
+                "file": "Technical/API/Microservice with NodeJS.md"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "fd790c8280cec3de",
   "lastOpenFiles": [
-    "Technical/Azure/2023 Jan 24 Azure Introduction.md",
     "Technical/API/Building an API.md",
+    "Technical/API/Microservice with NodeJS.md",
+    "Technical/Azure/2023 Jan 24 Azure Introduction.md",
     "Self Care/Jokes.md",
     "Technical/API",
     "Technical/Javascript/2023 Jan 19 Inheritance ES6 Javascript.md",
@@ -207,7 +208,6 @@
     "Pasted image 20230119174320.png",
     "Pasted image 20230119171556.png",
     "Technical/Rust/Why Rust?.md",
-    "Technical/Rust/Rust Strings and String Slices 20230106.md",
     "Technical/Deno",
     "Hobbies/DnD/Machetyl"
   ]
