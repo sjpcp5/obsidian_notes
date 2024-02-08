@@ -26,5 +26,7 @@ The entire request is only as fast as the slowest request
 We can easily introduce webs of requests
 - ![[Pasted image 20240208173351.png]]Example of web of requests
 ## Asynchronous Communication
-Event bus handles all the notifications from the services. The Event bus like (Apollo GraphQL and Pulsar?) needs to be resilient bc if it goes down it crashes all the services. Not likely a commonly practiced. On top of it having downsides like Synchronous communication it additional downsides like conceptual easy to understand.
+Event bus handles all the notifications from the services. The Event bus like (which SaaS offers this?) needs to be resilient bc if it goes down it crashes all the services. Not likely a commonly practiced. On top of it having downsides like Synchronous communication it additional downsides like conceptual easy to understand.
 ![[Pasted image 20240208173952.png]]
+
+Best thing to do is define the exact goal of the service your wanting to build.
