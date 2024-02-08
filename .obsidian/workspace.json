@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Care/Hair Cut and Style Ideas.md",
+                "file": "Technical/API/Building an E Commerce App with Microservices.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self Care/Hair Cut and Style Ideas.md",
+                "file": "Technical/API/Building an E Commerce App with Microservices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self Care/Hair Cut and Style Ideas.md",
+                "file": "Technical/API/Building an E Commerce App with Microservices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self Care/Hair Cut and Style Ideas.md"
+                "file": "Technical/API/Building an E Commerce App with Microservices.md"
               }
             }
           },
@@ -168,9 +168,12 @@
   },
   "active": "fd790c8280cec3de",
   "lastOpenFiles": [
+    "Pasted image 20240208173351.png",
+    "Technical/API/Microservice with NodeJS.md",
+    "Technical/Node/Node JS uses 20230113.md",
+    "Self Care/Hair Cut and Style Ideas.md",
     "Pasted image 20240207234423.png",
     "Hobbies/Vampire Coiterie/DarkAges527CE/Characters/Hestia/Sired as a Vampire.md",
-    "Self Care/Hair Cut and Style Ideas.md",
     "Hobbies/Vampire Coiterie/DarkAges527CE/Characters/Artemis/Artemis.md",
     "Hobbies/Vampire Coiterie/DarkAges527CE/Characters/Hestia/Hestia.md",
     "Technical/API/Building an E Commerce App with Microservices.md",
@@ -178,7 +181,6 @@
     "Pasted image 20240131165658.png",
     "Pasted image 20240131165512.png",
     "Pasted image 20240131165412.png",
-    "Technical/API/Microservice with NodeJS.md",
     "Screenshot from 2024-01-31 16-25-52.png",
     "Pasted image 20240131161959.png",
     "Technical/API/Building an API.md",
@@ -205,11 +207,9 @@
     "().md",
     "Technical/Training Plan meeting for IB.md",
     "Technical/Javascript/2023 Jan 17 Javascript ES6.md",
-    "Hobbies/DnD/Akira/2023 November 19 DnD Session.md",
     "Pasted image 20230203160855.png",
     "Pasted image 20230201152708.png",
     "Pasted image 20230201152454.png",
-    "Pasted image 20230126173009.png",
     "Technical/Deno",
     "Hobbies/DnD/Machetyl"
   ]

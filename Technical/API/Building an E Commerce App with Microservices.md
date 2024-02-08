@@ -15,3 +15,15 @@ Asynchronous - services communicate with each other **using events**
 
 Example of synchronous, Service D, might use HTTP or JSON to send a request to the services it needs data from. 
 ![[Pasted image 20240131171048.png]]
+
+#### Pros
+Synchronous communication is easy to understand conceptually
+Service D does not need a database
+#### Cons
+Introduces a dependency between services 
+If any of the inter-services requests fail the overall request fails
+The entire request is only as fast as the slowest request
+We can easily introduce webs of requests
+- ![[Pasted image 20240208173351.png]]Example of web of requests
+## Asynchronous Communication
+Event bus handles all the notifications from the services
