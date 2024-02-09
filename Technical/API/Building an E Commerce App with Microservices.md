@@ -39,3 +39,5 @@ How do we tell Service D whats going on ?
 ![[Pasted image 20240208175522.png]]
 
 First we will handle a request like create a product then when the product is created / saved in the service B database. Service B creates an event that is published and sent to our service bus. The event is then sent to service D and the data in the event is created in Service D's database. __The SaaS Pulsar made by Yahoo does something similar to this.__
+
+![[Pasted image 20240208181453.png]]
