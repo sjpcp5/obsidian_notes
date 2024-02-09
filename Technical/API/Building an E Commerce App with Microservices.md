@@ -43,9 +43,13 @@ First we will handle a request like create a user or product then when the user 
 ![[Pasted image 20240208181453.png]]
 ![[Pasted image 20240208181938.png]]
 
-Pros 
+#### Pros 
 service D has no service dependencies 
+superior up-time performance for customers/clients
+service D is extremely fast
 
-Cons
-data duplication some - paying for extra storage
+#### Cons
+data duplication there is some - paying for extra storage
+this pattern is hard to understand - a lot of overhead, lots of areas to learn, lots of code to touch 
+100,000,000 product information at a size of 1250 bytes is $14.375 a month
 ![[Pasted image 20240208182253.png]]
