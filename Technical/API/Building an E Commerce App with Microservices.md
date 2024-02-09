@@ -26,11 +26,11 @@ The entire request is only as fast as the slowest request
 We can easily introduce webs of requests
 - ![[Pasted image 20240208173351.png]]Example of web of requests
 ## Asynchronous Communication
-#### Event Bus
+#### Just an Event Bus
 Event bus handles all the notifications from the services. The Event bus like (which SaaS offers this?) needs to be resilient bc if it goes down it crashes all the services. The **event bus** async comm style is not a commonly practiced. On top of it having downsides like Synchronous communication it additional downsides like conceptual easy to understand.
 ![[Pasted image 20240208173952.png]]
 
-#### Alternative Asynchronous Communication
+#### Alternative Asynchronous Communication Method:  Request with Service Bus
 Best thing to do is define the exact goal of the service your wanting to build and add a database if needed. example:
 
 ![[Pasted image 20240208175355.png]]
@@ -38,4 +38,4 @@ Best thing to do is define the exact goal of the service your wanting to build a
 How do we tell Service D whats going on ? 
 ![[Pasted image 20240208175522.png]]
 
-First we will request to create a product then when it's create a event is published and sent to our sev
+First we will handle a request like create a product then when the product is created / saved in the service B database. Service B creates an event that is published and sent to our service bus. The event is then sent to service D and the data in the event is created in Service D's database. __The SaaS Pulsar made by Yahoo does something similar to this.__
