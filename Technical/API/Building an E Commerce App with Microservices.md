@@ -38,6 +38,14 @@ Best thing to do is define the exact goal of the service your wanting to build a
 How do we tell Service D whats going on ? 
 ![[Pasted image 20240208175522.png]]
 
-First we will handle a request like create a product then when the product is created / saved in the service B database. Service B creates an event that is published and sent to our service bus. The event is then sent to service D and the data in the event is created in Service D's database. __The SaaS Pulsar made by Yahoo does something similar to this.__
+First we will handle a request like create a user or product then when the user or product is created the product is saved in the service B database and the user is saved in service A DB. The service creates an event that is published and sent to our service bus. The event is then sent to service D we would have code that understands and processes the event and data. Then the data is created in Service D's database. __The SaaS Pulsar made by Yahoo does something similar to this.__
 
 ![[Pasted image 20240208181453.png]]
+![[Pasted image 20240208181938.png]]
+
+Pros 
+service D has no service dependencies 
+
+Cons
+data duplication some - paying for extra storage
+![[Pasted image 20240208182253.png]]
