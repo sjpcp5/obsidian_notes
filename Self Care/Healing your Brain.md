@@ -7,7 +7,9 @@ Our brains are like room temp butter and the inside of our skulls are rigid angl
 - good doctors do informed consent
 #Healing Healing ADD - Dr. Amen
 
-ADHD
+ADHD, or ADD is genetic its a difference vs deficit 
+Adult ADD it's not my fault is like wearing glasses 
+conflict driven- 
 Bad for the Brain
 1. Caffeine -  more than 100mg of coffee, A venti is 350mg is toxic
 2. Fruit juice (not fruit) causes high inflammation 
