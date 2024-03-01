@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/API/Building an E Commerce App with Microservices.md",
+                "file": "Self Care/Healing your Brain.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 244.5
   },
   "right": {
     "id": "8d33c475ba602f51",
@@ -105,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical/API/Building an E Commerce App with Microservices.md",
+                "file": "Self Care/Healing your Brain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical/API/Building an E Commerce App with Microservices.md",
+                "file": "Self Care/Healing your Brain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical/API/Building an E Commerce App with Microservices.md"
+                "file": "Self Care/Healing your Brain.md"
               }
             }
           },
@@ -178,8 +176,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6c2cd958a215419",
+  "active": "fd790c8280cec3de",
   "lastOpenFiles": [
+    "Technical/API/Building an E Commerce App with Microservices.md",
+    "Self Care/Healing your Brain.md",
     "Pasted image 20240208182253.png",
     "Pasted image 20240208181938.png",
     "Pasted image 20240208181453.png",
@@ -196,8 +196,6 @@
     "Hobbies/Vampire Coiterie/DarkAges527CE/Characters/Hestia/Sired as a Vampire.md",
     "Hobbies/Vampire Coiterie/DarkAges527CE/Characters/Artemis/Artemis.md",
     "Hobbies/Vampire Coiterie/DarkAges527CE/Characters/Hestia/Hestia.md",
-    "Technical/API/Building an E Commerce App with Microservices.md",
-    "Pasted image 20240131171048.png",
     "Technical/API/Building an API.md",
     "Technical/Azure/2023 Jan 24 Azure Introduction.md",
     "Self Care/Jokes.md",
