@@ -14,7 +14,7 @@ Bad for the Brain
 1. Caffeine -  more than 100mg of coffee, A venti is 350mg is toxic
 2. Fruit juice (not fruit) causes high inflammation 
 3. Impacts to the brain like a soccer ball
-4. marijauna lowers blood flow to body
+4. marijuana lowers blood flow to body
 5. loneliness
 6. gum diseases 
 7. mercury
@@ -28,6 +28,6 @@ Good for the Brain
 3. ginko biloba 20mg twice a day everyday
 4. omega 3 fatty acids or eat more fish
 5. flossing
-6. think dirty app kiss my face = 2, barbasol = 10 toxcity
+6. #ThinkDirty Think Dirty app kiss my face = 2, barbasol = 10 toxcity, scan your makeup
 7. exercise
 8. 
