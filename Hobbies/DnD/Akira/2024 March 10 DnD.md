@@ -20,4 +20,6 @@ Things do decay in the fae world but no smells.
 
 We walk for a couple miles to find out the drowsy 
 
-White powder
+White powder and mimic tentacle comes out of it.
+
+Initiative: Fuquar, Akira, William, Thrayriff 
