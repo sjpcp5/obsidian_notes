@@ -9,3 +9,5 @@ smelling the stew pot
 They appear to be sleeping. 
 
 The half-lings seem to be drained from a spider
+
+We all fail a wisdom save and we feel drowsy listening to 5 individuals laughing.
