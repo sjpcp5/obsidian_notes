@@ -7,3 +7,5 @@ smelling the stew pot
 
 2 small figures and 3 medium sized creatures with a very tall one out of all them.
 They appear to be sleeping. 
+
+The half-lings seem to be drained from a spider
