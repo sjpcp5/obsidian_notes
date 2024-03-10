@@ -6,7 +6,7 @@ AC= 16 without shield
 AC= 20 with Shield
 
 fae infection 1 (got licked in the bad way)
-**current hit points = 45**
+**current hit points = 55**
 **current AC= 19**
 **temporary hit points = 0**
 
@@ -131,13 +131,37 @@ speak
 **Challenge** 1/4 (50 XP)
 **Proficiency Bonus** +2
 
-## Other Spells
-#### Cantrips
-- Booming blades
+## Spells
+### Cantrips
+#### Booming blades
+_Evocation cantrip_
 
-- Sword Burst
+**Casting Time:** 1 action  
+**Range:** Self (5-foot radius)  
+**Components:** S, M (a melee weapon worth at least 1 sp)  
+**Duration:** 1 round
 
-#### Level 1 Spells
+You brandish the weapon used in the spell’s casting and make a melee attack with it against one creature within 5 feet of you. On a hit, the target suffers the weapon attack’s normal effects and then becomes sheathed in booming energy until the start of your next turn. If the target willingly moves 5 feet or more before then, the target takes 1d8 thunder damage, and the spell ends.
+
+**_At Higher Levels._** At 5th level, the melee attack deals an extra 1d8 thunder damage to the target on a hit, and the damage the target takes for moving increases to 2d8. Both damage rolls increase by 1d8 at 11th level (2d8 and 3d8) and again at 17th level (3d8 and 4d8).
+
+**_Spell Lists._** [Artificer](http://dnd5e.wikidot.com/spells:artificer), [Sorcerer (Optional)](http://dnd5e.wikidot.com/spells:sorcerer), [Warlock (Optional)](http://dnd5e.wikidot.com/spells:warlock), [Wizard (Optional)](http://dnd5e.wikidot.com/spells:wizard)
+
+#### Sword Burst
+_Conjuration cantrip_
+
+**Casting Time:** 1 action  
+**Range:** Self (5-foot radius)  
+**Components:** V  
+**Duration:** Instantaneous
+
+You create a momentary circle of spectral blades that sweep around you. All other creatures within 5 feet of you must succeed on a Dexterity saving throw or take 1d6 force damage.
+
+**_At Higher Levels._** This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+
+**_Spell Lists._** [Artificer](http://dnd5e.wikidot.com/spells:artificer), [Sorcerer (Optional)](http://dnd5e.wikidot.com/spells:sorcerer), [Warlock (Optional)](http://dnd5e.wikidot.com/spells:warlock), [Wizard (Optional)](http://dnd5e.wikidot.com/spells:wizard)
+
+### Level 1 Spells
 #### Burning Hands
 LEVEL 1st
 CASTING TIME: 1 Action
@@ -154,3 +178,18 @@ The fire ignites any flammable objects in the area that aren't being worn or car
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
   
+#### Silvery Barbs
+Source: Strixhaven: A Curriculum of Chaos
+
+_1st-level Enchantment_
+
+**Casting Time:** 1 reaction, which you take when a creature you can see within 60 feet of yourself succeeds on an attack roll, an ability check, or a saving throw  
+**Range:** 60 feet  
+**Components:** V  
+**Duration:** Instantaneous
+
+You magically distract the triggering creature and turn its momentary uncertainty into encouragement for another creature. The triggering creature must reroll the d20 and use the lower roll.
+
+You can then choose a different creature you can see within range (you can choose yourself). The chosen creature has advantage on the next attack roll, ability check, or saving throw it makes within 1 minute. A creature can be empowered by only one use of this spell at a time.
+
+**_Spell Lists._** [Bard](http://dnd5e.wikidot.com/spells:bard), [Sorcerer](http://dnd5e.wikidot.com/spells:sorcerer), [Wizard](http://dnd5e.wikidot.com/spells:wizard)
