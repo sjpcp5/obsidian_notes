@@ -128,3 +128,32 @@ speak
 **Challenge** 1/4 (50 XP)
 **Proficiency Bonus** +2
 
+## Other Spells
+#### Cantrips
+- Booming blades
+
+- Sword Burst
+
+#### Level 1 Spells
+- Burning Hands
+LEVEL 1st
+CASTING TIME: 1 Action
+RANGE/AREA: Self (15 ft )
+COMPONENTS: V, S
+DURATION: Instantaneous
+SCHOOL: Evocation
+
+ATTACK/SAVE
+
+DEX Save
+
+DAMAGE/EFFECT
+
+ Fire
+
+As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity saving throw. A creature takes 3d6 fire damage on a failed save, or half as much damage on a successful one.
+
+The fire ignites any flammable objects in the area that aren't being worn or carried.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+  
