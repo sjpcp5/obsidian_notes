@@ -2,10 +2,13 @@
 intelligence = 17 (+3)
 constitution = 16 (+3)
 health points = 65
+AC= 16 without shield
+AC= 20 with Shield
 
 fae infection 1 (got licked in the bad way)
-**current hit points = 59
-temporary hit points = 0**
+**current hit points = 45**
+**current AC= 19**
+**temporary hit points = 0**
 
 perception goes +1 as bonus from fae spores
 
@@ -135,21 +138,15 @@ speak
 - Sword Burst
 
 #### Level 1 Spells
-- Burning Hands
+#### Burning Hands
 LEVEL 1st
 CASTING TIME: 1 Action
 RANGE/AREA: Self (15 ft )
 COMPONENTS: V, S
 DURATION: Instantaneous
 SCHOOL: Evocation
-
-ATTACK/SAVE
-
-DEX Save
-
-DAMAGE/EFFECT
-
- Fire
+ATTACK/SAVE: DEX Save
+DAMAGE/EFFECT: Fire
 
 As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity saving throw. A creature takes 3d6 fire damage on a failed save, or half as much damage on a successful one.
 

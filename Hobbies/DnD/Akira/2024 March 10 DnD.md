@@ -27,3 +27,4 @@ Initiative: Fuquar, Akira, William, Mimic, Thrayriff
 Mimic is fire resistant, 7pts hand axe damage, 18pts of slash, 
 
 Akira receives: 11pts bite damage, 6pts acid damage (every 10pts of acid damage my Armor Capacity goes down 1)
+4 piercing (5pts of acid damage)

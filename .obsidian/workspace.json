@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hobbies/DnD/Akira/Akira Sheet.md",
+                "file": "Hobbies/DnD/Akira/2024 March 10 DnD.md",
                 "mode": "source",
                 "source": false
               }
@@ -28,8 +28,21 @@
                 "currentVersion": "1.5.8"
               }
             }
+          },
+          {
+            "id": "f21c9f20f92b924d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hobbies/DnD/Akira/Akira Sheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,7 +189,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd790c8280cec3de",
+  "active": "f21c9f20f92b924d",
   "lastOpenFiles": [
     "Hobbies/DnD/Akira/2024 March 10 DnD.md",
     "Hobbies/DnD/Akira/Akira Sheet.md",
