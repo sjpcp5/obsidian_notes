@@ -1,4 +1,4 @@
-
+strength = 20 (+5)
 intelligence = 17 (+3)
 constitution = 16 (+3)
 health points = 65
@@ -12,6 +12,7 @@ fae infection 1 (got licked in the bad way)
 
 perception goes +1 as bonus from fae spores
 
+### Skills
 Arcana = 6
 Athletics = 5
 History = 2
@@ -39,7 +40,7 @@ spell casting ability intelligence
 
 
 ### Successive rolls
-* 0 Perception rolls
+* 1 Perception rolls
 * 0 Arcana rolls
 * 2 Athletics 
 * 1 Survival
@@ -193,3 +194,23 @@ You magically distract the triggering creature and turn its momentary uncertaint
 You can then choose a different creature you can see within range (you can choose yourself). The chosen creature has advantage on the next attack roll, ability check, or saving throw it makes within 1 minute. A creature can be empowered by only one use of this spell at a time.
 
 **_Spell Lists._** [Bard](http://dnd5e.wikidot.com/spells:bard), [Sorcerer](http://dnd5e.wikidot.com/spells:sorcerer), [Wizard](http://dnd5e.wikidot.com/spells:wizard)
+
+#### Protection from Evil and Good
+LEVEL: 1st
+CASTING TIME: 1 Action
+RANGE/AREA: Touch
+COMPONENTS: V, S, M *
+DURATION: _Concentration_ 10 Minutes
+SCHOOL: Abjuration
+ATTACK/SAVE: None
+DAMAGE/EFFECT: Buff (...)
+
+Until the spell ends, one willing creature you touch is protected against certain types of creatures: aberrations, celestials, elementals, fey, fiends, and undead.
+
+The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can't be [charmed](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Charmed), [frightened](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Frightened), or possessed by them. If the target is already [charmed](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Charmed), [frightened](https://www.dndbeyond.com/compendium/rules/basic-rules/appendix-a-conditions#Frightened), or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.
+
+* - (holy water or powdered silver and iron, which the spell consumes)
+
+Spell Tags: BUFF DEBUFF WARDING
+
+Available For: CLERIC PALADIN WARLOCK WIZARD OATH OF DEVOTION
