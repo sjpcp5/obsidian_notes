@@ -41,7 +41,7 @@ spell casting ability intelligence
 * 2 Athletics 
 * 1 Survival
 * 1 Religion
-* 3 Investigation
+* 4 Investigation
 * 1 Persuasion
 ### Healing Potions
 * 2 | superior potion 6 d4 + 4

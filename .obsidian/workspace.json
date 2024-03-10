@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Care/Healing your Brain.md",
+                "file": "Hobbies/DnD/Akira/2024 March 10 DnD.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self Care/Healing your Brain.md",
+                "file": "Hobbies/DnD/Akira/2024 March 10 DnD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self Care/Healing your Brain.md",
+                "file": "Hobbies/DnD/Akira/2024 March 10 DnD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self Care/Healing your Brain.md"
+                "file": "Hobbies/DnD/Akira/2024 March 10 DnD.md"
               }
             }
           },
@@ -178,8 +178,12 @@
   },
   "active": "fd790c8280cec3de",
   "lastOpenFiles": [
-    "Self Care/Finances.md",
+    "Hobbies/DnD/Akira/Akira Sheet.md",
+    "Hobbies/DnD/Akira/2024 March 10 DnD.md",
+    "Hobbies/DnD/Akira/2024 Jan 28th DnD.md",
+    "Hobbies/DnD/Akira/2023 March 12th DnD Session.md",
     "Self Care/Healing your Brain.md",
+    "Self Care/Finances.md",
     "Technical/API/Building an E Commerce App with Microservices.md",
     "Pasted image 20240208182253.png",
     "Pasted image 20240208181938.png",
@@ -207,8 +211,6 @@
     "Technical/Javascript/2023 Jan 27 Javascript 30.md",
     "Technical/Javascript/2024 Jan 09 Javascript Conditional Operators.md",
     "Technical/RSI/Onboarding Josh Campbell.md",
-    "Hobbies/DnD/Akira/2024 Jan 28th DnD.md",
-    "Hobbies/DnD/Akira/Akira Sheet.md",
     "Hobbies/DnD/Akira/2023 December 10th DnD Session.md",
     "Hobbies/Vampire Coiterie/DarkAges527CE/Characters",
     "Hobbies/Vampire Coiterie/DarkAges527CE/Characters/Artemis",
@@ -218,8 +220,6 @@
     "Hobbies/Vampire Coiterie",
     "Untitled.md",
     "ReadonlyArray.md",
-    "().md",
-    "Technical/Training Plan meeting for IB.md",
     "Technical/Deno",
     "Hobbies/DnD/Machetyl"
   ]
