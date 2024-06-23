@@ -59,7 +59,7 @@ spell casting ability intelligence
 * 4 Investigation
 * 1 Persuasion
 ### Healing Potions
-* 2 | superior potion 6 d4 + 4
+* 2 | superior potion 6 d4 + 4 6+7+5 + 4= 4
 * 3 | greater potions 4 d4 + 4
 
 ### Special Items
