@@ -21,6 +21,13 @@ Scimitar - Defender
 Scimitar - Vorpal 
 Finger Gem Stone - implant into the finger to replace the bone. Poison Resistance. If implanted. 
 - strength -1 hit point until a lessor restoration is used. 
+Rod of Animal Friendship
+- use it as a focus for casting for animal friendship 1 min cast time to an action
+- 1 charge
+- recharges d2 -1 evens are 1s odds are 2
+-  If I have the spell animal friendship I can use the wand to focus the spell and it effects abominations and fey. You also don't loose the charge.
+
+
 
 Akira rolls a history check
 
