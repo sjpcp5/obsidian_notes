@@ -52,13 +52,13 @@ spell casting ability intelligence
 
 ### Successive rolls
 * 1 Perception rolls
-* 1 Arcana rolls
+* 2 Arcana rolls
 * 2 Athletics 
 * 1 Survival
 * 1 Religion
 * 4 Investigation
 * 1 Persuasion
-* 1 
+* 1 History
 ### Healing Potions
 * 1 | superior potion 6 d4 + 4 
 * 3 | greater potions 4 d4 + 4
@@ -72,6 +72,12 @@ spell casting ability intelligence
 * 1 | Platinum but paid to the guild with 2 copper left
 * 1 | monocle (Stolen)
 * 1 | tome memory and logic exercise intelligence 48 hrs intelligence goes +2 increase and increases the total to 22. It does not tingle with magical energy at the moment. Backstory he has read it twice. 
+
+### Languages 
+Draconic
+Elvish
+Giant
+Common Tongue
 
 ### Abilities
 - ###### Weapon Bond

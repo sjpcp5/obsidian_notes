@@ -3,7 +3,7 @@ Defeated flying sorcerer
 
 found 50 gold per a party member
 
-Wand of armor of Agithis - 5th level spell - how much damage it blocks
+Wand of Armor of Agithis - 5th level spell - how much damage it blocks
 Cloak of displacement - automatically dodge on turn
 ring of protection -
 Clay pot - remember seeing half eleven father carried with him at all times, molten bronze skin Plate. Armor - 18 AC, does not give disadvantage with stealth checks. Resistance to Fire. 
@@ -19,8 +19,12 @@ Marble - Mind Spike 5th level
 	- range 60 feet 
 Scimitar - Defender 
 Scimitar - Vorpal 
+Finger Gem Stone - implant into the finger to replace the bone. Poison Resistance. If implanted. 
+- strength -1 hit point until a lessor restoration is used. 
 
 Akira rolls a history check
+
+Something in the sorcerer finger bone
 
 
 
