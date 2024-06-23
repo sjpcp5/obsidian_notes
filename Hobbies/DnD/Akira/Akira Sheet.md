@@ -8,7 +8,7 @@ AC= 16 without shield
 AC= 20 with Shield
 
 Fae infection 1 (got licked in the bad way)
-**current hit points = 55**
+**current hit points = 39**
 **current AC= 19**
 **temporary hit points = 0**
 
