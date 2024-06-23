@@ -40,21 +40,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3247ae5e3ed57c71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hobbies/Ideas/Queer TV.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hobbies/Ideas/Queer TV.md",
+                "file": "Hobbies/DnD/Akira/Akira Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hobbies/Ideas/Queer TV.md",
+                "file": "Hobbies/DnD/Akira/Akira Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hobbies/Ideas/Queer TV.md"
+                "file": "Hobbies/DnD/Akira/Akira Sheet.md"
               }
             }
           },
@@ -201,10 +189,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3247ae5e3ed57c71",
+  "active": "f21c9f20f92b924d",
   "lastOpenFiles": [
-    "Hobbies/DnD/Akira/Akira Sheet.md",
     "Hobbies/Ideas/Queer TV.md",
+    "Hobbies/DnD/Akira/Akira Sheet.md",
     "Hobbies/Recipes/Recipe Short Bread.md",
     "Hobbies/Ideas",
     "Hobbies/Recipes",
