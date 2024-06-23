@@ -1,3 +1,5 @@
+
+Last updated ----- 2024-06-23
 strength = 20 (+5)
 intelligence = 17 (+3)
 constitution = 16 (+3)
@@ -5,12 +7,22 @@ health points = 65
 AC= 16 without shield
 AC= 20 with Shield
 
-fae infection 1 (got licked in the bad way)
+Fae infection 1 (got licked in the bad way)
 **current hit points = 55**
 **current AC= 19**
 **temporary hit points = 0**
 
-perception goes +1 as bonus from fae spores
+perception goes +1 as bonus from Fae spores
+
+Cantrips :
+Booming Blade
+Sword Burst
+
+Spell Slots: 3
+1 used
+Silvery Barbs
+Protection from Evil and Good
+Burning Hands
 
 ### Skills
 Arcana = 6
@@ -37,7 +49,6 @@ spell casting ability intelligence
 - 3 Intelligence 
 - 0 Wisdom
 - 0 Charisma
-
 
 ### Successive rolls
 * 1 Perception rolls
