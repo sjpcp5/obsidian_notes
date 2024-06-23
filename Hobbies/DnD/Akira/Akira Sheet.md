@@ -52,12 +52,13 @@ spell casting ability intelligence
 
 ### Successive rolls
 * 1 Perception rolls
-* 0 Arcana rolls
+* 1 Arcana rolls
 * 2 Athletics 
 * 1 Survival
 * 1 Religion
 * 4 Investigation
 * 1 Persuasion
+* 1 
 ### Healing Potions
 * 1 | superior potion 6 d4 + 4 
 * 3 | greater potions 4 d4 + 4

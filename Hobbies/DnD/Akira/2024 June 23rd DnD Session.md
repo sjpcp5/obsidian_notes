@@ -3,12 +3,24 @@ Defeated flying sorcerer
 
 found 50 gold per a party member
 
-wand of armor of agithis - 5th level spell - how much damage it blocks
-cloak of displacement - automatically dodge on turn
+Wand of armor of Agithis - 5th level spell - how much damage it blocks
+Cloak of displacement - automatically dodge on turn
 ring of protection -
-clay pot
-marbles - cure wounds 5th level spell 5d8 + 5 
+Clay pot - remember seeing half eleven father carried with him at all times, molten bronze skin Plate. Armor - 18 AC, does not give disadvantage with stealth checks. Resistance to Fire. 
+Marbles - cure wounds 5th level spell 5d8 + 5 
  - recharges at dawn - 3 charges
-Mar
+Marble - Hellish Rebuke 5th Level
+- spell DC 16 
+- 6 d10
+- range 60 feet
+Marble - Mind Spike 5th level 
+	- Spell 68 psychic damage,  
+	- wisdom save of 16, 
+	- range 60 feet 
+Scimitar - Defender 
+Scimitar - Vorpal 
+
+Akira rolls a history check
+
 
 
