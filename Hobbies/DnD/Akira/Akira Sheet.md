@@ -8,7 +8,7 @@ AC= 16 without shield
 AC= 20 with Shield
 
 Fae infection 1 (got licked in the bad way)
-**current hit points = 4**
+**current hit points = 26**
 **current AC= 19**
 **temporary hit points = 0**
 
@@ -59,7 +59,7 @@ spell casting ability intelligence
 * 4 Investigation
 * 1 Persuasion
 ### Healing Potions
-* 2 | superior potion 6 d4 + 4 6+7+5 + 4= 4
+* 1 | superior potion 6 d4 + 4 
 * 3 | greater potions 4 d4 + 4
 
 ### Special Items
