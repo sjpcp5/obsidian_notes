@@ -45,9 +45,11 @@
             "id": "3247ae5e3ed57c71",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "Hobbies/DnD/Akira/Akira Sheet.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -201,12 +203,15 @@
   },
   "active": "3247ae5e3ed57c71",
   "lastOpenFiles": [
+    "Hobbies/DnD/Akira/2024 June 23rd DnD Session.md",
     "Hobbies/DnD/Akira/2024 March 10 DnD.md",
+    "Self Care/Finances.md",
+    "Self Care/Jokes.md",
+    "Self Care/Healing your Brain.md",
+    "Self Care/Hair Cut and Style Ideas.md",
     "Hobbies/DnD/Akira/Akira Sheet.md",
     "Hobbies/DnD/Akira/2024 Jan 28th DnD.md",
     "Hobbies/DnD/Akira/2023 March 12th DnD Session.md",
-    "Self Care/Healing your Brain.md",
-    "Self Care/Finances.md",
     "Technical/API/Building an E Commerce App with Microservices.md",
     "Pasted image 20240208182253.png",
     "Pasted image 20240208181938.png",
@@ -219,14 +224,12 @@
     "Pasted image 20240208173351.png",
     "Technical/API/Microservice with NodeJS.md",
     "Technical/Node/Node JS uses 20230113.md",
-    "Self Care/Hair Cut and Style Ideas.md",
     "Pasted image 20240207234423.png",
     "Hobbies/Vampire Coiterie/DarkAges527CE/Characters/Hestia/Sired as a Vampire.md",
     "Hobbies/Vampire Coiterie/DarkAges527CE/Characters/Artemis/Artemis.md",
     "Hobbies/Vampire Coiterie/DarkAges527CE/Characters/Hestia/Hestia.md",
     "Technical/API/Building an API.md",
     "Technical/Azure/2023 Jan 24 Azure Introduction.md",
-    "Self Care/Jokes.md",
     "Technical/API",
     "Technical/Javascript/2023 Jan 19 Inheritance ES6 Javascript.md",
     "Technical/Javascript/2023 Jan 23 Creating a Data Service Class.md",
@@ -242,7 +245,6 @@
     "Hobbies/Vampire Coiterie/DarkAges527CE",
     "Hobbies/Vampire Coiterie",
     "Untitled.md",
-    "ReadonlyArray.md",
     "Technical/Deno",
     "Hobbies/DnD/Machetyl"
   ]
