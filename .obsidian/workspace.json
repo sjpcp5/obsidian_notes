@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hobbies/Recipe Short Bread.md",
+                "file": "Hobbies/Ideas/Queer TV.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hobbies/Recipe Short Bread.md",
+                "file": "Hobbies/Ideas/Queer TV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hobbies/Recipe Short Bread.md",
+                "file": "Hobbies/Ideas/Queer TV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hobbies/Recipe Short Bread.md"
+                "file": "Hobbies/Ideas/Queer TV.md"
               }
             }
           },
@@ -204,7 +204,10 @@
   "active": "3247ae5e3ed57c71",
   "lastOpenFiles": [
     "Hobbies/DnD/Akira/Akira Sheet.md",
-    "Hobbies/Recipe Short Bread.md",
+    "Hobbies/Ideas/Queer TV.md",
+    "Hobbies/Recipes/Recipe Short Bread.md",
+    "Hobbies/Ideas",
+    "Hobbies/Recipes",
     "Hobbies/DnD/Akira/2024 June 23rd DnD Session.md",
     "Hobbies/DnD/Akira/2024 March 10 DnD.md",
     "Self Care/Finances.md",
@@ -242,7 +245,6 @@
     "Hobbies/Vampire Coiterie/DarkAges527CE/Characters",
     "Hobbies/Vampire Coiterie/DarkAges527CE/Characters/Artemis",
     "Hobbies/Vampire Coiterie/DarkAges527CE/Characters/Hestia",
-    "README.md",
     "Hobbies/Vampire Coiterie/DarkAges527CE",
     "Hobbies/Vampire Coiterie",
     "Technical/Deno",
