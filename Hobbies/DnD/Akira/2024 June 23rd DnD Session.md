@@ -26,12 +26,16 @@ Rod of Animal Friendship
 - 1 charge
 - recharges d2 -1 evens are 1s odds are 2
 -  If I have the spell animal friendship I can use the wand to focus the spell and it effects abominations and fey. You also don't loose the charge.
+3 Pristine Displacer Beast skins for dispacer (enough for two cloaks),  worth 750 Gold each
+1 Moderate Skin (1 cloak)
+1 Poor Displacer Beast ( could resurrect )
+
+2 Blink dogs skins ( 1 cloak ) phase in and out ability, worth 750 gold? 
+
+Blink Dogs - Phase in and out
 
 
-
-Akira rolls a history check
-
-Something in the sorcerer finger bone
+8 hours of rest possible - ghost wise halfing only healer
 
 
 

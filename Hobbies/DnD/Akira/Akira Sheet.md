@@ -54,7 +54,7 @@ spell casting ability intelligence
 * 1 Perception rolls
 * 2 Arcana rolls
 * 2 Athletics 
-* 1 Survival
+* 5 Survival
 * 1 Religion
 * 4 Investigation
 * 1 Persuasion
