@@ -35,7 +35,8 @@ Rod of Animal Friendship
 Blink Dogs - Phase in and out
 
 
-8 hours of rest possible - ghost wise halfing only healer
+Possible 8 hours of rest possible - ghost wise half-ling, only healer
+10 mins cast as a ritual so we can rest 120 feet suitable shelter for companions in range. 
 
 
 
