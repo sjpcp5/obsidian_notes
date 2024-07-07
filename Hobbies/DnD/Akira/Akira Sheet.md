@@ -1,15 +1,15 @@
 
-Last updated ----- 2024-06-23
+Last updated ----- 2024-07-07
 strength = 20 (+5)
-intelligence = 17 (+3)
-constitution = 16 (+3)
-health points = 65
+intelligence = 18 (+4)
+constitution = 17 (+3)
+health points = 75
 AC= 16 without shield
 AC= 20 with Shield
 
 Fae infection 1 (got licked in the bad way)
-**current hit points = 12**
-**current AC= 19**
+**current hit points = 75**
+**current AC= 120**
 **temporary hit points = 0**
 
 perception goes +1 as bonus from Fae spores
