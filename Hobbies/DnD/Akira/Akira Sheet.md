@@ -19,7 +19,6 @@ Booming Blade
 Sword Burst
 
 Spell Slots: 3
-1 used
 Silvery Barbs
 Protection from Evil and Good
 Burning Hands

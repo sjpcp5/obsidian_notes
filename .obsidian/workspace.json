@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hobbies/DnD/Akira/2024 June 23rd DnD Session.md",
+                "file": "Hobbies/DnD/Akira/Akira Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hobbies/DnD/Akira/2024 June 23rd DnD Session.md",
+                "file": "Hobbies/DnD/Akira/Akira Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hobbies/DnD/Akira/2024 June 23rd DnD Session.md"
+                "file": "Hobbies/DnD/Akira/Akira Sheet.md"
               }
             }
           },
@@ -213,10 +213,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a305f28239d363b",
+  "active": "26e6649b3dbde55b",
   "lastOpenFiles": [
-    "Hobbies/DnD/Akira/Akira Sheet.md",
     "Hobbies/DnD/Akira/2024 June 23rd DnD Session.md",
+    "Hobbies/DnD/Akira/Akira Sheet.md",
     "Hobbies/DnD/Akira/2024 July 07 DnD Session.md",
     "Hobbies/Ideas/Queer TV.md",
     "Hobbies/Recipes/Recipe Short Bread.md",
