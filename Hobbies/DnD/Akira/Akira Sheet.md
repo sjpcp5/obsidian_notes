@@ -51,7 +51,7 @@ spell casting ability intelligence
 
 ### Successive rolls
 * 1 Perception rolls
-* 6 Arcana rolls
+* 3 Arcana rolls
 * 2 Athletics 
 * 5 Survival
 * 1 Religion
