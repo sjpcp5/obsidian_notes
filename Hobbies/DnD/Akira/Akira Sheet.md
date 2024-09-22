@@ -71,6 +71,7 @@ spell casting ability intelligence
 * 1 | Platinum but paid to the guild with 2 copper left
 * 1 | monocle (Stolen)
 * 1 | tome memory and logic exercise intelligence 48 hrs intelligence goes +2 increase and increases the total to 22. It does not tingle with magical energy at the moment. Backstory he has read it twice. 
+* 1 Leather bound Spellbook
 
 ### Languages 
 Draconic
